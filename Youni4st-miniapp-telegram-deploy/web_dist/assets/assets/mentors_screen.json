@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Алишер Рахимов",
+    "role": {"RU": "Senior Flutter Developer", "KZ": "Аға Flutter әзірлеушісі", "EN": "Senior Flutter Developer"},
+    "company": "EPAM Systems",
+    "experience": {"RU": "5 лет", "KZ": "5 жыл", "EN": "5 years"},
+    "price": {"RU": "Бесплатно (от школы)", "KZ": "Тегін (мектептен)", "EN": "Free (from school)"},
+    "description": {"RU": "Помогу разобраться с мобильной разработкой, составить план обучения и выбрать правильный курс.", "KZ": "Мобильді әзірлеуді түсінуге, оқу жоспарын құруға және дұрыс курсты таңдауға көмектесемін.", "EN": "I will help you understand mobile development, create a study plan, and choose the right course."},
+    "avatar_color": "0xFF0D1B3E"
+  },
+  {
+    "id": 2,
+    "name": "Динара Мусаева",
+    "role": {"RU": "Карьерный консультант", "KZ": "Мансап кеңесшісі", "EN": "Career Consultant"},
+    "company": "HR-агентство",
+    "experience": {"RU": "8 лет", "KZ": "8 жыл", "EN": "8 years"},
+    "price": {"RU": "Бесплатно (вводная)", "KZ": "Тегін (кіріспе)", "EN": "Free (introductory)"},
+    "description": {"RU": "Аудит резюме, подготовка к техническим и HR-собеседованиям. Помогаю студентам находить стажировки.", "KZ": "Түйіндемені тексеру, сұхбатқа дайындау. Студенттерге тағылымдама табуға көмектесемін.", "EN": "Resume audit, interview preparation. I help students find internships."},
+    "avatar_color": "0xFF4CAF50"
+  },
+  {
+    "id": 3,
+    "name": "Тимур Оспанов",
+    "role": {"RU": "Data Scientist", "KZ": "Data Scientist", "EN": "Data Scientist"},
+    "company": "Яндекс",
+    "experience": {"RU": "4 года", "KZ": "4 жыл", "EN": "4 years"},
+    "price": {"RU": "10 000 ₸ / созвон", "KZ": "10 000 ₸ / қоңырау", "EN": "10 000 ₸ / call"},
+    "description": {"RU": "Всё о машинном обучении и Python. Расскажу, какая математика реально нужна на старте.", "KZ": "Машиналық оқыту және Python туралы барлығы. Бастапқыда қандай математика қажет екенін айтамын.", "EN": "Everything about machine learning and Python. I'll tell you what math is actually needed."},
+    "avatar_color": "0xFFF57C00"
+  },
+  {
+    "id": 4,
+    "name": "Айгерим Нурланова",
+    "role": {"RU": "UX/UI Дизайнер", "KZ": "UX/UI Дизайнер", "EN": "UX/UI Designer"},
+    "company": "Kolesa Group",
+    "experience": {"RU": "6 лет", "KZ": "6 жыл", "EN": "6 years"},
+    "price": {"RU": "8 000 ₸ / созвон", "KZ": "8 000 ₸ / қоңырау", "EN": "8 000 ₸ / call"},
+    "description": {"RU": "Разбор портфолио, ревью работ в Figma. Помогу выбрать школу дизайна.", "KZ": "Портфолионы талдау, Figma-да жұмыстарды тексеру. Дизайн мектебін таңдауға көмектесемін.", "EN": "Portfolio review, Figma review. I'll help you choose a design school."},
+    "avatar_color": "0xFFE91E63"
+  },
+  {
+    "id": 5,
+    "name": "Максат Болатов",
+    "role": {"RU": "Продакт-менеджер", "KZ": "Продакт-менеджер", "EN": "Product Manager"},
+    "company": "Kaspi.kz",
+    "experience": {"RU": "5 лет", "KZ": "5 жыл", "EN": "5 years"},
+    "price": {"RU": "12 000 ₸ / созвон", "KZ": "12 000 ₸ / қоңырау", "EN": "12 000 ₸ / call"},
+    "description": {"RU": "Для тех, кто хочет управлять IT-продуктами. Разберем фреймворки и выбор профильного образования.", "KZ": "IT өнімдерін басқарғысы келетіндер үшін. Фреймворктерді және білім беруді таңдауды талдаймыз.", "EN": "For those who want to manage IT products. We'll analyze frameworks and education."},
+    "avatar_color": "0xFF0D1B3E"
+  },
+  {
+    "id": 6,
+    "name": "Елена Смирнова",
+    "role": {"RU": "Ментор по английскому", "KZ": "Ағылшын тілі тәлімгері", "EN": "English Mentor"},
+    "company": "SkyEng",
+    "experience": {"RU": "10 лет", "KZ": "10 жыл", "EN": "10 years"},
+    "price": {"RU": "Бесплатно (от школы)", "KZ": "Тегін (мектептен)", "EN": "Free (from school)"},
+    "description": {"RU": "Подготовка к IELTS и TOEFL для поступления. Оценка текущего уровня.", "KZ": "Оқуға түсу үшін IELTS және TOEFL-ге дайындық. Ағымдағы деңгейді бағалау.", "EN": "Preparation for IELTS and TOEFL. Current level assessment."},
+    "avatar_color": "0xFF4CAF50"
+  },
+  {
+    "id": 7,
+    "name": "Руслан Каримов",
+    "role": {"RU": "Backend Разработчик", "KZ": "Backend әзірлеуші", "EN": "Backend Developer"},
+    "company": "Chocofamily",
+    "experience": {"RU": "7 лет", "KZ": "7 жыл", "EN": "7 years"},
+    "price": {"RU": "15 000 ₸ / созвон", "KZ": "15 000 ₸ / қоңырау", "EN": "15 000 ₸ / call"},
+    "description": {"RU": "Архитектура баз данных, Python, FastAPI. Помогу со сложными домашними заданиями.", "KZ": "Деректер базасының архитектурасы, Python, FastAPI. Күрделі үй тапсырмаларына көмектесемін.", "EN": "Database architecture, Python, FastAPI. I'll help with complex assignments."},
+    "avatar_color": "0xFF9C27B0"
+  },
+  {
+    "id": 8,
+    "name": "Камила Талгатова",
+    "role": {"RU": "Эксперт по грантам", "KZ": "Гранттар бойынша сарапшы", "EN": "Grants Expert"},
+    "company": "EducationUSA",
+    "experience": {"RU": "3 года", "KZ": "3 жыл", "EN": "3 years"},
+    "price": {"RU": "Бесплатно (вводная)", "KZ": "Тегін (кіріспе)", "EN": "Free (introductory)"},
+    "description": {"RU": "Консультации по поступлению за рубеж. Написание мотивационных писем.", "KZ": "Шетелге оқуға түсу бойынша кеңес. Мотивациялық хаттар жазу.", "EN": "Consultations on admission abroad. Writing motivation letters."},
+    "avatar_color": "0xFF00BCD4"
+  },
+  {
+    "id": 9,
+    "name": "Данияр Исабеков",
+    "role": {"RU": "QA Engineer", "KZ": "QA Engineer", "EN": "QA Engineer"},
+    "company": "BTS Digital",
+    "experience": {"RU": "4 года", "KZ": "4 жыл", "EN": "4 years"},
+    "price": {"RU": "7 000 ₸ / созвон", "KZ": "7 000 ₸ / қоңырау", "EN": "7 000 ₸ / call"},
+    "description": {"RU": "Тестирование ПО. Расскажу, как быстро войти в IT через QA и где этому учиться.", "KZ": "БАҚ тестілеу. QA арқылы IT-ге қалай тез кіруге болатынын және қайда оқу керектігін айтамын.", "EN": "Software testing. I'll tell you how to quickly enter IT through QA."},
+    "avatar_color": "0xFF607D8B"
+  },
+  {
+    "id": 10,
+    "name": "Асель Омарова",
+    "role": {"RU": "HR-директор", "KZ": "HR-директор", "EN": "HR Director"},
+    "company": "MyHR",
+    "experience": {"RU": "12 лет", "KZ": "12 жыл", "EN": "12 years"},
+    "price": {"RU": "10 000 ₸ / созвон", "KZ": "10 000 ₸ / қоңырау", "EN": "10 000 ₸ / call"},
+    "description": {"RU": "Профориентация. Помогу понять, какая профессия подойдет именно вам.", "KZ": "Кәсіптік бағдарлау. Сізге қандай мамандық сәйкес келетінін түсінуге көмектесемін.", "EN": "Career guidance. I'll help you understand which profession suits you."},
+    "avatar_color": "0xFFF44336"
+  }
+]

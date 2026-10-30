@@ -1,0 +1,635 @@
+[
+  {
+    "category": "info",
+    "RU_title": "Стоимость IELTS",
+    "KZ_title": "IELTS құны",
+    "EN_title": "IELTS Cost",
+    "subtitle": {
+      "RU": "Стоимость от 105 000 ₸",
+      "KZ": "Құны 105 000 ₸-ден бастап",
+      "EN": "Cost from 105 000 ₸"
+    },
+    "updatedAt": "2026-05",
+    "prices": {
+      "academic_general": {
+        "amount": "105 000 ₸",
+        "RU": "IELTS Academic / General Training (бумага или компьютер)",
+        "KZ": "IELTS Academic / General Training (қағаз немесе компьютер)",
+        "EN": "IELTS Academic / General Training (paper or computer)"
+      },
+      "ukvi": {
+        "amount": "110 250 ₸",
+        "RU": "IELTS for UKVI (для визы и иммиграции в Великобританию)",
+        "KZ": "IELTS for UKVI (Ұлыбританияға виза және иммиграция үшін)",
+        "EN": "IELTS for UKVI (for UK visa and immigration)"
+      },
+      "life_skills": {
+        "amount": "87 400 ₸",
+        "RU": "IELTS Life Skills A1 / B1 (для подтверждения языкового уровня)",
+        "KZ": "IELTS Life Skills A1 / B1 (тіл деңгейін растау үшін)",
+        "EN": "IELTS Life Skills A1 / B1 (for language level confirmation)"
+      },
+      "one_skill_retake": {
+        "amount": "~40–50%",
+        "RU": "IELTS One Skill Retake — пересдача одной секции",
+        "KZ": "IELTS One Skill Retake — бір бөлімді қайта тапсыру",
+        "EN": "IELTS One Skill Retake — retake of one section"
+      }
+    },
+    "note": {
+      "RU": "Цены актуальны для Казахстана на 2026 год. Точную стоимость уточняйте в официальных центрах British Council или IDP.",
+      "KZ": "Бағалар 2026 жылғы Қазақстан үшін өзекті. Нақты құнды British Council немесе IDP ресми орталықтарынан анықтаңыз.",
+      "EN": "Prices are current for Kazakhstan in 2026. Confirm exact fees with official British Council or IDP centres."
+    }
+  },
+
+  {
+    "category": "news_2026",
+    "RU_title": "Новости IELTS 2026",
+    "KZ_title": "IELTS 2026 жаңалықтары",
+    "EN_title": "IELTS News 2026",
+    "items": [
+      {
+        "id": "news1",
+        "icon": "🖥️",
+        "tag": {
+          "RU": "Важно",
+          "KZ": "Маңызды",
+          "EN": "Important"
+        },
+        "title": {
+          "RU": "Бумажный формат IELTS уходит — переход на компьютер",
+          "KZ": "Қағаздық IELTS форматы кетеді — компьютерге көшу",
+          "EN": "Paper-based IELTS is being phased out — switching to computer"
+        },
+        "body": {
+          "RU": "С 27 июня 2026 года бумажный формат IELTS прекращается по всему миру. Все тесты будут проводиться исключительно на компьютере. Для IELTS for UKVI переход на компьютерный формат уже состоялся с 21 марта 2026 года. Компьютерный формат позволяет получить результаты в течение 1–2 рабочих дней вместо 13 дней.",
+          "KZ": "2026 жылдың 27 маусымынан бастап қағаздық IELTS форматы бүкіл әлемде тоқтатылады. Барлық тесттер тек компьютерде өткізіледі. IELTS for UKVI үшін компьютерлік форматқа көшу 2026 жылдың 21 наурызынан бастап жүзеге асты. Компьютерлік формат нәтижелерді 13 күн емес, 1–2 жұмыс күні ішінде алуға мүмкіндік береді.",
+          "EN": "From June 27, 2026, paper-based IELTS will be discontinued worldwide. All tests will be conducted on computer only. For IELTS for UKVI, the switch to computer-only format already happened on March 21, 2026. Computer format delivers results within 1–2 business days instead of 13 days."
+        }
+      },
+      {
+        "id": "news2",
+        "icon": "🔁",
+        "tag": {
+          "RU": "Новинка",
+          "KZ": "Жаңалық",
+          "EN": "New Feature"
+        },
+        "title": {
+          "RU": "One Skill Retake — пересдача одной секции без пересдачи всего экзамена",
+          "KZ": "One Skill Retake — бүкіл емтиханды қайта тапсырмай бір бөлімді қайта өту",
+          "EN": "One Skill Retake — retake one section without redoing the full exam"
+        },
+        "body": {
+          "RU": "В Казахстане доступна услуга IELTS One Skill Retake. Если вы не добрали баллы только в одной секции (Listening, Reading, Writing или Speaking), можно пересдать именно её в течение 60 дней после основного теста. Условия: экзамен должен быть сдан в компьютерном формате. После пересдачи вы получаете новый TRF с обновлённым баллом и сами выбираете, какой сертификат предъявить.",
+          "KZ": "Қазақстанда IELTS One Skill Retake қызметі қолжетімді. Егер сіз тек бір бөлімде (Listening, Reading, Writing немесе Speaking) жеткілікті балл жинамасаңыз, негізгі тесттен кейін 60 күн ішінде тек сол бөлімді қайта тапсыруға болады. Шарттар: емтихан компьютерлік форматта тапсырылуы керек. Қайта тапсырғаннан кейін жаңартылған баллы бар жаңа TRF аласыз және қай сертификатты ұсынатыныңызды өзіңіз таңдайсыз.",
+          "EN": "IELTS One Skill Retake is available in Kazakhstan. If you fell short in just one section (Listening, Reading, Writing, or Speaking), you can retake that section within 60 days of the original test. Requirements: the test must have been taken in computer-delivered format. After the retake, you receive a new TRF with the updated score and choose which certificate to submit."
+        }
+      },
+      {
+        "id": "news3",
+        "icon": "📹",
+        "tag": {
+          "RU": "Формат",
+          "KZ": "Формат",
+          "EN": "Format"
+        },
+        "title": {
+          "RU": "Video Call Speaking — устная часть через видеосвязь",
+          "KZ": "Video Call Speaking — бейнебайланыс арқылы ауызша бөлім",
+          "EN": "Video Call Speaking — speaking section via video call"
+        },
+        "body": {
+          "RU": "При регистрации можно выбрать формат Speaking: очный (в одной комнате с экзаменатором) или Video Call Speaking (VCS) — через защищённое видеосоединение онлайн. Содержание теста одинаково. VCS позволяет пройти устную часть дистанционно. Тестовый центр вправе изменить формат проведения.",
+          "KZ": "Тіркелу кезінде Speaking форматын таңдауға болады: бет-бетпе (экзаменатормен бір бөлмеде) немесе Video Call Speaking (VCS) — онлайн қорғалған бейнеқосылым арқылы. Тест мазмұны бірдей. VCS ауызша бөлімді қашықтықтан өтуге мүмкіндік береді. Тест орталығы формат өзгертуге құқылы.",
+          "EN": "When registering, you can choose the Speaking format: in-person (in the same room as the examiner) or Video Call Speaking (VCS) — via a secure online video connection. Test content is identical. VCS allows you to complete the speaking section remotely. The test centre may change the format."
+        }
+      }
+    ]
+  },
+
+  {
+    "category": "test_centers",
+    "RU_title": "Официальные тест-центры в Казахстане",
+    "KZ_title": "Қазақстандағы ресми тест орталықтары",
+    "EN_title": "Official Test Centres in Kazakhstan",
+    "centers": [
+      {
+        "name": "British Council Kazakhstan",
+        "cities": {
+          "RU": "Алматы, Астана",
+          "KZ": "Алматы, Астана",
+          "EN": "Almaty, Astana"
+        }, 
+        "contacts": {
+          "phone": "+7 (701) 300-67-80, +7 (701) 300-67-81",
+          "email": "exams@kz.britishcouncil.org",
+          "website": "https://kazakhstan.britishcouncil.org/exam/ielts"
+        },
+        "address": {
+          "RU": "Алматы и Астана — адреса уточнять на официальном сайте",
+          "KZ": "Алматы және Астана — нақты мекенжайды ресми сайттан анықтаңыз",
+          "EN": "Almaty and Astana — check official website for exact addresses"
+        }
+      },
+      {
+        "name": "IDP IELTS Kazakhstan",
+        "cities": {
+          "RU": "Алматы, Астана, Атырау, Актау, Актобе, Шымкент",
+          "KZ": "Алматы, Астана, Атырау, Ақтау, Ақтөбе, Шымкент",
+          "EN": "Almaty, Astana, Atyrau, Aktau, Aktobe, Shymkent"
+        },   
+        "contacts": {
+          "phone": "+7 (707) 364-92-01",
+          "email": "info1@ielts.kz",
+          "website": "https://ielts.kz/",
+          "hours": {
+            "RU": "Пн–Пт, 08:30–18:00",
+            "KZ": "Дс–Жм, 08:30–18:00",
+            "EN": "Mon–Fri, 08:30–18:00"
+          },   
+          "address": {
+            "RU": "Астана — ул. Кажымукана, 12А (4 этаж); Алматы — ул. Мынбаева, 46 (3 этаж, без лифта)",
+            "KZ": "Астана — Қажымұқан к., 12А (4 қабат); Алматы — Мыңбаева к., 46 (3 қабат, лифтсіз)",
+            "EN": "Astana — 12A Kazhymukana St (4th floor); Almaty — 46 Mynbaeva St (3rd floor, no elevator)"
+          }
+        }
+      }
+    ],
+    "registration_note": {
+      "RU": "Регистрация — только онлайн. После оплаты придёт подтверждение с датой и адресом. Рекомендуется бронировать заранее — места ограничены.",
+      "KZ": "Тіркелу — тек онлайн. Төлемнен кейін күні мен мекенжайы бар растау келеді. Алдын ала брондау ұсынылады — орындар шектеулі.",
+      "EN": "Registration is online only. After payment, a confirmation with date and address will be sent. Booking in advance is recommended — places are limited."
+    }
+  },
+
+  {
+    "category": "universities",
+    "RU_title": "Требования казахстанских вузов к IELTS",
+    "KZ_title": "Қазақстан университеттерінің IELTS талаптары",
+    "EN_title": "IELTS Requirements of Kazakhstani Universities",
+    "note": {
+      "RU": "Сертификат IELTS действителен 2 года. Результаты IELTS Online, IELTS Indicator и TOEFL iBT Home Edition большинством казахстанских вузов не принимаются.",
+      "KZ": "IELTS сертификаты 2 жыл жарамды. IELTS Online, IELTS Indicator және TOEFL iBT Home Edition нәтижелері Қазақстанның көпшілік университеттерінде қабылданбайды.",
+      "EN": "IELTS certificates are valid for 2 years. IELTS Online, IELTS Indicator, and TOEFL iBT Home Edition results are not accepted by most Kazakhstani universities."
+    },
+    "data": [
+      {
+        "uni": {
+          "RU": "Назарбаев Университет (NU)",
+          "KZ": "Назарбаев Университеті (NU)",
+          "EN": "Nazarbayev University (NU)"
+        },
+        "score": "Overall 6.0 (Writing min. 6.0)",
+        "deadline": {
+          "RU": "24 июля 2026 (для граждан РК)",
+          "KZ": "2026 жылдың 24 шілдесі (ҚР азаматтары үшін)",
+          "EN": "July 24, 2026 (for Kazakhstan citizens)"
+        },
+        "note": {
+          "RU": "Сертификат действителен на 1 августа 2026 г. Суперскоринг не применяется. Направлять через тест-центр с кодом NU.",
+          "KZ": "Сертификат 2026 жылдың 1 тамызынан бастап жарамды болуы керек. Суперскоринг қолданылмайды. NU кодымен тест орталығы арқылы жіберілуі керек.",
+          "EN": "Certificate must be valid as of August 1, 2026. Superscoring is not applied. Submit via test centre using the NU institution code."
+        }
+      },
+      {
+        "uni": {
+          "RU": "Astana IT University (AITU)",
+          "KZ": "Astana IT University (AITU)",
+          "EN": "Astana IT University (AITU)"
+        },
+        "score": "Overall 5.5",
+        "deadline": {
+          "RU": "Уточнять на сайте вуза",
+          "KZ": "Университеттің сайтынан нақтылаңыз",
+          "EN": "Check the university website"
+        },
+        "note": {
+          "RU": "Или внутренний экзамен по английскому языку при поступлении.",
+          "KZ": "Немесе қабылдау кезінде ішкі ағылшын тілі емтиханы.",
+          "EN": "Or an internal English proficiency exam at admission."
+        }
+      },
+      {
+        "uni": {
+          "RU": "Казахстанско-Британский Технический Университет (КБТУ)",
+          "KZ": "Қазақстан-Британ Техникалық Университеті (ҚБТУ)",
+          "EN": "Kazakh-British Technical University (KBTU)"
+        },
+        "score": "Overall 5.5",
+        "deadline": {
+          "RU": "Уточнять на сайте вуза",
+          "KZ": "Университеттің сайтынан нақтылаңыз",
+          "EN": "Check the university website"
+        },
+        "note": {
+          "RU": "Обучение на английском. Рекомендуется целевой балл 6.0+.",
+          "KZ": "Оқыту ағылшын тілінде. 6.0+ нысанды балл ұсынылады.",
+          "EN": "Instruction is in English. Target score of 6.0+ is recommended."
+        }
+      },
+      {
+        "uni": {
+          "RU": "СДУ (SDU University)",
+          "KZ": "СДУ (SDU University)",
+          "EN": "SDU University"
+        },
+        "score": "Overall 6.0",
+        "deadline": {
+          "RU": "25 августа (приём документов)",
+          "KZ": "25 тамыз (құжаттарды қабылдау)",
+          "EN": "August 25 (document submission)"
+        },
+        "note": {
+          "RU": "Допускается альтернатива — внутренний тест SDU CEC при поступлении.",
+          "KZ": "Балама ретінде қабылдау кезінде SDU CEC ішкі тесті рұқсат етіледі.",
+          "EN": "Alternatively, an internal SDU CEC placement test at admission is accepted."
+        }
+      },
+      {
+        "uni": {
+          "RU": "Университеты за рубежом (бакалавриат)",
+          "KZ": "Шетелдегі университеттер (бакалавриат)",
+          "EN": "Universities abroad (undergraduate)"
+        },
+        "score": "Overall 6.0–7.0+",
+        "deadline": {
+          "RU": "Зависит от страны и вуза",
+          "KZ": "Елге және университетке байланысты",
+          "EN": "Depends on country and university"
+        },
+        "note": {
+          "RU": "6.0 — базовый минимум для большинства программ; 6.5–7.0 — конкурентный уровень; топ-вузы Великобритании требуют 7.0–7.5 с минимумом 6.0–6.5 в каждой секции.",
+          "KZ": "6.0 — бағдарламалардың көпшілігі үшін базалық минимум; 6.5–7.0 — бәсекелестік деңгей; Ұлыбританияның үздік университеттері әр бөлімде 6.0–6.5 минимуммен 7.0–7.5 талап етеді.",
+          "EN": "6.0 is the baseline minimum for most programs; 6.5–7.0 is a competitive level; top UK universities require 7.0–7.5 with a per-section minimum of 6.0–6.5."
+        }
+      }
+    ]
+  },
+
+  {
+    "category": "exam_structure",
+    "RU_title": "Структура экзамена IELTS",
+    "KZ_title": "IELTS емтиханының құрылымы",
+    "EN_title": "IELTS Exam Structure",
+    "sections": [
+      {
+        "name": "Listening / 30 min + 10 min to transfer answers (paper) / 30 min (computer)",
+        "details": {
+          "RU": "4 части, 40 вопросов. Аудио воспроизводится один раз. Акценты: британский, австралийский, американский.",
+          "KZ": "4 бөлім, 40 сұрақ. Аудио бір рет ойнатылады. Акценттер: британдық, австралиялық, американдық.",
+          "EN": "4 parts, 40 questions. Audio played once. Accents: British, Australian, American."
+        }
+      },
+      {
+        "name": "Reading 60 min",
+        "details": {
+          "RU": "3 текста (Academic) или 3 раздела (General Training), 40 вопросов. Academic — академические тексты; General — объявления, инструкции, статьи.",
+          "KZ": "3 мәтін (Academic) немесе 3 бөлім (General Training), 40 сұрақ. Academic — академиялық мәтіндер; General — хабарландырулар, нұсқаулар, мақалалар.",
+          "EN": "3 texts (Academic) or 3 sections (General Training), 40 questions. Academic — academic texts; General — notices, instructions, articles."
+        }
+      },
+      {
+        "name": "Writing 60 min",
+        "details": {
+          "RU": "Task 1 (20 мин): описание графика/диаграммы (Academic) или письмо (General). Task 2 (40 мин): эссе. Writing — ключевая секция для вузовских требований.",
+          "KZ": "Task 1 (20 мин): кесте/диаграмманы сипаттау (Academic) немесе хат (General). Task 2 (40 мин): эссе. Writing — университет талаптары үшін негізгі бөлім.",
+          "EN": "Task 1 (20 min): describe a graph/chart (Academic) or write a letter (General). Task 2 (40 min): essay. Writing is the key section for university requirements."
+        }
+      },
+      {
+        "name": "Speaking 11-14 min",
+        "details": {
+          "RU": "3 части: представление (Part 1), монолог по теме (Part 2, 2 мин), дискуссия (Part 3). Проводится отдельно — до или после основного дня в пределах 7 дней.",
+          "KZ": "3 бөлім: таныстыру (Part 1), тақырып бойынша монолог (Part 2, 2 мин), пікірталас (Part 3). Бөлек өткізіледі — 7 күн ішінде негізгі күнге дейін немесе кейін.",
+          "EN": "3 parts: introduction (Part 1), topic monologue (Part 2, 2 min), discussion (Part 3). Held separately — before or after the main test day within 7 days."
+        }
+      }
+    ]
+  },
+
+  {
+    "category": "preparation_tips",
+    "RU_title": "Советы по подготовке к каждой секции",
+    "KZ_title": "Әр бөлімге дайындалу кеңестері",
+    "EN_title": "Preparation Tips for Each Section",
+    "tips": [
+      {
+        "section": "Listening",
+        "tips": {
+          "RU": [
+            "Слушайте английскую речь ежедневно: подкасты BBC, TED Talks, фильмы без субтитров.",
+            "Тренируйте одновременное прослушивание и запись — ключевой навык секции.",
+            "Обращайте внимание на различные акценты: британский, австралийский, американский.",
+            "Читайте вопросы до начала аудио — у вас есть время на подготовку.",
+            "Проверяйте правописание в ответах — ошибки снижают балл."
+          ],
+          "KZ": [
+            "Ағылшын тілінде күн сайын тыңдаңыз: BBC подкасттары, TED Talks, субтитрсіз фильмдер.",
+            "Тыңдау мен жазуды бір мезгілде жаттықтырыңыз — бөлімнің негізгі дағдысы.",
+            "Әртүрлі акценттерге назар аударыңыз: британдық, австралиялық, американдық.",
+            "Аудиодан бұрын сұрақтарды оқыңыз — дайындалуға уақытыңыз бар.",
+            "Жауаптардағы емлені тексеріңіз — қателер балды төмендетеді."
+          ],
+          "EN": [
+            "Listen to English daily: BBC podcasts, TED Talks, films without subtitles.",
+            "Practice listening and writing simultaneously — the key skill of this section.",
+            "Pay attention to different accents: British, Australian, American.",
+            "Read the questions before the audio starts — you have time to prepare.",
+            "Check spelling in your answers — errors reduce your score."
+          ]
+        }
+      },
+      {
+        "section": "Reading",
+        "tips": {
+          "RU": [
+            "Отрабатывайте технику skimming (беглое чтение) и scanning (поиск конкретной информации).",
+            "Не читайте текст полностью перед вопросами — сначала прочитайте вопрос, потом ищите ответ.",
+            "Следите за временем: ~20 минут на каждый текст.",
+            "Отвечайте на вопросы строго по информации в тексте, а не из личного опыта.",
+            "Слова True/False/Not Given: 'Not Given' означает, что информации в тексте нет."
+          ],
+          "KZ": [
+            "Skimming (жылдам оқу) және scanning (нақты ақпаратты іздеу) техникасын жаттықтырыңыз.",
+            "Сұрақтардан бұрын мәтінді толық оқымаңыз — алдымен сұрақты оқып, содан соң жауапты іздеңіз.",
+            "Уақытты бақылаңыз: әр мәтінге ~20 минут.",
+            "Сұрақтарға жеке тәжірибеден емес, тек мәтіндегі ақпарат бойынша жауап беріңіз.",
+            "True/False/Not Given: 'Not Given' мәтінде ақпарат жоқ дегенді білдіреді."
+          ],
+          "EN": [
+            "Practice skimming (quick reading) and scanning (searching for specific info) techniques.",
+            "Don't read the full text before questions — read the question first, then find the answer.",
+            "Manage your time: ~20 minutes per text.",
+            "Answer questions strictly based on information in the text, not personal experience.",
+            "True/False/Not Given: 'Not Given' means the information is simply absent from the text."
+          ]
+        }
+      },
+      {
+        "section": "Writing",
+        "tips": {
+          "RU": [
+            "Task 2 весит больше (двойная ценность) — уделите ему не менее 40 минут.",
+            "Структура эссе Band 7+: введение → два аргументных абзаца → заключение. Каждый абзац: утверждение → пояснение → пример.",
+            "Избегайте разговорных выражений и сокращений (it's, don't).",
+            "Task 1 Academic: опишите все ключевые тенденции, сравните показатели, добавьте обзорный вывод.",
+            "Проверяйте эссе за 3–5 минут до конца: ошибки в артиклях, временах, согласовании."
+          ],
+          "KZ": [
+            "Task 2 ауырлығы жоғары (екі есе құны) — оған кемінде 40 минут беріңіз.",
+            "Band 7+ эссе құрылымы: кіріспе → екі дәлелдеу абзацы → қорытынды. Әр абзац: тұжырым → түсіндірме → мысал.",
+            "Сөйлеу тіліндегі сөздер мен қысқартулардан аулақ болыңыз (it's, don't).",
+            "Task 1 Academic: негізгі үрдістерді сипаттаңыз, көрсеткіштерді салыстырыңыз, жалпы қорытынды қосыңыз.",
+            "Аяқталуға 3–5 минут қалғанда эссені тексеріңіз: артикльдер, шақтар, келісімдегі қателер."
+          ],
+          "EN": [
+            "Task 2 carries more weight (double value) — spend at least 40 minutes on it.",
+            "Band 7+ essay structure: introduction → two argument paragraphs → conclusion. Each paragraph: claim → explanation → example.",
+            "Avoid informal expressions and contractions (it's, don't).",
+            "Task 1 Academic: describe all key trends, compare figures, add an overview sentence.",
+            "Review your essay 3–5 minutes before the end: check articles, tenses, agreement errors."
+          ]
+        }
+      },
+      {
+        "section": "Speaking",
+        "tips": {
+          "RU": [
+            "Экзаменатор оценивает беглость, словарный запас, грамматику и произношение — не «правильность» ваших мыслей.",
+            "В Part 2 используйте всё отведённое время (1–2 минуты). Запишите ключевые слова во время подготовки.",
+            "Расширяйте ответы примерами и пояснениями, избегайте односложных да/нет.",
+            "Записывайте себя на видео и слушайте — это самый эффективный способ выявить слабые места.",
+            "Не пытайтесь говорить с «британским акцентом» — естественная речь ценится выше."
+          ],
+          "KZ": [
+            "Экзаменатор еркін сөйлеуді, сөздік қорды, грамматиканы және айтылуды бағалайды — ойларыңыздың 'дұрыстығын' емес.",
+            "Part 2-де бөлінген уақытты толық пайдаланыңыз (1–2 минут). Дайындық кезінде негізгі сөздерді жазып алыңыз.",
+            "Жауаптарды мысалдар мен түсіндірмелермен кеңейтіңіз, иә/жоқ деген бір буынды жауаптардан аулақ болыңыз.",
+            "Өзіңізді бейнеге жазып, тыңдаңыз — осы ең тиімді әлсіз жерлерді анықтау жолы.",
+            "'Британдық акцентпен' сөйлеуге тырыспаңыз — табиғи сөйлеу жоғары бағаланады."
+          ],
+          "EN": [
+            "The examiner assesses fluency, vocabulary, grammar, and pronunciation — not whether your opinions are 'correct'.",
+            "In Part 2, use all allocated time (1–2 minutes). Jot down key words during preparation time.",
+            "Extend your answers with examples and explanations; avoid one-word yes/no responses.",
+            "Record yourself on video and listen back — it is the most effective way to identify weaknesses.",
+            "Don't try to speak with a 'British accent' — natural, clear speech is valued more."
+          ]
+        }
+      }
+    ]
+  },
+
+  {
+    "category": "band_scores",
+    "RU_title": "Шкала баллов IELTS и что они означают",
+    "KZ_title": "IELTS баллдар шкаласы және олардың мағынасы",
+    "EN_title": "IELTS Band Score Scale and What They Mean",
+    "bands": [
+      {
+        "band": "9.0",
+        "label": { "RU": "Эксперт", "KZ": "Сарапшы", "EN": "Expert" },
+        "description": {
+          "RU": "Полное и точное владение языком.",
+          "KZ": "Тілді толық және дәл меңгеру.",
+          "EN": "Full operational command of the language."
+        }
+      },
+      {
+        "band": "8.0–8.5",
+        "label": { "RU": "Очень хороший", "KZ": "Өте жақсы", "EN": "Very Good" },
+        "description": {
+          "RU": "Редкие несистемные ошибки. Уровень для топ-вузов Великобритании и США.",
+          "KZ": "Сирек жүйесіз қателер. Ұлыбритания мен АҚШ-тың үздік университеттері деңгейі.",
+          "EN": "Rare unsystematic errors. Required by top UK and US universities."
+        }
+      },
+      {
+        "band": "7.0–7.5",
+        "label": { "RU": "Хороший", "KZ": "Жақсы", "EN": "Good" },
+        "description": {
+          "RU": "Уверенное владение языком. Конкурентный уровень для большинства зарубежных вузов.",
+          "KZ": "Тілді сенімді меңгеру. Шетелдегі көпшілік университеттер үшін бәсекеге қабілетті деңгей.",
+          "EN": "Confident command of the language. Competitive level for most foreign universities."
+        }
+      },
+      {
+        "band": "6.0–6.5",
+        "label": { "RU": "Компетентный", "KZ": "Құзыретті", "EN": "Competent" },
+        "description": {
+          "RU": "Достаточный уровень для поступления в казахстанские вузы и многие зарубежные. Требуется NU, КБТУ, СДУ.",
+          "KZ": "Қазақстандық және көптеген шетелдік университеттерге түсу үшін жеткілікті деңгей. NU, ҚБТУ, СДУ талап етеді.",
+          "EN": "Sufficient level for admission to Kazakhstani universities and many abroad. Required by NU, KBTU, SDU."
+        }
+      },
+      {
+        "band": "5.0–5.5",
+        "label": { "RU": "Скромный", "KZ": "Қанағаттанарлық", "EN": "Modest" },
+        "description": {
+          "RU": "Базовый минимум для ряда казахстанских вузов (AITU, КБТУ).",
+          "KZ": "Кейбір қазақстандық университеттер (AITU, ҚБТУ) үшін базалық минимум.",
+          "EN": "Base minimum for some Kazakhstani universities (AITU, KBTU)."
+        }
+      }
+    ]
+  },
+
+  {
+    "category": "materials",
+    "RU_title": "Учебные материалы и ресурсы",
+    "KZ_title": "Оқу материалдары мен ресурстары",
+    "EN_title": "Study Materials and Resources",
+    "data": [
+      {
+        "title": {
+          "RU": "Гайд по IELTS Speaking",
+          "KZ": "IELTS Speaking нұсқаулығы",
+          "EN": "Complete Guide to IELTS Speaking"
+        },
+        "subtitle": {
+          "RU": "Уровень: Intermediate (B1–B2)",
+          "KZ": "Деңгей: Intermediate (B1–B2)",
+          "EN": "Level: Intermediate (B1–B2)"
+        },
+        "type": "guide"
+      },
+      {
+        "title": {
+          "RU": "Шаблоны для Writing Task 2",
+          "KZ": "Writing Task 2 үлгілері",
+          "EN": "Writing Task 2 Templates"
+        },
+        "subtitle": {
+          "RU": "Структура эссе на Band 7.0+",
+          "KZ": "Band 7.0+ эссе құрылымы",
+          "EN": "Essay structure for Band 7.0+"
+        },
+        "type": "template"
+      },
+      {
+        "title": {
+          "RU": "Официальные практические тесты IELTS",
+          "KZ": "Ресми IELTS практикалық тесттер",
+          "EN": "Official IELTS Practice Tests"
+        },
+        "subtitle": {
+          "RU": "Бесплатно на сайте ielts.org и в приложении IDP IELTS",
+          "KZ": "ielts.org сайтында және IDP IELTS қосымшасында тегін",
+          "EN": "Free at ielts.org and in the IDP IELTS app"
+        },
+        "type": "practice",
+        "link": "https://ielts.org/take-a-test/preparation-resources"
+      },
+      {
+        "title": {
+          "RU": "Cambridge IELTS (серия учебников 1–18)",
+          "KZ": "Cambridge IELTS (1–18 оқулықтар сериясы)",
+          "EN": "Cambridge IELTS (book series 1–18)"
+        },
+        "subtitle": {
+          "RU": "Официальные материалы от Cambridge. Книги 14–18 — наиболее актуальные.",
+          "KZ": "Cambridge-тен ресми материалдар. 14–18 кітаптар — ең өзекті.",
+          "EN": "Official materials from Cambridge. Books 14–18 are the most current."
+        },
+        "type": "book"
+      },
+      {
+        "title": {
+          "RU": "IELTS Masterclass (бесплатные семинары IDP)",
+          "KZ": "IELTS Masterclass (IDP тегін семинарлары)",
+          "EN": "IELTS Masterclass (free IDP seminars)"
+        },
+        "subtitle": {
+          "RU": "Советы экспертов, разбор типичных ошибок, стратегии управления временем.",
+          "KZ": "Сарапшылардың кеңестері, типтік қателерді талдау, уақытты басқару стратегиялары.",
+          "EN": "Expert tips, common error analysis, and time management strategies."
+        },
+        "type": "seminar",
+        "link": "https://ielts.idp.com/kazakhstan"
+      }
+    ]
+  },
+
+  {
+    "category": "faq",
+    "RU_title": "Часто задаваемые вопросы",
+    "KZ_title": "Жиі қойылатын сұрақтар",
+    "EN_title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": {
+          "RU": "Сколько раз можно сдавать IELTS?",
+          "KZ": "IELTS-ті қанша рет тапсыруға болады?",
+          "EN": "How many times can I take IELTS?"
+        },
+        "a": {
+          "RU": "Неограниченное количество раз. Стоимость каждой пересдачи такая же, как и первичной регистрации. При наличии One Skill Retake можно пересдать одну секцию дешевле в течение 60 дней.",
+          "KZ": "Шектеусіз рет тапсыруға болады. Әр қайта тапсырудың құны бастапқы тіркелгендей. One Skill Retake арқылы 60 күн ішінде бір бөлімді арзанырақ қайта тапсыруға болады.",
+          "EN": "An unlimited number of times. The fee for each retake is the same as initial registration. With One Skill Retake, you can retake one section cheaper within 60 days."
+        }
+      },
+      {
+        "q": {
+          "RU": "Когда действуют результаты IELTS?",
+          "KZ": "IELTS нәтижелері қашанға дейін жарамды?",
+          "EN": "How long are IELTS results valid?"
+        },
+        "a": {
+          "RU": "2 года с даты сдачи. После этого большинство вузов и иммиграционных программ не принимают сертификат.",
+          "KZ": "Тапсыру күнінен бастап 2 жыл. Осыдан кейін университеттердің және иммиграция бағдарламаларының көпшілігі сертификатты қабылдамайды.",
+          "EN": "2 years from the test date. After that, most universities and immigration programs will not accept the certificate."
+        }
+      },
+      {
+        "q": {
+          "RU": "Academic или General Training — что выбрать?",
+          "KZ": "Academic немесе General Training — не таңдауға болады?",
+          "EN": "Academic or General Training — which to choose?"
+        },
+        "a": {
+          "RU": "Academic — для поступления в вузы (бакалавриат, магистратура, докторантура) и на профессиональные программы. General Training — для иммиграции и работы. Если цель — университет, выбирайте Academic.",
+          "KZ": "Academic — университеттерге (бакалавриат, магистратура, докторантура) және кәсіби бағдарламаларға түсу үшін. General Training — иммиграция және жұмыс үшін. Мақсатыңыз университет болса, Academic-ті таңдаңыз.",
+          "EN": "Academic — for university admission (undergraduate, master's, PhD) and professional programs. General Training — for immigration and work. If your goal is university, choose Academic."
+        }
+      },
+      {
+        "q": {
+          "RU": "Когда доступны результаты экзамена?",
+          "KZ": "Емтихан нәтижелері қашан қолжетімді?",
+          "EN": "When are exam results available?"
+        },
+        "a": {
+          "RU": "Компьютерный формат: 1–2 рабочих дня. Бумажный формат: до 13 дней. Результаты публикуются на онлайн-портале.",
+          "KZ": "Компьютерлік формат: 1–2 жұмыс күні. Қағаздық формат: 13 күнге дейін. Нәтижелер онлайн-порталда жарияланады.",
+          "EN": "Computer format: 1–2 business days. Paper format: up to 13 days. Results are published on the online portal."
+        }
+      },
+      {
+        "q": {
+          "RU": "Можно ли перенести или отменить регистрацию?",
+          "KZ": "Тіркелуді ауыстыруға немесе бас тартуға болады ма?",
+          "EN": "Can I reschedule or cancel my registration?"
+        },
+        "a": {
+          "RU": "Да, но с учётом условий центра. Как правило, возможен перенос даты за 5+ недель до экзамена. Отмена с частичным возвратом средств — за 5 и более недель. Уточняйте в конкретном центре.",
+          "KZ": "Иә, бірақ орталықтың шарттарын ескере отырып. Әдетте, емтиханнан 5+ апта бұрын күнді ауыстыруға болады. 5+ апта бұрын ішінара қаражатты қайтарумен бас тарту. Нақты орталықтан анықтаңыз.",
+          "EN": "Yes, subject to the centre's conditions. Generally, rescheduling is possible 5+ weeks before the exam. Cancellation with partial refund — 5 or more weeks before. Confirm with the specific centre."
+        }
+      },
+      {
+        "q": {
+          "RU": "Принимается ли IELTS Online?",
+          "KZ": "IELTS Online қабылдана ма?",
+          "EN": "Is IELTS Online accepted?"
+        },
+        "a": {
+          "RU": "Нет. Казахстанские университеты (включая NU, КБТУ, СДУ) и большинство зарубежных вузов не принимают IELTS Online, IELTS Indicator, TOEFL iBT Home Edition и TOEFL PDT. Сдавайте только в официальном тест-центре.",
+          "KZ": "Жоқ. Қазақстандық университеттер (NU, ҚБТУ, СДУ қоса алғанда) және шетелдегі университеттердің көпшілігі IELTS Online, IELTS Indicator, TOEFL iBT Home Edition және TOEFL PDT-ті қабылдамайды. Тек ресми тест орталығында тапсырыңыз.",
+          "EN": "No. Kazakhstani universities (including NU, KBTU, SDU) and most foreign universities do not accept IELTS Online, IELTS Indicator, TOEFL iBT Home Edition, or TOEFL PDT. Only take the exam at an official test centre."
+        }
+      }
+    ]
+  }
+]

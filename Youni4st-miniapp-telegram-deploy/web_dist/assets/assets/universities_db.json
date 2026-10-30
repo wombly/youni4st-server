@@ -1,0 +1,1861 @@
+[
+    {
+        "name": { "RU": "Astana IT University", "KZ": "Астана IT Университеті", "EN": "Astana IT University" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_it",
+        "category": { "RU": "IT и Программирование", "KZ": "IT және Бағдарламалау", "EN": "IT & Programming" },
+        "min_score": 95,
+        "price": "1 725 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Astana IT University (AITU) — Передовой цифровой вуз Казахстана, созданный для подготовки высококвалифицированных IT-специалистов. Обучение ведется полностью на английском языке с упором на практические навыки, инновации и тесное сотрудничество с мировыми технологическими корпорациями.",
+            "KZ": "Astana IT University (AITU) – Жоғары білікті IT-мамандарын даярлауға арналған Қазақстанның озық цифрлық жоғары оқу орны. Оқыту толығымен ағылшын тілінде жүргізіледі және практикалық дағдыларға, инновацияларға және әлемдік технологиялық корпорациялармен тығыз ынтымақтастыққа баса назар аударылады.",
+            "EN": "Astana IT University (AITU) Is Kazakhstan's premier digital university, designed to train highly qualified IT professionals. Instruction is entirely in English, focusing on practical skills, innovation, and close collaboration with global technological corporations."
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_astana_it_university.png",
+        "specialties": [
+            {
+                "name": { "RU": "Программная инженерия", "KZ": "Бағдарламалық инженерия", "EN": "Software Engineering" },
+                "desc": { "RU": "Разработка, архитектура и тестирование сложного программного обеспечения и веб-систем.", "KZ": "Күрделі бағдарламалық жасақтама мен веб-жүйелерді әзірлеу, архитектурасы және тестілеу.", "EN": "Development, architecture, and testing of complex software and web systems." }
+            },
+            {
+                "name": { "RU": "Кибербезопасность", "KZ": "Киберқауіпсіздік", "EN": "Cybersecurity" },
+                "desc": { "RU": "Защита данных, криптография и предотвращение кибератак в корпоративных сетях.", "KZ": "Корпоративтік желілердегі деректерді қорғау, криптография және кибершабуылдардың алдын алу.", "EN": "Data protection, cryptography, and prevention of cyberattacks in corporate networks." }
+            },
+            {
+                "name": { "RU": "Анализ больших данных", "KZ": "Үлкен деректерді талдау", "EN": "Big Data Analysis" },
+                "desc": { "RU": "Работа с массивами данных, машинное обучение и построение предиктивных моделей.", "KZ": "Деректер массивтерімен жұмыс, машиналық оқыту және предиктивті модельдер құру.", "EN": "Working with datasets, machine learning, and building predictive models." }
+            },
+            {
+                "name": { "RU": "IT Менеджмент", "KZ": "IT Менеджмент", "EN": "IT Management" },
+                "desc": { "RU": "Управление IT-проектами, agile-методологии и продуктовая разработка.", "KZ": "IT-жобаларды басқару, agile-әдіснамалар және өнімді әзірлеу.", "EN": "IT project management, agile methodologies, and product development." }
+            },
+            {
+                "name": { "RU": "Медиа технологии", "KZ": "Медиа технологиялар", "EN": "Media Technologies" },
+                "desc": { "RU": "Цифровой дизайн, UI/UX, 3D-моделирование и создание интерактивного контента.", "KZ": "Цифрлық дизайн, UI/UX, 3D-модельдеу және интерактивті контент жасау.", "EN": "Digital design, UI/UX, 3D modeling, and interactive content creation." }
+            },
+            {
+                "name": { "RU": "Телекоммуникационные системы", "KZ": "Телекоммуникациялық жүйелер", "EN": "Telecommunication Systems" },
+                "desc": { "RU": "Проектирование сетей связи 5G/6G, интернет вещей (IoT) и облачные технологии.", "KZ": "5G/6G байланыс желілерін, заттар интернетін (IoT) және бұлтты технологияларды жобалау.", "EN": "Designing 5G/6G communication networks, Internet of Things (IoT), and cloud technologies." }
+            },
+            {
+                "name": { "RU": "Промышленная автоматизация", "KZ": "Өнеркәсіптік автоматтандыру", "EN": "Industrial Automation" },
+                "desc": { "RU": "Программирование микроконтроллеров, робототехника и 'умное' производство.", "KZ": "Микроконтроллерлерді бағдарламалау, робототехника және 'ақылды' өндіріс.", "EN": "Microcontroller programming, robotics, and 'smart' manufacturing." }
+            },
+            {
+                "name": { "RU": "Цифровая журналистика", "KZ": "Цифрлық журналистика", "EN": "Digital Journalism" },
+                "desc": { "RU": "Создание контента для новых медиа, SMM, аналитика данных в СМИ.", "KZ": "Жаңа медиа үшін контент жасау, SMM, БАҚ-тағы деректер аналитикасы.", "EN": "Content creation for new media, SMM, data analytics in mass media." }
+            },
+            {
+                "name": { "RU": "Искусственный интеллект", "KZ": "Жасанды интеллект", "EN": "Artificial Intelligence" },
+                "desc": { "RU": "Разработка нейросетей, компьютерное зрение и NLP для бизнеса.", "KZ": "Нейрондық желілерді, компьютерлік көруді және бизнес үшін NLP әзірлеу.", "EN": "Development of neural networks, computer vision, and NLP for business." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "МУИТ (IITU)", "KZ": "ХААТУ (IITU)", "EN": "International Information Technology University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_it",
+        "category": { "RU": "IT и Программирование", "KZ": "IT және Бағдарламалау", "EN": "IT & Programming" },
+        "min_score": 90,
+        "price": "1 495 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+        "RU": "МУИТ выступает ключевым драйвером развития цифровой экономики, предлагая студентам практический опыт работы с облачными технологиями и нейросетями. Университет формирует профессиональное сообщество разработчиков, способных решать глобальные технологические вызовы современности.",
+        "KZ": "ХААТУ — студенттерге бұлтты технологиялармен және нейрондық желілермен жұмыс істеудің практикалық тәжірибесін ұсынатын цифрлық экономиканы дамытудың негізгі драйвері. Университет заманауи жаһандық технологиялық сын-қатерлерді шеше алатын әзірлеушілердің кәсіби қоғамдастығын қалыптастырады.",
+        "EN": "IITU serves as a key driver for digital economy development, offering students hands-on experience with cloud technologies and neural networks. The university builds a professional community of developers capable of solving global modern technological challenges."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxC9cFtTsa5Aej1Ktr-Wm08SXz6y7Ql7BHhg&s",
+        "specialties": [
+            {
+                "name": { "RU": "Компьютерные науки", "KZ": "Компьютерлік ғылымдар", "EN": "Computer Science" },
+                "desc": { "RU": "Фундаментальное программирование, алгоритмы, ИИ и архитектура вычислительных систем.", "KZ": "Фундаменталды бағдарламалау, алгоритмдер, ЖИ және есептеу жүйелерінің сәулеті.", "EN": "Fundamental programming, algorithms, AI, and architecture of computing systems." }
+            },
+            {
+                "name": { "RU": "Программная инженерия", "KZ": "Бағдарламалық инженерия", "EN": "Software Engineering" },
+                "desc": { "RU": "Управление жизненным циклом ПО, системный анализ и DevOps практики.", "KZ": "БЖ өмірлік циклін басқару, жүйелік талдау және DevOps тәжірибелері.", "EN": "Software lifecycle management, systems analysis, and DevOps practices." }
+            },
+            {
+                "name": { "RU": "Информационные системы", "KZ": "Ақпараттық жүйелер", "EN": "Information Systems" },
+                "desc": { "RU": "Проектирование корпоративных баз данных, ERP-систем и облачных решений.", "KZ": "Корпоративтік дерекқорларды, ERP-жүйелерді және бұлтты шешімдерді жобалау.", "EN": "Designing corporate databases, ERP systems, and cloud solutions." }
+            },
+            {
+                "name": { "RU": "Кибербезопасность", "KZ": "Киберқауіпсіздік", "EN": "Cybersecurity" },
+                "desc": { "RU": "Аудит безопасности, этичный хакинг и защита критической информационной инфраструктуры.", "KZ": "Қауіпсіздік аудиті, этикалық хакинг және маңызды ақпараттық инфрақұрылымды қорғау.", "EN": "Security auditing, ethical hacking, and protection of critical information infrastructure." }
+            },
+            {
+                "name": { "RU": "Радиотехника и электроника", "KZ": "Радиотехника және электроника", "EN": "Radio Engineering and Electronics" },
+                "desc": { "RU": "Микроэлектроника, проектирование плат и беспроводные системы связи.", "KZ": "Микроэлектроника, платаларды жобалау және сымсыз байланыс жүйелері.", "EN": "Microelectronics, PCB design, and wireless communication systems." }
+            },
+            {
+                "name": { "RU": "Электронная коммерция", "KZ": "Электрондық коммерция", "EN": "E-Commerce" },
+                "desc": { "RU": "Цифровой маркетинг, управление онлайн-бизнесом и FinTech решения.", "KZ": "Цифрлық маркетинг, онлайн-бизнесті басқару және FinTech шешімдері.", "EN": "Digital marketing, online business management, and FinTech solutions." }
+            },
+            {
+                "name": { "RU": "Математическое моделирование", "KZ": "Математикалық модельдеу", "EN": "Mathematical Modeling" },
+                "desc": { "RU": "Прикладная математика для решения сложных инженерных и бизнес-задач.", "KZ": "Күрделі инженерлік және бизнес міндеттерді шешуге арналған қолданбалы математика.", "EN": "Applied mathematics for solving complex engineering and business problems." }
+            },
+            {
+                "name": { "RU": "Облачные технологии и DevOps", "KZ": "Бұлтты технологиялар және DevOps", "EN": "Cloud Technologies and DevOps" },
+                "desc": { "RU": "Автоматизация развертывания, Kubernetes, CI/CD и облачная архитектура.", "KZ": "Орналастыруды автоматтандыру, Kubernetes, CI/CD және бұлтты сәулет.", "EN": "Deployment automation, Kubernetes, CI/CD, and cloud architecture." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КБТУ", "KZ": "ҚБТУ", "EN": "KBTU" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 105,
+        "price": "2 530 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Казахстанско-Британский технический университет — один из самых престижных технических вузов Центральной Азии. Специализируется на подготовке лидеров для нефтегазового, IT и финансового секторов. Дипломы КБТУ признаются ведущими британскими и международными институтами.",
+            "KZ": "Қазақстан-Британ техникалық университеті — Орталық Азиядағы ең беделді техникалық жоғары оқу орындарының бірі. Мұнай-газ, IT және қаржы секторлары үшін көшбасшыларды даярлауға маманданған. ҚБТУ дипломдары жетекші британдық және халықаралық институттармен танылады.",
+            "EN": "Kazakh-British Technical University is one of the most prestigious technical universities in Central Asia. It specializes in training leaders for the oil & gas, IT, and financial sectors. KBTU degrees are recognized by leading British and international institutions."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-31_DnKWBfzNMx_fxQ3XZopXy2_8T_bFr7Q&s",
+        "specialties": [
+            {
+                "name": { "RU": "Информационные системы", "KZ": "Ақпараттық жүйелер", "EN": "Information Systems" },
+                "desc": { "RU": "Проектирование высоконагруженных баз данных и систем искусственного интеллекта.", "KZ": "Жоғары жүктемелі дерекқорларды және жасанды интеллект жүйелерін жобалау.", "EN": "Designing high-load databases and artificial intelligence systems." }
+            },
+            {
+                "name": { "RU": "Автоматизация и управление", "KZ": "Автоматтандыру және басқару", "EN": "Automation and Control" },
+                "desc": { "RU": "Индустрия 4.0, робототехника и АСУ ТП для нефтегазового сектора.", "KZ": "Индустрия 4.0, робототехника және мұнай-газ секторына арналған АБЖ.", "EN": "Industry 4.0, robotics, and industrial control systems for the oil and gas sector." }
+            },
+            {
+                "name": { "RU": "Нефтегазовое дело", "KZ": "Мұнай-газ ісі", "EN": "Oil and Gas Engineering" },
+                "desc": { "RU": "Бурение, разработка шельфовых месторождений и эксплуатация скважин.", "KZ": "Бұрғылау, қайраңдық кен орындарын игеру және ұңғымаларды пайдалану.", "EN": "Drilling, offshore field development, and well operation." }
+            },
+            {
+                "name": { "RU": "Химическая инженерия", "KZ": "Химиялық инженерия", "EN": "Chemical Engineering" },
+                "desc": { "RU": "Нефтехимия, переработка органических веществ и синтез новых материалов.", "KZ": "Мұнай химиясы, органикалық заттарды өңдеу және жаңа материалдарды синтездеу.", "EN": "Petrochemicals, organic matter processing, and synthesis of new materials." }
+            },
+            {
+                "name": { "RU": "Геология и разведка", "KZ": "Геология және барлау", "EN": "Geology and Exploration" },
+                "desc": { "RU": "Сейсморазведка, геофизика и 3D-моделирование пластов полезных ископаемых.", "KZ": "Сейсмикалық барлау, геофизика және пайдалы қазбалар қабаттарын 3D-модельдеу.", "EN": "Seismic exploration, geophysics, and 3D modeling of mineral reservoirs." }
+            },
+            {
+                "name": { "RU": "Морская техника и технологии", "KZ": "Теңіз техникасы және технологиялары", "EN": "Marine Engineering and Technology" },
+                "desc": { "RU": "Управление морскими судами и логистика на Каспии.", "KZ": "Теңіз кемелерін басқару және Каспийдегі логистика.", "EN": "Marine vessel management and logistics in the Caspian Sea." }
+            },
+            {
+                "name": { "RU": "Финансы", "KZ": "Қаржы", "EN": "Finance" },
+                "desc": { "RU": "Корпоративные финансы, инвестиционный банкинг и финансовая аналитика (ACCA).", "KZ": "Корпоративтік қаржы, инвестициялық банкинг және қаржылық аналитика (ACCA).", "EN": "Corporate finance, investment banking, and financial analytics (ACCA)." }
+            },
+            {
+                "name": { "RU": "Менеджмент", "KZ": "Менеджмент", "EN": "Management" },
+                "desc": { "RU": "Стратегическое управление бизнесом и лидерство в технологических компаниях.", "KZ": "Бизнесті стратегиялық басқару және технологиялық компаниялардағы көшбасшылық.", "EN": "Strategic business management and leadership in technology companies." }
+            },
+            {
+                "name": { "RU": "Устойчивая энергетика", "KZ": "Тұрақты энергетика", "EN": "Sustainable Energy" },
+                "desc": { "RU": "Возобновляемые источники энергии, энергоэффективность и управление электросетями.", "KZ": "Жаңартылатын энергия көздері, энергия тиімділігі және электр желілерін басқару.", "EN": "Renewable energy, energy efficiency, and grid management." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "СДУ (SDU University)", "KZ": "СДУ (SDU University)", "EN": "SDU University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Каскелен", "KZ": "Қаскелең", "EN": "Kaskelen" },
+        "category_key": "field_it",
+        "category": { "RU": "IT и Программирование", "KZ": "IT және Бағдарламалау", "EN": "IT & Programming" },
+        "min_score": 95,
+        "price": "1 667 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "SDU University — современный университет, расположенный в просторном смарт-кампусе. Вуз отличается сильным англоязычным сообществом, высоким качеством преподавания IT, филологии и бизнес-дисциплин. Военной кафедры нет, но студентам предоставляется отсрочка.",
+            "KZ": "SDU University — кең смарт-кампуста орналасқан заманауи университет. ЖОО мықты ағылшын тілді қауымдастығымен, IT, филология және бизнес-пәндерді оқытудың жоғары сапасымен ерекшеленеді. Әскери кафедра жоқ, бірақ студенттерге мерзімді ұзарту беріледі.",
+            "EN": "SDU University is a modern university located in a spacious smart campus. It features a strong English-speaking community and high-quality instruction in IT, philology, and business. There is no military department, but students receive a deferral."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJsKkoTvRo6_62xJR-udT3THcTTiTV8HH2g&s",
+        "specialties": [
+            {
+                "name": { "RU": "Вычислительная техника и ПО", "KZ": "Есептеу техникасы және БЖ", "EN": "Computer Engineering and Software" },
+                "desc": { "RU": "Full-stack разработка, архитектура приложений и мобильная разработка.", "KZ": "Full-stack әзірлеу, қолданбалар архитектурасы және мобильді әзірлеу.", "EN": "Full-stack development, application architecture, and mobile development." }
+            },
+            {
+                "name": { "RU": "Математика и компьютерное моделирование", "KZ": "Математика және компьютерлік модельдеу", "EN": "Mathematics and Computer Modeling" },
+                "desc": { "RU": "Глубокая математическая база для Data Science и криптографии.", "KZ": "Data Science және криптография үшін терең математикалық база.", "EN": "Deep mathematical foundation for Data Science and cryptography." }
+            },
+            {
+                "name": { "RU": "Два иностранных языка", "KZ": "Екі шетел тілі", "EN": "Two Foreign Languages" },
+                "desc": { "RU": "Подготовка преподавателей английского и второго языка по мировым стандартам.", "KZ": "Әлемдік стандарттар бойынша ағылшын және екінші тіл оқытушыларын даярлау.", "EN": "Training English and second language teachers according to world standards." }
+            },
+            {
+                "name": { "RU": "Переводческое дело", "KZ": "Аударма ісі", "EN": "Translation Studies" },
+                "desc": { "RU": "Синхронный и письменный перевод текстов любой сложности.", "KZ": "Кез келген күрделіліктегі мәтіндерді ілеспе және жазбаша аудару.", "EN": "Simultaneous and written translation of texts of any complexity." }
+            },
+            {
+                "name": { "RU": "Журналистика", "KZ": "Журналистика", "EN": "Journalism" },
+                "desc": { "RU": "Мультимедийная журналистика, работа в кадре и создание подкастов.", "KZ": "Мультимедиялық журналистика, кадрда жұмыс істеу және подкасттар жасау.", "EN": "Multimedia journalism, on-camera work, and podcast creation." }
+            },
+            {
+                "name": { "RU": "Юриспруденция", "KZ": "Құқықтану", "EN": "Law" },
+                "desc": { "RU": "Международное и казахстанское право на английском языке.", "KZ": "Ағылшын тіліндегі халықаралық және қазақстандық құқық.", "EN": "International and Kazakhstani law in English." }
+            },
+            {
+                "name": { "RU": "Менеджмент и Маркетинг", "KZ": "Менеджмент және Маркетинг", "EN": "Management and Marketing" },
+                "desc": { "RU": "Управление бизнес-процессами, бренд-менеджмент и цифровое продвижение.", "KZ": "Бизнес-процестерді басқару, бренд-менеджмент және цифрлық ілгерілету.", "EN": "Business process management, brand management, and digital promotion." }
+            },
+            {
+                "name": { "RU": "Учет и аудит", "KZ": "Есеп және аудит", "EN": "Accounting and Audit" },
+                "desc": { "RU": "Подготовка к сертификации ACCA и работа в большой четверке (Big4).", "KZ": "ACCA сертификаттауына дайындық және үлкен төрттікте (Big4) жұмыс істеу.", "EN": "Preparation for ACCA certification and working in the Big 4." }
+            },
+            {
+                "name": { "RU": "Data Science и Аналитика", "KZ": "Data Science және Аналитика", "EN": "Data Science and Analytics" },
+                "desc": { "RU": "Сбор, очистка, визуализация и прогнозная аналитика больших данных.", "KZ": "Үлкен деректерді жинау, тазалау, визуализациялау және болжамды аналитика.", "EN": "Data collection, cleaning, visualization, and predictive analytics of big data." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазНУ им. аль-Фараби", "KZ": "Әл-Фараби атындағы ҚазҰУ", "EN": "Al-Farabi KazNU" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 85,
+        "price": "1 380 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Казахский национальный университет имени аль-Фараби — старейший и крупнейший вуз Казахстана, стабильно входящий в мировые рейтинги QS. Обладает огромным кампусом (КазГУград), мощнейшей научной инфраструктурой и предлагает самый широкий выбор специальностей в стране.",
+            "KZ": "Әл-Фараби атындағы Қазақ ұлттық университеті — әлемдік QS рейтингтеріне тұрақты енетін Қазақстанның ең көне және ең ірі жоғары оқу орны. Орасан зор кампусы (ҚазҰУқалашығы), қуатты ғылыми инфрақұрылымы бар және елдегі мамандықтардың ең кең таңдауын ұсынады.",
+            "EN": "Al-Farabi Kazakh National University is the oldest and largest university in Kazakhstan, consistently ranking in QS World Rankings. It has a massive campus (KazGUgrad), powerful research infrastructure, and offers the widest selection of specialties in the country."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=875bfd146dbf6460b72210bd4f57bb6bcd00db5a-12628905-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Искусственный интеллект", "KZ": "Жасанды интеллект", "EN": "Artificial Intelligence" },
+                "desc": { "RU": "Разработка нейросетей, компьютерное зрение и обработка естественного языка.", "KZ": "Нейрондық желілерді әзірлеу, компьютерлік көру және табиғи тілді өңдеу.", "EN": "Development of neural networks, computer vision, and natural language processing." }
+            },
+            {
+                "name": { "RU": "Химия и Химическая инженерия", "KZ": "Химия және Химиялық инженерия", "EN": "Chemistry and Chemical Engineering" },
+                "desc": { "RU": "Аналитическая химия, нефтехимия и создание новых полимеров.", "KZ": "Аналитикалық химия, мұнай химиясы және жаңа полимерлер жасау.", "EN": "Analytical chemistry, petrochemistry, and the creation of new polymers." }
+            },
+            {
+                "name": { "RU": "Биотехнология", "KZ": "Биотехнология", "EN": "Biotechnology" },
+                "desc": { "RU": "Генная инженерия, микробиология и биомедицинские исследования.", "KZ": "Гендік инженерия, микробиология және биомедициналық зерттеулер.", "EN": "Genetic engineering, microbiology, and biomedical research." }
+            },
+            {
+                "name": { "RU": "Международное право", "KZ": "Халықаралық құқық", "EN": "International Law" },
+                "desc": { "RU": "Правовое регулирование внешнеэкономической деятельности и дипломатия.", "KZ": "Сыртқы экономикалық қызметті және дипломатияны құқықтық реттеу.", "EN": "Legal regulation of foreign economic activity and diplomacy." }
+            },
+            {
+                "name": { "RU": "Экономика", "KZ": "Экономика", "EN": "Economics" },
+                "desc": { "RU": "Макроэкономическое планирование и аналитика рынков (ВШЭБ).", "KZ": "Макроэкономикалық жоспарлау және нарықтар аналитикасы (ЭжБЖМ).", "EN": "Macroeconomic planning and market analytics (HSEB)." }
+            },
+            {
+                "name": { "RU": "Журналистика", "KZ": "Журналистика", "EN": "Journalism" },
+                "desc": { "RU": "Старейший факультет журналистики: ТВ, радио, печать и интернет-медиа.", "KZ": "Ең көне журналистика факультеті: ТД, радио, баспасөз және интернет-медиа.", "EN": "The oldest journalism faculty: TV, radio, print, and internet media." }
+            },
+            {
+                "name": { "RU": "Востоковедение", "KZ": "Шығыстану", "EN": "Oriental Studies" },
+                "desc": { "RU": "Изучение языков, культуры и экономики стран Азии и Ближнего Востока.", "KZ": "Азия және Таяу Шығыс елдерінің тілдерін, мәдениетін және экономикасын зерттеу.", "EN": "Study of the languages, culture, and economics of Asia and the Middle East." }
+            },
+            {
+                "name": { "RU": "Общая медицина", "KZ": "Жалпы медицина", "EN": "General Medicine" },
+                "desc": { "RU": "Подготовка врачей на базе современного медико-биологического кластера.", "KZ": "Заманауи медициналық-биологиялық кластер базасында дәрігерлерді даярлау.", "EN": "Training of doctors based on a modern medical and biological cluster." }
+            },
+            {
+                "name": { "RU": "География и экология", "KZ": "География және экология", "EN": "Geography and Ecology" },
+                "desc": { "RU": "ГИС-технологии, климатология и защита окружающей среды.", "KZ": "АЖЖ-технологиялары, климатология және қоршаған ортаны қорғау.", "EN": "GIS technologies, climatology, and environmental protection." }
+            },
+            {
+                "name": { "RU": "Психология", "KZ": "Психология", "EN": "Psychology" },
+                "desc": { "RU": "Клиническая психология, когнитивно-поведенческая терапия и HR.", "KZ": "Клиникалық психология, когнитивті-мінез-құлық терапиясы және HR.", "EN": "Clinical psychology, cognitive behavioral therapy, and HR." }
+            },
+            {
+                "name": { "RU": "Пространственный анализ и ГИС", "KZ": "Кеңістіктік талдау және ГАЖ", "EN": "Spatial Analysis and GIS" },
+                "desc": { "RU": "Геоинформационные системы, дистанционное зондирование и картография.", "KZ": "Геоақпараттық жүйелер, қашықтықтан зондтау және картография.", "EN": "Geographic information systems, remote sensing, and cartography." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "ЕНУ им. Л.Н. Гумилева (ФИТ)", "KZ": "Л.Н. Гумилев атындағы ЕҰУ (АЖФ)", "EN": "L.N. Gumilyov ENU (FIT)" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_it",
+        "category": { "RU": "IT и Программирование", "KZ": "IT және Бағдарламалау", "EN": "IT & Programming" },
+        "min_score": 90,
+        "price": "1 265 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Ведущий национальный университет столицы. Факультет информационных технологий предлагает мощную базу по классической информатике, защите информации и системному администрированию.",
+            "KZ": "Елорданың жетекші ұлттық университеті. Ақпараттық технологиялар факультеті классикалық информатика, ақпаратты қорғау және жүйелік әкімшілендіру бойынша мықты база ұсынады.",
+            "EN": "The capital's leading national university. The Faculty of Information Technology offers a strong foundation in classical computer science, information security, and system administration."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=3c1c0d9a2099b632ef1432663717828e896d4041-5561909-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Информатика", "KZ": "Информатика", "EN": "Computer Science" },
+                "desc": { "RU": "Фундаментальная подготовка программистов, алгоритмика и структуры данных.", "KZ": "Бағдарламашыларды іргелі даярлау, алгоритмика және деректер құрылымы.", "EN": "Fundamental training for programmers, algorithms, and data structures." }
+            },
+            {
+                "name": { "RU": "Информационные системы", "KZ": "Ақпараттық жүйелер", "EN": "Information Systems" },
+                "desc": { "RU": "Управление базами данных и разработка корпоративного софта.", "KZ": "Дерекқорларды басқару және корпоративтік бағдарламалық жасақтаманы әзірлеу.", "EN": "Database management and enterprise software development." }
+            },
+            {
+                "name": { "RU": "Кибербезопасность", "KZ": "Киберқауіпсіздік", "EN": "Cybersecurity" },
+                "desc": { "RU": "Защита сетей, криптография и государственная информационная безопасность.", "KZ": "Желілерді қорғау, криптография және мемлекеттік ақпараттық қауіпсіздік.", "EN": "Network protection, cryptography, and state information security." }
+            },
+            {
+                "name": { "RU": "IT-Менеджмент", "KZ": "IT-Менеджмент", "EN": "IT Management" },
+                "desc": { "RU": "Управление цифровыми проектами и командами разработчиков в бизнесе.", "KZ": "Бизнестегі цифрлық жобаларды және әзірлеушілер командаларын басқару.", "EN": "Managing digital projects and development teams in business." }
+            },
+            {
+                "name": { "RU": "Компьютерная инженерия", "KZ": "Компьютерлік инженерия", "EN": "Computer Engineering" },
+                "desc": { "RU": "Аппаратное обеспечение, микропроцессоры и системное программирование.", "KZ": "Аппараттық жасақтама, микропроцессорлар және жүйелік бағдарламалау.", "EN": "Hardware, microprocessors, and system programming." }
+            },
+            {
+                "name": { "RU": "Интернет вещей (IoT)", "KZ": "Заттар интернеті (IoT)", "EN": "Internet of Things (IoT)" },
+                "desc": { "RU": "Проектирование умных устройств, сенсорных сетей и M2M-взаимодействия.", "KZ": "Ақылды құрылғыларды, сенсорлық желілерді және M2M-өзара әрекетті жобалау.", "EN": "Designing smart devices, sensor networks, and M2M interaction." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "ЕНУ им. Л.Н. Гумилева (Гуманитарный)", "KZ": "Л.Н. Гумилев атындағы ЕҰУ (Гуманитарлық)", "EN": "L.N. Gumilyov ENU (Humanities)" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 95,
+        "price": "1 322 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Центр гуманитарной мысли Казахстана. ЕНУ объединяет элитное образование в сфере международных отношений, журналистики, политологии и филологии с активной студенческой жизнью столицы.",
+            "KZ": "Қазақстанның гуманитарлық ой орталығы. ЕҰУ халықаралық қатынастар, журналистика, саясаттану және филология саласындағы элиталық білімді елорданың белсенді студенттік өмірімен біріктіреді.",
+            "EN": "The center of humanities thought in Kazakhstan. ENU combines elite education in international relations, journalism, political science, and philology with the active student life of the capital."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=3c1c0d9a2099b632ef1432663717828e896d4041-5561909-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Международные отношения", "KZ": "Халықаралық қатынастар", "EN": "International Relations" },
+                "desc": { "RU": "Подготовка дипломатов, внешнеполитический анализ и международное право.", "KZ": "Дипломаттарды даярлау, сыртқы саяси талдау және халықаралық құқық.", "EN": "Training of diplomats, foreign policy analysis, and international law." }
+            },
+            {
+                "name": { "RU": "Журналистика", "KZ": "Журналистика", "EN": "Journalism" },
+                "desc": { "RU": "Телевизионная, печатная, цифровая журналистика и медиа-менеджмент.", "KZ": "Телевизиялық, баспасөз, цифрлық журналистика және медиа-менеджмент.", "EN": "Television, print, digital journalism, and media management." }
+            },
+            {
+                "name": { "RU": "Политология", "KZ": "Саясаттану", "EN": "Political Science" },
+                "desc": { "RU": "Анализ политических процессов, госуправление и предвыборные технологии.", "KZ": "Саяси процестерді, мемлекеттік басқаруды және сайлау технологияларын талдау.", "EN": "Analysis of political processes, public administration, and electoral technologies." }
+            },
+            {
+                "name": { "RU": "Переводческое дело", "KZ": "Аударма ісі", "EN": "Translation Studies" },
+                "desc": { "RU": "Синхронный и письменный перевод (английский, китайский, европейские языки).", "KZ": "Ілеспе және жазбаша аударма (ағылшын, қытай, еуропалық тілдер).", "EN": "Simultaneous and written translation (English, Chinese, European languages)." }
+            },
+            {
+                "name": { "RU": "Филология", "KZ": "Филология", "EN": "Philology" },
+                "desc": { "RU": "Глубокое изучение казахского, русского и иностранных языков и литературы.", "KZ": "Қазақ, орыс және шетел тілдері мен әдебиетін тереңдетіп оқыту.", "EN": "In-depth study of Kazakh, Russian, and foreign languages and literature." }
+            },
+            {
+                "name": { "RU": "Психология", "KZ": "Психология", "EN": "Psychology" },
+                "desc": { "RU": "Клиническая, социальная психология и консультирование.", "KZ": "Клиникалық, әлеуметтік психология және кеңес беру.", "EN": "Clinical, social psychology, and counseling." }
+            },
+            {
+                "name": { "RU": "История", "KZ": "Тарих", "EN": "History" },
+                "desc": { "RU": "Исследование истории Казахстана, археология и всемирная история.", "KZ": "Қазақстан тарихын зерттеу, археология және дүниежүзілік тарих.", "EN": "Research on the history of Kazakhstan, archaeology, and world history." }
+            },
+            {
+                "name": { "RU": "Цифровые медиа и коммуникации", "KZ": "Цифрлық медиа және коммуникациялар", "EN": "Digital Media and Communications" },
+                "desc": { "RU": "Создание мультимедийного контента, управление соцсетями и цифровой PR.", "KZ": "Мультимедиялық контент жасау, әлеуметтік желілерді басқару және цифрлық PR.", "EN": "Creation of multimedia content, social media management, and digital PR." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "АУЭС им. Гумарбека Даукеева", "KZ": "Ғұмарбек Дәукеев атындағы АЭжБУ", "EN": "AUES named after Gumarbek Daukeyev" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 80,
+        "price": "1 207 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Ведущий университет Центральной Азии в области энергетики, телекоммуникаций и аэрокосмических технологий. Готовит высококлассных инженеров-практиков, востребованных в промышленных и IT-компаниях.",
+            "KZ": "Энергетика, телекоммуникация және аэроғарыш технологиялары саласындағы Орталық Азияның жетекші университеті. Өнеркәсіптік және IT-компанияларда сұранысқа ие жоғары класты инженер-практиктерді даярлайды.",
+            "EN": "The leading university in Central Asia in the field of energy, telecommunications, and aerospace technologies. Prepares highly qualified practical engineers in demand in industrial and IT companies."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=98999b00da15a66618208de03407f8177598952a-5041987-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Электроэнергетика", "KZ": "Электр энергетикасы", "EN": "Electrical Power Engineering" },
+                "desc": { "RU": "Проектирование и обслуживание энергетических сетей и смарт-грид систем.", "KZ": "Энергетикалық желілерді және смарт-грид жүйелерін жобалау және қызмет көрсету.", "EN": "Design and maintenance of power grids and smart grid systems." }
+            },
+            {
+                "name": { "RU": "Телекоммуникации", "KZ": "Телекоммуникациялар", "EN": "Telecommunications" },
+                "desc": { "RU": "Специалисты по оптоволоконным сетям, мобильной и спутниковой связи.", "KZ": "Талшықты-оптикалық желілер, ұялы және спутниктік байланыс мамандары.", "EN": "Specialists in fiber-optic networks, mobile and satellite communications." }
+            },
+            {
+                "name": { "RU": "Информационная безопасность", "KZ": "Ақпараттық қауіпсіздік", "EN": "Information Security" },
+                "desc": { "RU": "Защита сетей связи и корпоративных данных от кибератак.", "KZ": "Байланыс желілері мен корпоративтік деректерді кибершабуылдардан қорғау.", "EN": "Protection of communication networks and corporate data from cyberattacks." }
+            },
+            {
+                "name": { "RU": "Теплоэнергетика", "KZ": "Жылу энергетикасы", "EN": "Thermal Power Engineering" },
+                "desc": { "RU": "Управление ТЭЦ, котельными и системами промышленного теплоснабжения.", "KZ": "ЖЭО, қазандықтарды және өнеркәсіптік жылумен жабдықтау жүйелерін басқару.", "EN": "Management of combined heat and power plants, boiler houses, and industrial heating." }
+            },
+            {
+                "name": { "RU": "Автоматизация и управление", "KZ": "Автоматтандыру және басқару", "EN": "Automation and Control" },
+                "desc": { "RU": "Программируемые логические контроллеры (ПЛК) и автоматизация заводов.", "KZ": "Бағдарламаланатын логикалық контроллерлер (БЛК) және зауыттарды автоматтандыру.", "EN": "Programmable logic controllers (PLC) and factory automation." }
+            },
+            {
+                "name": { "RU": "Космическая техника", "KZ": "Ғарыштық техника", "EN": "Space Engineering" },
+                "desc": { "RU": "Основы проектирования спутников и систем аэрокосмической навигации.", "KZ": "Спутниктерді және аэроғарыштық навигация жүйелерін жобалау негіздері.", "EN": "Basics of designing satellites and aerospace navigation systems." }
+            },
+            {
+                "name": { "RU": "Альтернативная энергетика", "KZ": "Баламалы энергетика", "EN": "Alternative Energy" },
+                "desc": { "RU": "Солнечные и ветровые электростанции, водородная энергетика и накопление энергии.", "KZ": "Күн және жел электр станциялары, сутегі энергетикасы және энергияны жинақтау.", "EN": "Solar and wind power plants, hydrogen energy, and energy storage." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазНМУ им. С.Д. Асфендиярова", "KZ": "С.Ж. Асфендияров атындағы ҚазҰМУ", "EN": "Asfendiyarov KazNMU" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_medicine",
+        "category": { "RU": "Медицина", "KZ": "Медицина", "EN": "Medicine" },
+        "min_score": 105,
+        "price": "1 552 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Флагман медицинского образования страны. Старейший и самый авторитетный медицинский университет, обладающий мощными клиническими базами. Кузница лучших хирургов, стоматологов и врачей всех профилей.",
+            "KZ": "Еліміздің медициналық білім беру флагманы. Қуатты клиникалық базалары бар ең көне және ең беделді медициналық университет. Ең үздік хирургтар, тіс дәрігерлері және барлық бейіндегі дәрігерлер ұстаханасы.",
+            "EN": "The flagship of medical education in the country. The oldest and most prestigious medical university, possessing powerful clinical bases. The forge of the best surgeons, dentists, and doctors of all profiles."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=10a9f93fb31cbaef5aa0c1b758ccea312744267e-5886141-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Общая медицина", "KZ": "Жалпы медицина", "EN": "General Medicine" },
+                "desc": { "RU": "Базовое высшее образование для будущих хирургов, терапевтов и узких специалистов.", "KZ": "Болашақ хирургтар, терапевттер және тар бейінді мамандар үшін базалық жоғары білім.", "EN": "Basic higher education for future surgeons, general practitioners, and specialists." }
+            },
+            {
+                "name": { "RU": "Стоматология", "KZ": "Стоматология", "EN": "Dentistry" },
+                "desc": { "RU": "Элитная школа подготовки стоматологов-хирургов, ортодонтов и терапевтов.", "KZ": "Хирург-стоматологтарды, ортодонттарды және терапевттерді даярлайтын элиталық мектеп.", "EN": "Elite school for training dental surgeons, orthodontists, and therapists." }
+            },
+            {
+                "name": { "RU": "Педиатрия", "KZ": "Педиатрия", "EN": "Pediatrics" },
+                "desc": { "RU": "Специализация на лечении и профилактике детских заболеваний с раннего возраста.", "KZ": "Балалар ауруларын ерте жастан емдеу және алдын алуға мамандану.", "EN": "Specialization in the treatment and prevention of childhood diseases from an early age." }
+            },
+            {
+                "name": { "RU": "Фармация", "KZ": "Фармация", "EN": "Pharmacy" },
+                "desc": { "RU": "Разработка, создание и контроль качества лекарственных препаратов.", "KZ": "Дәрілік препараттарды әзірлеу, жасау және сапасын бақылау.", "EN": "Development, creation, and quality control of medicinal products." }
+            },
+            {
+                "name": { "RU": "Общественное здравоохранение", "KZ": "Қоғамдық денсаулық сақтау", "EN": "Public Health" },
+                "desc": { "RU": "Менеджмент больниц, эпидемиология и управление медицинскими системами.", "KZ": "Ауруханалар менеджменті, эпидемиология және медициналық жүйелерді басқару.", "EN": "Hospital management, epidemiology, and health systems management." }
+            },
+            {
+                "name": { "RU": "Сестринское дело", "KZ": "Мейіргер ісі", "EN": "Nursing" },
+                "desc": { "RU": "Высшее образование для старших медсестер и руководителей сестринского ухода.", "KZ": "Аға мейіргерлер мен мейіргерлік күтім басшылары үшін жоғары білім.", "EN": "Higher education for senior nurses and nursing care managers." }
+            },
+            {
+                "name": { "RU": "Нейрохирургия", "KZ": "Нейрохирургия", "EN": "Neurosurgery" },
+                "desc": { "RU": "Оперативное лечение заболеваний головного и спинного мозга, периферической нервной системы.", "KZ": "Ми мен жұлынның, шеткері жүйке жүйесінің ауруларын хирургиялық емдеу.", "EN": "Surgical treatment of diseases of the brain, spinal cord, and peripheral nervous system." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Медицинский университет Астана", "KZ": "Астана медицина университеті", "EN": "Astana Medical University" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_medicine",
+        "category": { "RU": "Медицина", "KZ": "Медицина", "EN": "Medicine" },
+        "min_score": 100,
+        "price": "1 437 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Крупнейший медицинский вуз столицы. Инновационный клинический и научный центр, предлагающий передовые методики обучения врачей, современные лаборатории и международное партнерство.",
+            "KZ": "Елорданың ең ірі медициналық жоғары оқу орны. Дәрігерлерді оқытудың озық әдістемелерін, заманауи зертханалар мен халықаралық серіктестікті ұсынатын инновациялық клиникалық және ғылыми орталық.",
+            "EN": "The largest medical university in the capital. An innovative clinical and scientific center offering advanced medical training methods, modern laboratories, and international partnerships."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbsJTo8YKv0gG4dsXGKRweiHQaU2rHAqXPA&s",
+        "specialties": [
+            {
+                "name": { "RU": "Общая медицина", "KZ": "Жалпы медицина", "EN": "General Medicine" },
+                "desc": { "RU": "Практико-ориентированная подготовка врачей на базе столичных больниц.", "KZ": "Елордалық ауруханалар базасында дәрігерлерді практикаға бағытталған даярлау.", "EN": "Practice-oriented training of doctors based in capital hospitals." }
+            },
+            {
+                "name": { "RU": "Стоматология", "KZ": "Стоматология", "EN": "Dentistry" },
+                "desc": { "RU": "Современные технологии лечения зубов, имплантология и челюстно-лицевая хирургия.", "KZ": "Тістерді емдеудің заманауи технологиялары, имплантология және жақ-бет хирургиясы.", "EN": "Modern dental treatment technologies, implantology, and maxillofacial surgery." }
+            },
+            {
+                "name": { "RU": "Педиатрия", "KZ": "Педиатрия", "EN": "Pediatrics" },
+                "desc": { "RU": "Детская хирургия, неонатология и общая педиатрия.", "KZ": "Балалар хирургиясы, неонатология және жалпы педиатрия.", "EN": "Pediatric surgery, neonatology, and general pediatrics." }
+            },
+            {
+                "name": { "RU": "Фармация", "KZ": "Фармация", "EN": "Pharmacy" },
+                "desc": { "RU": "Фармакогнозия, химия лекарств и управление аптечным бизнесом.", "KZ": "Фармакогнозия, дәрі-дәрмек химиясы және дәріхана бизнесін басқару.", "EN": "Pharmacognosy, drug chemistry, and pharmacy business management." }
+            },
+            {
+                "name": { "RU": "Общественное здравоохранение", "KZ": "Қоғамдық денсаулық сақтау", "EN": "Public Health" },
+                "desc": { "RU": "Профилактическая медицина, биостатистика и управление в здравоохранении.", "KZ": "Профилактикалық медицина, биостатистика және денсаулық сақтауды басқару.", "EN": "Preventive medicine, biostatistics, and healthcare management." }
+            },
+            {
+                "name": { "RU": "Кардиология", "KZ": "Кардиология", "EN": "Cardiology" },
+                "desc": { "RU": "Диагностика и лечение сердечно-сосудистых заболеваний, интервенционная кардиология.", "KZ": "Жүрек-қан тамырлары ауруларын диагностикалау және емдеу, интервенциялық кардиология.", "EN": "Diagnosis and treatment of cardiovascular diseases, interventional cardiology." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Медицинский университет Караганды", "KZ": "Қарағанды медицина университеті", "EN": "Karaganda Medical University" },
+        "city_key": "city_karaganda",
+        "city": { "RU": "Караганда", "KZ": "Қарағанды", "EN": "Karaganda" },
+        "category_key": "field_medicine",
+        "category": { "RU": "Медицина", "KZ": "Медицина", "EN": "Medicine" },
+        "min_score": 95,
+        "price": "1 265 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Один из лучших медицинских университетов страны, известный строгими академическими стандартами, собственными исследовательскими институтами и отличной школой терапии.",
+            "KZ": "Қатаң академиялық стандарттарымен, өзіндік ғылыми-зерттеу институттарымен және тамаша терапия мектебімен танымал еліміздің ең үздік медициналық университеттерінің бірі.",
+            "EN": "One of the best medical universities in the country, known for strict academic standards, its own research institutes, and an excellent school of therapy."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=54c35d1f123c8540f5467dddf69200733ffee823-5426889-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Общая медицина", "KZ": "Жалпы медицина", "EN": "General Medicine" },
+                "desc": { "RU": "Классическое медицинское образование с упором на научный подход и диагностику.", "KZ": "Ғылыми тәсіл мен диагностикаға баса назар аударатын классикалық медициналық білім.", "EN": "Classical medical education with an emphasis on a scientific approach and diagnostics." }
+            },
+            {
+                "name": { "RU": "Стоматология", "KZ": "Стоматология", "EN": "Dentistry" },
+                "desc": { "RU": "Подготовка зубных техников и стоматологов всех профилей.", "KZ": "Тіс техниктерін және барлық бейіндегі стоматологтарды даярлау.", "EN": "Training of dental technicians and dentists of all profiles." }
+            },
+            {
+                "name": { "RU": "Биомедицина", "KZ": "Биомедицина", "EN": "Biomedicine" },
+                "desc": { "RU": "Лабораторные исследования, генетика и разработка методов диагностики.", "KZ": "Зертханалық зерттеулер, генетика және диагностика әдістерін әзірлеу.", "EN": "Laboratory research, genetics, and development of diagnostic methods." }
+            },
+            {
+                "name": { "RU": "Медико-профилактическое дело", "KZ": "Медициналық-профилактикалық іс", "EN": "Preventive Medicine" },
+                "desc": { "RU": "Санитарно-эпидемиологический контроль, гигиена и вирусология.", "KZ": "Санитариялық-эпидемиологиялық бақылау, гигиена және вирусология.", "EN": "Sanitary and epidemiological control, hygiene, and virology." }
+            },
+            {
+                "name": { "RU": "Фармация", "KZ": "Фармация", "EN": "Pharmacy" },
+                "desc": { "RU": "Производство лекарств и клиническая фармакология.", "KZ": "Дәрі-дәрмек өндірісі және клиникалық фармакология.", "EN": "Drug production and clinical pharmacology." }
+            },
+            {
+                "name": { "RU": "Сестринское дело", "KZ": "Мейіргер ісі", "EN": "Nursing" },
+                "desc": { "RU": "Подготовка медсестер-бакалавров для работы в интенсивной терапии.", "KZ": "Қарқынды терапияда жұмыс істеу үшін бакалавр мейіргерлерді даярлау.", "EN": "Training bachelor nurses to work in intensive care." }
+            },
+            {
+                "name": { "RU": "Онкология", "KZ": "Онкология", "EN": "Oncology" },
+                "desc": { "RU": "Современные методы диагностики и лечения злокачественных новообразований.", "KZ": "Қатерлі ісіктерді диагностикалау және емдеудің заманауи әдістері.", "EN": "Modern methods of diagnosis and treatment of malignant neoplasms." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Назарбаев Университет (NU)", "KZ": "Назарбаев Университеті (NU)", "EN": "Nazarbayev University (NU)" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 120,
+        "price": "Грант",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Флагман высшего образования Казахстана. Исследовательский университет мирового уровня с обучением полностью на английском языке. Предлагает уникальные гранты и высочайшие стандарты в сфере науки, инженерии и медицины.",
+            "KZ": "Қазақстанның жоғары білім беру флагманы. Толығымен ағылшын тілінде оқытатын әлемдік деңгейдегі зерттеу университеті. Ғылым, инженерия және медицина саласында бірегей гранттар мен жоғары стандарттар ұсынады.",
+            "EN": "The flagship of higher education in Kazakhstan. A world-class research university with instruction entirely in English. Offers unique grants and the highest standards in science, engineering, and medicine."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=60cdd105e5284bc40352694f5f17710d1cca5ad1-4445430-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Компьютерные науки (Computer Science)", "KZ": "Компьютерлік ғылымдар", "EN": "Computer Science" },
+                "desc": { "RU": "Алгоритмика, искусственный интеллект, машинное обучение и data science.", "KZ": "Алгоритмика, жасанды интеллект, машиналық оқыту және data science.", "EN": "Algorithmics, artificial intelligence, machine learning, and data science." }
+            },
+            {
+                "name": { "RU": "Робототехника и мехатроника", "KZ": "Робототехника және мехатроника", "EN": "Robotics and Mechatronics" },
+                "desc": { "RU": "Проектирование дронов, промышленных роботов и интеллектуальных систем.", "KZ": "Дрондарды, өнеркәсіптік роботтарды және зияткерлік жүйелерді жобалау.", "EN": "Design of drones, industrial robots, and intelligent systems." }
+            },
+            {
+                "name": { "RU": "Химическая инженерия", "KZ": "Химиялық инженерия", "EN": "Chemical Engineering" },
+                "desc": { "RU": "Биотехнологии, новые материалы и экологически чистая энергетика.", "KZ": "Биотехнологиялар, жаңа материалдар және экологиялық таза энергетика.", "EN": "Biotechnology, new materials, and clean energy." }
+            },
+            {
+                "name": { "RU": "Гражданская инженерия", "KZ": "Азаматтық инженерия", "EN": "Civil Engineering" },
+                "desc": { "RU": "Проектирование небоскребов, мостов и экологичной инфраструктуры.", "KZ": "Тіреген ғимараттарды, көпірлерді және экологиялық инфрақұрылымды жобалау.", "EN": "Design of skyscrapers, bridges, and sustainable infrastructure." }
+            },
+            {
+                "name": { "RU": "Механическая инженерия", "KZ": "Механикалық инженерия", "EN": "Mechanical Engineering" },
+                "desc": { "RU": "Термодинамика, автомобилестроение и аэрокосмическая механика.", "KZ": "Термодинамика, автомобиль жасау және аэроғарыштық механика.", "EN": "Thermodynamics, automotive engineering, and aerospace mechanics." }
+            },
+            {
+                "name": { "RU": "Математика", "KZ": "Математика", "EN": "Mathematics" },
+                "desc": { "RU": "Прикладная и чистая математика для финансовых и научных исследований.", "KZ": "Қаржылық және ғылыми зерттеулерге арналған қолданбалы және таза математика.", "EN": "Applied and pure mathematics for financial and scientific research." }
+            },
+            {
+                "name": { "RU": "Физика", "KZ": "Физика", "EN": "Physics" },
+                "desc": { "RU": "Квантовая физика, астрофизика и материаловедение.", "KZ": "Кванттық физика, астрофизика және материалтану.", "EN": "Quantum physics, astrophysics, and materials science." }
+            },
+            {
+                "name": { "RU": "Биология", "KZ": "Биология", "EN": "Biology" },
+                "desc": { "RU": "Генетика, клеточная биология и подготовка к программе Pre-Medicine.", "KZ": "Генетика, жасушалық биология және Pre-Medicine бағдарламасына дайындық.", "EN": "Genetics, cell biology, and preparation for the Pre-Medicine program." }
+            },
+            {
+                "name": { "RU": "Экономика", "KZ": "Экономика", "EN": "Economics" },
+                "desc": { "RU": "Микро- и макроэкономический анализ, эконометрика и финансы.", "KZ": "Микро- және макроэкономикалық талдау, эконометрика және қаржы.", "EN": "Micro and macroeconomic analysis, econometrics, and finance." }
+            },
+            {
+                "name": { "RU": "Политология и международные отношения", "KZ": "Саясаттану және халықаралық қатынастар", "EN": "Political Science and International Relations" },
+                "desc": { "RU": "Глобальная политика, конфликты и дипломатия.", "KZ": "Жаһандық саясат, қақтығыстар және дипломатия.", "EN": "Global politics, conflicts, and diplomacy." }
+            },
+            {
+                "name": { "RU": "Биоинженерия", "KZ": "Биоинженерия", "EN": "Bioengineering" },
+                "desc": { "RU": "Проектирование медицинских имплантатов, тканевая инженерия и синтетическая биология.", "KZ": "Медициналық имплантаттарды жобалау, ұлпалық инженерия және синтетикалық биология.", "EN": "Design of medical implants, tissue engineering, and synthetic biology." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Университет КАЗГЮУ им. М.С. Нарикбаева", "KZ": "М.С. Нәрікбаев атындағы КАЗГЮУ", "EN": "Maqsut Narikbayev University" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 95,
+        "price": "1 725 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Топовый университет Астаны (MNU). Славится бескомпромиссным качеством образования (политика академической честности), высочайшим уровнем трудоустройства и сильными школами права, экономики и гуманитарных наук.",
+            "KZ": "Астананың топ университеті (MNU). Білім берудің мінсіз сапасымен (академиялық адалдық саясаты), жұмысқа орналасудың ең жоғары деңгейімен және құқық, экономика және гуманитарлық ғылымдардың мықты мектептерімен танымал.",
+            "EN": "Top university in Astana (MNU). Known for uncompromising quality of education (academic integrity policy), the highest level of employability, and strong schools of law, economics, and humanities."
+        },
+        "image_url": "https://www.fibaa.org/fileadmin/_processed_/9/6/csm_Logo_MNU_2e530ca9e3.jpg",
+        "specialties": [
+            {
+                "name": { "RU": "Юриспруденция", "KZ": "Құқықтану", "EN": "Jurisprudence" },
+                "desc": { "RU": "Подготовка лучших корпоративных юристов, адвокатов и судей.", "KZ": "Үздік корпоративтік заңгерлерді, адвокаттар мен судьяларды даярлау.", "EN": "Training the best corporate lawyers, attorneys, and judges." }
+            },
+            {
+                "name": { "RU": "Международное право", "KZ": "Халықаралық құқық", "EN": "International Law" },
+                "desc": { "RU": "Англоязычная программа для юристов в международных компаниях и посольствах.", "KZ": "Халықаралық компаниялар мен елшіліктердегі заңгерлерге арналған ағылшын тіліндегі бағдарлама.", "EN": "English-language program for lawyers in international companies and embassies." }
+            },
+            {
+                "name": { "RU": "Финансы", "KZ": "Қаржы", "EN": "Finance" },
+                "desc": { "RU": "Финансовый анализ, инвестиции и подготовка к сертификации CFA.", "KZ": "Қаржылық талдау, инвестициялар және CFA сертификаттауына дайындық.", "EN": "Financial analysis, investments, and preparation for CFA certification." }
+            },
+            {
+                "name": { "RU": "Учет и аудит", "KZ": "Есеп және аудит", "EN": "Accounting and Audit" },
+                "desc": { "RU": "Аудит по международным стандартам, программа аккредитована ACCA.", "KZ": "Халықаралық стандарттар бойынша аудит, бағдарлама ACCA аккредиттелген.", "EN": "Audit according to international standards, ACCA accredited program." }
+            },
+            {
+                "name": { "RU": "Менеджмент и Маркетинг", "KZ": "Менеджмент және Маркетинг", "EN": "Management and Marketing" },
+                "desc": { "RU": "Управление бизнесом, бренд-стратегии и цифровые продажи.", "KZ": "Бизнесті басқару, бренд-стратегиялар және цифрлық сатылымдар.", "EN": "Business management, brand strategies, and digital sales." }
+            },
+            {
+                "name": { "RU": "IT в бизнесе", "KZ": "Бизнестегі IT", "EN": "IT in Business" },
+                "desc": { "RU": "Аналитика данных, внедрение ERP систем и управление IT-продуктами.", "KZ": "Деректер аналитикасы, ERP жүйелерін енгізу және IT-өнімдерді басқару.", "EN": "Data analytics, ERP system implementation, and IT product management." }
+            },
+            {
+                "name": { "RU": "Переводческое дело", "KZ": "Аударма ісі", "EN": "Translation Studies" },
+                "desc": { "RU": "Профессиональный синхронный и юридический перевод.", "KZ": "Кәсіби ілеспе және заңдық аударма.", "EN": "Professional simultaneous and legal translation." }
+            },
+            {
+                "name": { "RU": "Психология", "KZ": "Психология", "EN": "Psychology" },
+                "desc": { "RU": "Прикладная и организационная психология для бизнеса и клиник.", "KZ": "Бизнес пен клиникаларға арналған қолданбалы және ұйымдық психология.", "EN": "Applied and organizational psychology for business and clinics." }
+            },
+            {
+                "name": { "RU": "Туризм и гостеприимство", "KZ": "Туризм және қонақжайлылық", "EN": "Tourism and Hospitality" },
+                "desc": { "RU": "Менеджмент отелей, ресторанов и международных ивент-агентств.", "KZ": "Қонақүйлерді, мейрамханаларды және халықаралық ивент-агенттіктерді басқару.", "EN": "Management of hotels, restaurants, and international event agencies." }
+            },
+            {
+                "name": { "RU": "Антикоррупционная политика", "KZ": "Сыбайлас жемқорлыққа қарсы саясат", "EN": "Anti-Corruption Policy" },
+                "desc": { "RU": "Юридические и управленческие механизмы борьбы с коррупцией в госсекторе и бизнесе.", "KZ": "Мемлекеттік сектор мен бизнестегі сыбайлас жемқорлықпен күресудің құқықтық және басқару тетіктері.", "EN": "Legal and managerial mechanisms for combating corruption in the public sector and business." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "KIMEP University", "KZ": "KIMEP University", "EN": "KIMEP University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_economics",
+        "category": { "RU": "Экономика и Бизнес", "KZ": "Экономика және Бизнес", "EN": "Economics & Business" },
+        "min_score": 100,
+        "price": "4 025 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Лидер в области бизнес-образования в СНГ. Обучение на английском языке по североамериканской модели кредитной технологии. Выпускники KIMEP — это топ-менеджеры международных корпораций (Big4, FMCG), экономисты и дипломаты.",
+            "KZ": "ТМД-дағы бизнес-білім беру саласындағы көшбасшы. Оқыту несиелік технологияның солтүстікамерикалық моделі бойынша ағылшын тілінде жүргізіледі. KIMEP түлектері — бұл халықаралық корпорациялардың (Big4, FMCG) топ-менеджерлері, экономистер мен дипломаттар.",
+            "EN": "Leader in business education in the CIS. Instruction is in English based on the North American credit technology model. KIMEP graduates are top managers in international corporations (Big4, FMCG), economists, and diplomats."
+        },
+        "image_url": "https://images.squarespace-cdn.com/content/v1/63a34c2db4dce76ac454c9cb/1686074146850-W5WPWPLZPWR9I1RAHCI9/KIMEP+University.png",
+        "specialties": [
+            {
+                "name": { "RU": "Финансы", "KZ": "Қаржы", "EN": "Finance" },
+                "desc": { "RU": "Инвестиционный анализ, корпоративные финансы и рынки капитала.", "KZ": "Инвестициялық талдау, корпоративтік қаржы және капитал нарығы.", "EN": "Investment analysis, corporate finance, and capital markets." }
+            },
+            {
+                "name": { "RU": "Учет и аудит", "KZ": "Есеп және аудит", "EN": "Accounting and Audit" },
+                "desc": { "RU": "Подготовка к работе в компаниях 'Большой Четверки' (PwC, EY, KPMG, Deloitte).", "KZ": "'Үлкен Төрттік' (PwC, EY, KPMG, Deloitte) компанияларында жұмыс істеуге дайындық.", "EN": "Preparation for work in 'Big Four' companies (PwC, EY, KPMG, Deloitte)." }
+            },
+            {
+                "name": { "RU": "Менеджмент", "KZ": "Менеджмент", "EN": "Management" },
+                "desc": { "RU": "Стратегическое планирование, лидерство и HR-менеджмент.", "KZ": "Стратегиялық жоспарлау, көшбасшылық және HR-менеджмент.", "EN": "Strategic planning, leadership, and HR management." }
+            },
+            {
+                "name": { "RU": "Маркетинг", "KZ": "Маркетинг", "EN": "Marketing" },
+                "desc": { "RU": "Бренд-менеджмент, цифровой маркетинг и поведение потребителей.", "KZ": "Бренд-менеджмент, цифрлық маркетинг және тұтынушылар мінез-құлқы.", "EN": "Brand management, digital marketing, and consumer behavior." }
+            },
+            {
+                "name": { "RU": "Информационные системы в бизнесе", "KZ": "Бизнестегі ақпараттық жүйелер", "EN": "Information Systems in Business" },
+                "desc": { "RU": "Бизнес-аналитика, управление IT-архитектурой и e-commerce.", "KZ": "Бизнес-аналитика, IT-архитектураны басқару және e-commerce.", "EN": "Business analytics, IT architecture management, and e-commerce." }
+            },
+            {
+                "name": { "RU": "Международные отношения", "KZ": "Халықаралық қатынастар", "EN": "International Relations" },
+                "desc": { "RU": "Глобальная политика, экономика развития и международная безопасность.", "KZ": "Жаһандық саясат, даму экономикасы және халықаралық қауіпсіздік.", "EN": "Global politics, development economics, and international security." }
+            },
+            {
+                "name": { "RU": "Юриспруденция", "KZ": "Құқықтану", "EN": "Jurisprudence" },
+                "desc": { "RU": "Международное торговое право и корпоративная юриспруденция.", "KZ": "Халықаралық сауда құқығы және корпоративтік құқықтану.", "EN": "International trade law and corporate jurisprudence." }
+            },
+            {
+                "name": { "RU": "Журналистика", "KZ": "Журналистика", "EN": "Journalism" },
+                "desc": { "RU": "Международная журналистика, PR и медиа-менеджмент.", "KZ": "Халықаралық журналистика, PR және медиа-менеджмент.", "EN": "International journalism, PR, and media management." }
+            },
+            {
+                "name": { "RU": "Государственное управление", "KZ": "Мемлекеттік басқару", "EN": "Public Administration" },
+                "desc": { "RU": "Подготовка кадров для госсектора, министерств и НПО.", "KZ": "Мемлекеттік сектор, министрліктер және ҮЕҰ үшін кадрлар даярлау.", "EN": "Training personnel for the public sector, ministries, and NGOs." }
+            },
+            {
+                "name": { "RU": "Аналитика данных для бизнеса", "KZ": "Бизнес үшін деректер аналитикасы", "EN": "Business Data Analytics" },
+                "desc": { "RU": "SQL, Python, Power BI, построение дашбордов и прогнозных моделей.", "KZ": "SQL, Python, Power BI, дашбордтар мен болжамды модельдер құру.", "EN": "SQL, Python, Power BI, building dashboards and predictive models." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Narxoz University", "KZ": "Narxoz University", "EN": "Narxoz University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_economics",
+        "category": { "RU": "Экономика и Бизнес", "KZ": "Экономика және Бизнес", "EN": "Economics & Business" },
+        "min_score": 85,
+        "price": "1 610 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Инновационный экономический университет с суперсовременным смарт-кампусом в Алматы. Фокус на прикладное бизнес-образование, технологии в финансах и программы двойного диплома с престижными вузами Европы.",
+            "KZ": "Алматыдағы суперзаманауи смарт-кампусы бар инновациялық экономикалық университет. Қолданбалы бизнес-білім беруге, қаржы саласындағы технологияларға және Еуропаның беделді жоғары оқу орындарымен қос диплом бағдарламаларына баса назар аударады.",
+            "EN": "An innovative economic university with a state-of-the-art smart campus in Almaty. Focuses on applied business education, technologies in finance, and double degree programs with prestigious European universities."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=1772bdccec6f25eb2cb5f1aa74cd5817c51e12f5-4218813-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Экономика", "KZ": "Экономика", "EN": "Economics" },
+                "desc": { "RU": "Аналитика данных, макроэкономическое прогнозирование и финансовая экономика.", "KZ": "Деректер аналитикасы, макроэкономикалық болжау және қаржылық экономика.", "EN": "Data analytics, macroeconomic forecasting, and financial economics." }
+            },
+            {
+                "name": { "RU": "Учет и аудит", "KZ": "Есеп және аудит", "EN": "Accounting and Audit" },
+                "desc": { "RU": "Аудит, налогообложение и подготовка к сертификациям CIMA, ACCA.", "KZ": "Аудит, салық салу және CIMA, ACCA сертификаттауларына дайындық.", "EN": "Audit, taxation, and preparation for CIMA, ACCA certifications." }
+            },
+            {
+                "name": { "RU": "Финансы", "KZ": "Қаржы", "EN": "Finance" },
+                "desc": { "RU": "Управление рисками, банковское дело и корпоративные финансы.", "KZ": "Тәуекелдерді басқару, банк ісі және корпоративтік қаржы.", "EN": "Risk management, banking, and corporate finance." }
+            },
+            {
+                "name": { "RU": "IT Менеджмент", "KZ": "IT Менеджмент", "EN": "IT Management" },
+                "desc": { "RU": "Симбиоз бизнеса и программирования: управление IT проектами и продуктами.", "KZ": "Бизнес пен бағдарламалаудың симбиозы: IT жобалар мен өнімдерді басқару.", "EN": "Symbiosis of business and programming: management of IT projects and products." }
+            },
+            {
+                "name": { "RU": "Маркетинг и PR", "KZ": "Маркетинг және PR", "EN": "Marketing and PR" },
+                "desc": { "RU": "Креативный маркетинг, таргетинг, коммуникационные стратегии.", "KZ": "Креативті маркетинг, таргетинг, коммуникациялық стратегиялар.", "EN": "Creative marketing, targeting, communication strategies." }
+            },
+            {
+                "name": { "RU": "Право", "KZ": "Құқық", "EN": "Law" },
+                "desc": { "RU": "Бизнес-право, защита интеллектуальной собственности и IT-юриспруденция.", "KZ": "Бизнес-құқық, зияткерлік меншікті қорғау және IT-құқықтану.", "EN": "Business law, intellectual property protection, and IT jurisprudence." }
+            },
+            {
+                "name": { "RU": "Туризм и Event-менеджмент", "KZ": "Туризм және Event-менеджмент", "EN": "Tourism and Event Management" },
+                "desc": { "RU": "Организация международных мероприятий и управление отельным бизнесом.", "KZ": "Халықаралық іс-шараларды ұйымдастыру және қонақүй бизнесін басқару.", "EN": "Organization of international events and hotel business management." }
+            },
+            {
+                "name": { "RU": "HR Менеджмент", "KZ": "HR Менеджмент", "EN": "HR Management" },
+                "desc": { "RU": "Рекрутинг, управление талантами и организационное развитие.", "KZ": "Рекрутинг, таланттарды басқару және ұйымдық даму.", "EN": "Recruiting, talent management, and organizational development." }
+            },
+            {
+                "name": { "RU": "Цифровая трансформация бизнеса", "KZ": "Бизнесті цифрлық трансформациялау", "EN": "Digital Business Transformation" },
+                "desc": { "RU": "Внедрение ИИ, автоматизация процессов и управление цифровыми активами.", "KZ": "ЖИ енгізу, процестерді автоматтандыру және цифрлық активтерді басқару.", "EN": "AI implementation, process automation, and digital asset management." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Медицинский университет Семей", "KZ": "Семей медицина университеті", "EN": "Semey Medical University" },
+        "city_key": "city_semej",
+        "city": { "RU": "Семей", "KZ": "Семей", "EN": "Semey" },
+        "category_key": "field_medicine",
+        "category": { "RU": "Медицина", "KZ": "Медицина", "EN": "Medicine" },
+        "min_score": 90,
+        "price": "1 150 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Один из старейших медицинских вузов с богатой историей. Славится сильной подготовкой врачей-практиков и собственным клиническим центром радиационной медицины и экологии.",
+            "KZ": "Бай тарихы бар ең көне медициналық жоғары оқу орындарының бірі. Практик-дәрігерлерді мықты даярлауымен және өзіндік радиациялық медицина клиникалық орталығымен танымал.",
+            "EN": "One of the oldest medical universities with a rich history. Renowned for its strong practical training of doctors and its own clinical center for radiation medicine."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPwlUoyrWcD8X0mbC9jGtjwyYgBoO7f5_MbA&s",
+        "specialties": [
+            {
+                "name": { "RU": "Общая медицина", "KZ": "Жалпы медицина", "EN": "General Medicine" },
+                "desc": { "RU": "Подготовка терапевтов и хирургов с большим объемом клинической практики.", "KZ": "Үлкен көлемдегі клиникалық практикамен терапевттер мен хирургтарды даярлау.", "EN": "Training general practitioners and surgeons with extensive clinical practice." }
+            },
+            {
+                "name": { "RU": "Сестринское дело", "KZ": "Мейіргер ісі", "EN": "Nursing" },
+                "desc": { "RU": "Высшее образование для медицинских сестер и братьев (бакалавриат).", "KZ": "Медициналық бикелер мен ағалар үшін жоғары білім (бакалавриат).", "EN": "Higher education for nurses (bachelor's degree)." }
+            },
+            {
+                "name": { "RU": "Радиационная медицина", "KZ": "Радиациялық медицина", "EN": "Radiation Medicine" },
+                "desc": { "RU": "Лечение и реабилитация при радиационных поражениях, медицинская физика.", "KZ": "Радиациялық зақымдануларды емдеу және оңалту, медициналық физика.", "EN": "Treatment and rehabilitation for radiation injuries, medical physics." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "ЗКГМУ им. Марата Оспанова", "KZ": "Марат Оспанов атындағы БҚММУ", "EN": "West Kazakhstan Medical University" },
+        "city_key": "city_aktobe",
+        "city": { "RU": "Актобе", "KZ": "Ақтөбе", "EN": "Aktobe" },
+        "category_key": "field_medicine",
+        "category": { "RU": "Медицина", "KZ": "Медицина", "EN": "Medicine" },
+        "min_score": 90,
+        "price": "1 207 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Главный медицинский университет Западного Казахстана. Обеспечивает кадрами весь западный регион, располагает собственным многопрофильным медицинским центром.",
+            "KZ": "Батыс Қазақстанның бас медициналық университеті. Бүкіл батыс өңірін кадрлармен қамтамасыз етеді, өзінің көпбейінді медициналық орталығы бар.",
+            "EN": "The main medical university of Western Kazakhstan. Provides personnel for the entire western region and has its own multidisciplinary medical center."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbWCedv4un9x4DFB0W00OwyK7dmR_8HKukg&s",
+        "specialties": [
+            {
+                "name": { "RU": "Стоматология", "KZ": "Стоматология", "EN": "Dentistry" },
+                "desc": { "RU": "Высококлассная подготовка стоматологов-терапевтов и хирургов.", "KZ": "Стоматолог-терапевттерді және хирургтарды жоғары сапалы даярлау.", "EN": "High-quality training for dentists and oral surgeons." }
+            },
+            {
+                "name": { "RU": "Фармация", "KZ": "Фармация", "EN": "Pharmacy" },
+                "desc": { "RU": "Специалисты по созданию и контролю качества лекарств.", "KZ": "Дәрі-дәрмектерді жасау және сапасын бақылау мамандары.", "EN": "Specialists in the creation and quality control of medicines." }
+            },
+            {
+                "name": { "RU": "Общественное здоровье", "KZ": "Қоғамдық денсаулық", "EN": "Public Health" },
+                "desc": { "RU": "Организация здравоохранения, эпидемиология и медицинская статистика.", "KZ": "Денсаулық сақтауды ұйымдастыру, эпидемиология және медициналық статистика.", "EN": "Healthcare organization, epidemiology, and medical statistics." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "ЮКМА", "KZ": "ОҚМА", "EN": "South Kazakhstan Medical Academy" },
+        "city_key": "city_shymkent",
+        "city": { "RU": "Шымкент", "KZ": "Шымкент", "EN": "Shymkent" },
+        "category_key": "field_medicine",
+        "category": { "RU": "Медицина", "KZ": "Медицина", "EN": "Medicine" },
+        "min_score": 85,
+        "price": "1 092 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Южно-Казахстанская медицинская академия — ключевой центр подготовки фармацевтов и врачей для южных регионов страны.",
+            "KZ": "Оңтүстік Қазақстан медицина академиясы — еліміздің оңтүстік өңірлері үшін фармацевттер мен дәрігерлерді даярлайтын негізгі орталық.",
+            "EN": "South Kazakhstan Medical Academy is a key center for training pharmacists and doctors for the southern regions of the country."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsk_aqexMhKxt307Po6ojf-jPwvJiLD-Oxkg&s",
+        "specialties": [
+            {
+                "name": { "RU": "Фармация", "KZ": "Фармация", "EN": "Pharmacy" },
+                "desc": { "RU": "Сильнейшая школа фармацевтики, промышленная фармация и контроль.", "KZ": "Ең мықты фармацевтика мектебі, өнеркәсіптік фармация және бақылау.", "EN": "The strongest pharmacy school, industrial pharmacy, and quality control." }
+            },
+            {
+                "name": { "RU": "Педиатрия", "KZ": "Педиатрия", "EN": "Pediatrics" },
+                "desc": { "RU": "Диагностика и лечение заболеваний у детей.", "KZ": "Балалардағы ауруларды диагностикалау және емдеу.", "EN": "Diagnosis and treatment of childhood diseases." }
+            },
+            {
+                "name": { "RU": "Клиническая фармакология", "KZ": "Клиникалық фармакология", "EN": "Clinical Pharmacology" },
+                "desc": { "RU": "Рациональное применение лекарств, фармаконадзор и лекарственная безопасность.", "KZ": "Дәрі-дәрмектерді ұтымды қолдану, фармаконадзор және дәрілік қауіпсіздік.", "EN": "Rational use of drugs, pharmacovigilance, and drug safety." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "AlmaU (Almaty Management University)", "KZ": "AlmaU (Алматы Менеджмент Университеті)", "EN": "AlmaU (Almaty Management University)" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_economics",
+        "category": { "RU": "Экономика и Бизнес", "KZ": "Экономика және Бизнес", "EN": "Economics & Business" },
+        "min_score": 85,
+        "price": "1 725 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Первый бизнес-вуз Казахстана. AlmaU специализируется на предпринимательстве, маркетинге и подготовке лидеров нового поколения. Практическое обучение и стартап-инкубаторы.",
+            "KZ": "Қазақстанның бірінші бизнес-ЖОО-сы. AlmaU кәсіпкерлікке, маркетингке және жаңа буын көшбасшыларын даярлауға маманданған. Практикалық оқыту және стартап-инкубаторлар.",
+            "EN": "The first business university in Kazakhstan. AlmaU specializes in entrepreneurship, marketing, and training next-generation leaders. Practical training and startup incubators."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCeLlRu7uZLMAi3S2p8Ve777BeVQZ7u74Gmg&s",
+        "specialties": [
+            {
+                "name": { "RU": "Предпринимательство", "KZ": "Кәсіпкерлік", "EN": "Entrepreneurship" },
+                "desc": { "RU": "Запуск собственных стартапов, масштабирование малого бизнеса.", "KZ": "Жеке стартаптарды іске қосу, шағын бизнесті масштабтау.", "EN": "Launching own startups, scaling small businesses." }
+            },
+            {
+                "name": { "RU": "Маркетинг", "KZ": "Маркетинг", "EN": "Marketing" },
+                "desc": { "RU": "Бренд-менеджмент, PR-кампании и цифровой маркетинг.", "KZ": "Бренд-менеджмент, PR-кампаниялар және цифрлық маркетинг.", "EN": "Brand management, PR campaigns, and digital marketing." }
+            },
+            {
+                "name": { "RU": "Логистика", "KZ": "Логистика", "EN": "Logistics" },
+                "desc": { "RU": "Управление цепочками поставок и международными перевозками.", "KZ": "Жеткізу тізбектерін және халықаралық тасымалдарды басқару.", "EN": "Supply chain management and international transportation." }
+            },
+            {
+                "name": { "RU": "Управление инновациями", "KZ": "Инновацияларды басқару", "EN": "Innovation Management" },
+                "desc": { "RU": "Технологический аудит, коммерциализация идей и венчурное инвестирование.", "KZ": "Технологиялық аудит, идеяларды коммерцияландыру және венчурлық инвестициялау.", "EN": "Technology audit, commercialization of ideas, and venture investment." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Университет Туран", "KZ": "Тұран университеті", "EN": "Turan University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_economics",
+        "category": { "RU": "Экономика и Бизнес", "KZ": "Экономика және Бизнес", "EN": "Economics & Business" },
+        "min_score": 75,
+        "price": "1 092 500 ₸",
+        "has_dormitory": false,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Инновационный университет в Алматы, предлагающий программы в экономике, юриспруденции, IT и туризме. Фокус на карьерный рост и трудоустройство выпускников.",
+            "KZ": "Алматыдағы экономика, құқықтану, IT және туризм бағдарламаларын ұсынатын инновациялық университет. Түлектердің мансаптық өсуіне және жұмысқа орналасуына баса назар аударады.",
+            "EN": "An innovative university in Almaty offering programs in economics, law, IT, and tourism. Focuses on career growth and employment of graduates."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbE6esXOJ3r4inyfs3k0g5PB_lXP-gzPQQFw&s",
+        "specialties": [
+            {
+                "name": { "RU": "Туризм", "KZ": "Туризм", "EN": "Tourism" },
+                "desc": { "RU": "Управление туристическими потоками, отельный и ресторанный бизнес.", "KZ": "Туристік ағындарды басқару, қонақүй және мейрамхана бизнесі.", "EN": "Tourism flow management, hotel and restaurant business." }
+            },
+            {
+                "name": { "RU": "Менеджмент", "KZ": "Менеджмент", "EN": "Management" },
+                "desc": { "RU": "Бизнес-планирование, корпоративное управление и лидерство.", "KZ": "Бизнес-жоспарлау, корпоративтік басқару және көшбасшылық.", "EN": "Business planning, corporate governance, and leadership." }
+            },
+            {
+                "name": { "RU": "Цифровой маркетинг", "KZ": "Цифрлық маркетинг", "EN": "Digital Marketing" },
+                "desc": { "RU": "SEO, контекстная реклама, SMM и веб-аналитика.", "KZ": "SEO, контекстік жарнама, SMM және веб-аналитика.", "EN": "SEO, contextual advertising, SMM, and web analytics." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазУЭФМТ (Университет Есиль)", "KZ": "ҚазЭҚХСУ (Есіл университеті)", "EN": "Esil University" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_economics",
+        "category": { "RU": "Экономика и Бизнес", "KZ": "Экономика және Бизнес", "EN": "Economics & Business" },
+        "min_score": 80,
+        "price": "1 150 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Главный профильный финансовый вуз в Астане. Готовит высококлассных финансистов, бухгалтеров и специалистов для банковского и государственного секторов.",
+            "KZ": "Астанадағы бас бейінді қаржылық ЖОО. Банк және мемлекеттік секторлар үшін жоғары класты қаржыгерлерді, бухгалтерлерді және мамандарды даярлайды.",
+            "EN": "The main specialized financial university in Astana. Trains highly qualified financiers, accountants, and specialists for the banking and public sectors."
+        },
+        "image_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEZAI0j6x40Tg/company-logo_200_200/company-logo_200_200/0/1630596937974/kuef_logo?e=2147483647&v=beta&t=xB1_xjnyOc08GAJx0vQq7DcoNHKhBU7FsXl9Q-q5lHM",
+        "specialties": [
+            {
+                "name": { "RU": "Финансы", "KZ": "Қаржы", "EN": "Finance" },
+                "desc": { "RU": "Аналитика банковских систем, налоги и инвестиционное планирование.", "KZ": "Банк жүйелерінің аналитикасы, салықтар және инвестициялық жоспарлау.", "EN": "Banking systems analytics, taxes, and investment planning." }
+            },
+            {
+                "name": { "RU": "Государственное управление", "KZ": "Мемлекеттік басқару", "EN": "Public Administration" },
+                "desc": { "RU": "Менеджмент в госсекторе, подготовка кадров для министерств и акиматов.", "KZ": "Мемлекеттік сектордағы менеджмент, министрліктер мен әкімдіктерге кадрлар даярлау.", "EN": "Public sector management, training for ministries and akimats." }
+            },
+            {
+                "name": { "RU": "Банковское дело", "KZ": "Банк ісі", "EN": "Banking" },
+                "desc": { "RU": "Кредитование, управление банковскими рисками и цифровые банковские сервисы.", "KZ": "Кредиттеу, банктік тәуекелдерді басқару және цифрлық банк қызметтері.", "EN": "Lending, bank risk management, and digital banking services." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазНИТУ им. К.И. Сатпаева (Polytech)", "KZ": "Қ.И. Сәтбаев атындағы ҚазҰТЗУ (Polytech)", "EN": "Satbayev University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 85,
+        "price": "1 322 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Политех — легендарный и крупнейший технический вуз Казахстана. Инновационный научно-исследовательский университет, готовящий элиту для инженерии, горного и нефтегазового дела.",
+            "KZ": "Политех — Қазақстанның аты аңызға айналған және ең ірі техникалық ЖОО. Инженерия, тау-кен және мұнай-газ ісі үшін элитаны даярлайтын инновациялық ғылыми-зерттеу университеті.",
+            "EN": "Polytech is the legendary and largest technical university in Kazakhstan. An innovative research university training the elite for engineering, mining, and the oil and gas industry."
+        },
+        "image_url": "https://habrastorage.org/getpro/moikrug/uploads/university/000/044/742/logo/medium_7a5f7eaa2fe6603803b7b041a983ddc1.jpg",
+        "specialties": [
+            {
+                "name": { "RU": "Горное дело", "KZ": "Тау-кен ісі", "EN": "Mining Engineering" },
+                "desc": { "RU": "Проектирование шахт, добыча полезных ископаемых и маркшейдерия.", "KZ": "Шахталарды жобалау, пайдалы қазбаларды өндіру және маркшейдерия.", "EN": "Mine design, mineral extraction, and mine surveying." }
+            },
+            {
+                "name": { "RU": "Нефтегазовое дело", "KZ": "Мұнай-газ ісі", "EN": "Oil and Gas Engineering" },
+                "desc": { "RU": "Разработка месторождений углеводородов и бурение скважин.", "KZ": "Көмірсутек кен орындарын игеру және ұңғымаларды бұрғылау.", "EN": "Hydrocarbon field development and well drilling." }
+            },
+            {
+                "name": { "RU": "Металлургия", "KZ": "Металлургия", "EN": "Metallurgy" },
+                "desc": { "RU": "Инновационные технологии извлечения металлов и материаловедение.", "KZ": "Металдарды алудың инновациялық технологиялары және материалтану.", "EN": "Innovative metal extraction technologies and materials science." }
+            },
+            {
+                "name": { "RU": "Промышленный инжиниринг", "KZ": "Өнеркәсіптік инжиниринг", "EN": "Industrial Engineering" },
+                "desc": { "RU": "Оптимизация производственных процессов, логистика и бережливое производство.", "KZ": "Өндірістік процестерді оңтайландыру, логистика және үнемді өндіріс.", "EN": "Optimization of production processes, logistics, and lean manufacturing." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Карагандинский технический университет", "KZ": "Қарағанды техникалық университеті", "EN": "Karaganda Technical University" },
+        "city_key": "city_karaganda",
+        "city": { "RU": "Караганда", "KZ": "Қарағанды", "EN": "Karaganda" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 75,
+        "price": "977 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Карагандинский Политех — мощная кузница инженерных кадров для горно-металлургической промышленности Центрального Казахстана.",
+            "KZ": "Қарағанды Политехы — Орталық Қазақстанның тау-кен металлургия өнеркәсібі үшін инженерлік кадрлардың мықты ұстаханасы.",
+            "EN": "Karaganda Polytech is a powerful forge of engineering personnel for the mining and metallurgical industry of Central Kazakhstan."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=5b0f85a8d8a6f3fc6950c869fd2b9f300a646806-10702343-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Машиностроение", "KZ": "Машина жасау", "EN": "Mechanical Engineering" },
+                "desc": { "RU": "Проектирование тяжелой техники и автоматизация производства.", "KZ": "Ауыр техниканы жобалау және өндірісті автоматтандыру.", "EN": "Design of heavy machinery and production automation." }
+            },
+            {
+                "name": { "RU": "Горное дело", "KZ": "Тау-кен ісі", "EN": "Mining Engineering" },
+                "desc": { "RU": "Технологии подземной и открытой добычи угля и руды.", "KZ": "Көмір мен кенді жер асты және ашық әдіспен өндіру технологиялары.", "EN": "Technologies for underground and open-pit mining of coal and ore." }
+            },
+            {
+                "name": { "RU": "Промышленная безопасность", "KZ": "Өнеркәсіптік қауіпсіздік", "EN": "Industrial Safety" },
+                "desc": { "RU": "Охрана труда, риск-менеджмент на шахтах и заводах.", "KZ": "Еңбекті қорғау, шахталар мен зауыттардағы тәуекел-менеджмент.", "EN": "Occupational safety, risk management in mines and factories." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "ВКТУ им. Д. Серикбаева", "KZ": "Д. Серікбаев атындағы ШҚТУ", "EN": "EKTU named after D. Serikbayev" },
+        "city_key": "city_ustkamenogorsk",
+        "city": { "RU": "Усть-Каменогорск", "KZ": "Өскемен", "EN": "Ust-Kamenogorsk" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 70,
+        "price": "920 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Восточно-Казахстанский технический университет — передовой вуз, работающий в тесной связке с крупнейшими металлургическими заводами Востока.",
+            "KZ": "Шығыс Қазақстан техникалық университеті — Шығыстың ірі металлургиялық зауыттарымен тығыз байланыста жұмыс істейтін озық ЖОО.",
+            "EN": "East Kazakhstan Technical University is an advanced university working closely with the largest metallurgical plants in the East."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=45388b5a50481cafda16b90a40fa6ddd61cd6b86-5147303-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Металлургия", "KZ": "Металлургия", "EN": "Metallurgy" },
+                "desc": { "RU": "Цветная металлургия и производство редких металлов.", "KZ": "Түсті металлургия және сирек металдар өндірісі.", "EN": "Non-ferrous metallurgy and production of rare metals." }
+            },
+            {
+                "name": { "RU": "Транспортная техника", "KZ": "Көлік техникасы", "EN": "Transport Engineering" },
+                "desc": { "RU": "Логистика, обслуживание грузовиков и спецтехники.", "KZ": "Логистика, жүк көліктері мен арнайы техникаға қызмет көрсету.", "EN": "Logistics, maintenance of trucks and special equipment." }
+            },
+            {
+                "name": { "RU": "Экологическая инженерия", "KZ": "Экологиялық инженерия", "EN": "Environmental Engineering" },
+                "desc": { "RU": "Очистка промышленных выбросов, рекультивация земель и экологический мониторинг.", "KZ": "Өнеркәсіптік шығарындыларды тазарту, жерлерді қалпына келтіру және экологиялық мониторинг.", "EN": "Industrial emission treatment, land reclamation, and environmental monitoring." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазГАСА", "KZ": "ҚазБСҚА", "EN": "KazGASA" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 85,
+        "price": "1 380 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Ведущая архитектурно-строительная академия Казахстана. Выпускает лучших архитекторов, дизайнеров интерьера и инженеров-строителей в стране.",
+            "KZ": "Қазақстанның жетекші сәулет-құрылыс академиясы. Еліміздегі ең үздік сәулетшілерді, интерьер дизайнерлерін және инженер-құрылысшыларды шығарады.",
+            "EN": "The leading architectural and civil engineering academy in Kazakhstan. Graduates the best architects, interior designers, and civil engineers in the country."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMKl4BqIF83RgiDi9FdDxgjhBZgsagNonYQ&s",
+        "specialties": [
+            {
+                "name": { "RU": "Архитектура", "KZ": "Сәулет", "EN": "Architecture" },
+                "desc": { "RU": "Градостроительство, объемное проектирование и ландшафтная архитектура.", "KZ": "Қала құрылысы, көлемді жобалау және ландшафтық сәулет.", "EN": "Urban planning, volume design, and landscape architecture." }
+            },
+            {
+                "name": { "RU": "Строительство", "KZ": "Құрылыс", "EN": "Civil Engineering" },
+                "desc": { "RU": "Расчет железобетонных конструкций, сейсмостойкое строительство.", "KZ": "Темірбетон конструкцияларын есептеу, сейсмикалық төзімді құрылыс.", "EN": "Calculation of reinforced concrete structures, earthquake-resistant construction." }
+            },
+            {
+                "name": { "RU": "Дизайн", "KZ": "Дизайн", "EN": "Design" },
+                "desc": { "RU": "Дизайн интерьеров, архитектурная среда и промышленный дизайн.", "KZ": "Интерьер дизайны, сәулет ортасы және өнеркәсіптік дизайн.", "EN": "Interior design, architectural environment, and industrial design." }
+            },
+            {
+                "name": { "RU": "Умные города и BIM", "KZ": "Ақылды қалалар және BIM", "EN": "Smart Cities and BIM" },
+                "desc": { "RU": "Информационное моделирование зданий, цифровые двойники и городская аналитика.", "KZ": "Ғимараттарды ақпараттық модельдеу, цифрлық егіздер және қалалық аналитика.", "EN": "Building information modeling, digital twins, and urban analytics." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Торайгыров Университет", "KZ": "Торайғыров университеті", "EN": "Toraighyrov University" },
+        "city_key": "city_pavlodar",
+        "city": { "RU": "Павлодар", "KZ": "Павлодар", "EN": "Pavlodar" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 70,
+        "price": "862 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Многопрофильный вуз с сильной инженерной школой, обеспечивающий кадрами крупнейшие промышленные и энергетические узлы Павлодарского региона.",
+            "KZ": "Павлодар өңірінің ірі өнеркәсіптік және энергетикалық тораптарын кадрлармен қамтамасыз ететін мықты инженерлік мектебі бар көпсалалы ЖОО.",
+            "EN": "A multidisciplinary university with a strong engineering school, providing personnel for the largest industrial and energy hubs of the Pavlodar region."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2RAd9L-n-7W5d3dYZQN5LHI9Cr1nbxW2CQ&s",
+        "specialties": [
+            {
+                "name": { "RU": "Электроэнергетика", "KZ": "Электр энергетикасы", "EN": "Electric Power Engineering" },
+                "desc": { "RU": "Эксплуатация подстанций и теплоэнергетических сетей.", "KZ": "Қосалқы станцияларды және жылу энергетикалық желілерді пайдалану.", "EN": "Operation of substations and thermal power networks." }
+            },
+            {
+                "name": { "RU": "Химическая технология", "KZ": "Химиялық технология", "EN": "Chemical Technology" },
+                "desc": { "RU": "Нефтепереработка и технологии неорганических веществ.", "KZ": "Мұнай өңдеу және бейорганикалық заттар технологиясы.", "EN": "Oil refining and inorganic substance technologies." }
+            },
+            {
+                "name": { "RU": "Атомная энергетика", "KZ": "Атом энергетикасы", "EN": "Nuclear Energy" },
+                "desc": { "RU": "Безопасность АЭС, радиационная защита и ядерные технологии.", "KZ": "АЭС қауіпсіздігі, радиациялық қорғаныс және ядролық технологиялар.", "EN": "Nuclear power plant safety, radiation protection, and nuclear technologies." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазНПУ им. Абая", "KZ": "Абай атындағы ҚазҰПУ", "EN": "Abai KazNPU" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 90,
+        "price": "1 207 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Первый и главный педагогический вуз Казахстана. Формирует стандарты современного образования и готовит лучших учителей, психологов и филологов.",
+            "KZ": "Қазақстанның бірінші және бас педагогикалық ЖОО. Заманауи білім беру стандарттарын қалыптастырады және ең үздік мұғалімдерді, психологтар мен филологтарды даярлайды.",
+            "EN": "The first and main pedagogical university in Kazakhstan. Shapes modern education standards and trains the best teachers, psychologists, and philologists."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=2d94eaa46bab89b1551b6712cd79313687cb4204-5220345-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Педагогика и психология", "KZ": "Педагогика және психология", "EN": "Pedagogy and Psychology" },
+                "desc": { "RU": "Инновационные методы преподавания и детская психология.", "KZ": "Оқытудың инновациялық әдістері және балалар психологиясы.", "EN": "Innovative teaching methods and child psychology." }
+            },
+            {
+                "name": { "RU": "Иностранные языки", "KZ": "Шетел тілдері", "EN": "Foreign Languages" },
+                "desc": { "RU": "Подготовка учителей английского языка с международными стандартами.", "KZ": "Халықаралық стандарттармен ағылшын тілі мұғалімдерін даярлау.", "EN": "Training English language teachers with international standards." }
+            },
+            {
+                "name": { "RU": "Специальная педагогика", "KZ": "Арнайы педагогика", "EN": "Special Pedagogy" },
+                "desc": { "RU": "Логопедия, дефектология и инклюзивное образование.", "KZ": "Логопедия, дефектология және инклюзивті білім беру.", "EN": "Speech therapy, defectology, and inclusive education." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазУМОиМЯ им. Абылай хана", "KZ": "Абылай хан атындағы ҚазХҚжӘТУ", "EN": "Ablai Khan KazUIR&WL" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 95,
+        "price": "1 437 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Знаменитый 'Иняз'. Центр элитной подготовки переводчиков-синхронистов, дипломатов и специалистов по международным отношениям с глубоким погружением в языковую среду.",
+            "KZ": "Атақты 'Иняз'. Тілдік ортаға терең бойлай отырып, ілеспе аудармашыларды, дипломаттарды және халықаралық қатынастар мамандарын элиталық даярлау орталығы.",
+            "EN": "The famous 'Inyaz'. A center for elite training of simultaneous interpreters, diplomats, and international relations specialists with deep linguistic immersion."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=22111961ac6155085254f7b48972c73b79c70520-4860157-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Переводческое дело", "KZ": "Аударма ісі", "EN": "Translation Studies" },
+                "desc": { "RU": "Синхронный и художественный перевод нескольких европейских или азиатских языков.", "KZ": "Бірнеше еуропалық немесе азиялық тілдердің ілеспе және көркем аудармасы.", "EN": "Simultaneous and literary translation of several European or Asian languages." }
+            },
+            {
+                "name": { "RU": "Международные отношения", "KZ": "Халықаралық қатынастар", "EN": "International Relations" },
+                "desc": { "RU": "Внешняя политика, геополитика и дипломатический протокол.", "KZ": "Сыртқы саясат, геосаясат және дипломатиялық хаттама.", "EN": "Foreign policy, geopolitics, and diplomatic protocol." }
+            },
+            {
+                "name": { "RU": "Цифровая лингвистика", "KZ": "Цифрлық лингвистика", "EN": "Digital Linguistics" },
+                "desc": { "RU": "Обработка естественного языка, машинный перевод и корпусная лингвистика.", "KZ": "Табиғи тілді өңдеу, машиналық аударма және корпустық лингвистика.", "EN": "Natural language processing, machine translation, and corpus linguistics." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Карагандинский университет им. Букетова", "KZ": "Е.А. Бөкетов атындағы Қарағанды университеті", "EN": "Buketov Karaganda University" },
+        "city_key": "city_karaganda",
+        "city": { "RU": "Караганда", "KZ": "Қарағанды", "EN": "Karaganda" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 80,
+        "price": "977 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Классический многопрофильный вуз. Имеет сильнейшую в регионе базу подготовки по юридическим, гуманитарным и естественно-научным специальностям.",
+            "KZ": "Классикалық көпсалалы ЖОО. Заң, гуманитарлық және жаратылыстану мамандықтары бойынша өңірдегі ең мықты даярлық базасы бар.",
+            "EN": "A classical multidisciplinary university. Has the strongest base in the region for training in legal, humanitarian, and natural science specialties."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayIj9nsN5ZvIBxXnkYvMgc7ey2eQk5IWcpw&s",
+        "specialties": [
+            {
+                "name": { "RU": "Юриспруденция", "KZ": "Құқықтану", "EN": "Jurisprudence" },
+                "desc": { "RU": "Фундаментальная подготовка для судов, прокуратуры и адвокатуры.", "KZ": "Соттар, прокуратура және адвокатура үшін іргелі дайындық.", "EN": "Fundamental training for courts, prosecution, and the bar." }
+            },
+            {
+                "name": { "RU": "Психология", "KZ": "Психология", "EN": "Psychology" },
+                "desc": { "RU": "Социальная, возрастная и клиническая психология.", "KZ": "Әлеуметтік, жас ерекшелік және клиникалық психология.", "EN": "Social, developmental, and clinical psychology." }
+            },
+            {
+                "name": { "RU": "Социология и социальная работа", "KZ": "Әлеуметтану және әлеуметтік жұмыс", "EN": "Sociology and Social Work" },
+                "desc": { "RU": "Исследование общества, социальное консультирование и защита уязвимых групп.", "KZ": "Қоғамды зерттеу, әлеуметтік кеңес беру және осал топтарды қорғау.", "EN": "Society research, social counseling, and protection of vulnerable groups." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "ЮКУ им. М. Ауэзова", "KZ": "М. Әуезов атындағы ОҚУ", "EN": "Auezov South Kazakhstan University" },
+        "city_key": "city_shymkent",
+        "city": { "RU": "Шымкент", "KZ": "Шымкент", "EN": "Shymkent" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 75,
+        "price": "920 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Крупнейший университет Южного Казахстана, гармонично сочетающий инженерные и гуманитарные направления с акцентом на региональное развитие.",
+            "KZ": "Инженерлік және гуманитарлық бағыттарды өңірлік дамуға баса назар аудара отырып үйлесімді біріктіретін Оңтүстік Қазақстанның ең ірі университеті.",
+            "EN": "The largest university in South Kazakhstan, harmoniously combining engineering and humanities with an emphasis on regional development."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=774ca21a33a9a66b8160c71deeeff09efbce3a55-3493287-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "История", "KZ": "Тарих", "EN": "History" },
+                "desc": { "RU": "Изучение древних цивилизаций и истории независимого Казахстана.", "KZ": "Ежелгі өркениеттерді және тәуелсіз Қазақстан тарихын зерттеу.", "EN": "Study of ancient civilizations and the history of independent Kazakhstan." }
+            },
+            {
+                "name": { "RU": "Биотехнология", "KZ": "Биотехнология", "EN": "Biotechnology" },
+                "desc": { "RU": "Пищевые и аграрные биотехнологии южного региона.", "KZ": "Оңтүстік өңірдің тамақ және аграрлық биотехнологиялары.", "EN": "Food and agricultural biotechnologies of the southern region." }
+            },
+            {
+                "name": { "RU": "Регионоведение", "KZ": "Өңіртану", "EN": "Regional Studies" },
+                "desc": { "RU": "Анализ социально-экономического развития Южного Казахстана и соседних стран.", "KZ": "Оңтүстік Қазақстан мен көршілес елдердің әлеуметтік-экономикалық дамуын талдау.", "EN": "Analysis of socio-economic development of South Kazakhstan and neighboring countries." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "АРУ им. К. Жубанова", "KZ": "Қ. Жұбанов атындағы АӨУ", "EN": "Zhubanov ARU" },
+        "city_key": "city_aktobe",
+        "city": { "RU": "Актобе", "KZ": "Ақтөбе", "EN": "Aktobe" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 75,
+        "price": "862 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Флагман высшего образования западного региона. Вуз активно развивает педагогические и гуманитарные науки, опираясь на культурное наследие страны.",
+            "KZ": "Батыс өңірінің жоғары білім беру флагманы. ЖОО елдің мәдени мұрасына сүйене отырып, педагогикалық және гуманитарлық ғылымдарды белсенді дамытуда.",
+            "EN": "The flagship of higher education in the western region. The university actively develops pedagogical and humanities sciences based on the country's cultural heritage."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=9f0d504eb699cb5e9a9cca95b9bf4e4ede1b894b-13315631-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Казахская филология", "KZ": "Қазақ филологиясы", "EN": "Kazakh Philology" },
+                "desc": { "RU": "Исследование языка, фольклора и литературы великих степей.", "KZ": "Ұлы дала тілін, фольклорын және әдебиетін зерттеу.", "EN": "Research of the language, folklore, and literature of the great steppes." }
+            },
+            {
+                "name": { "RU": "Дошкольное обучение", "KZ": "Мектепке дейінгі оқыту", "EN": "Pre-school Education" },
+                "desc": { "RU": "Психология раннего развития и подготовка воспитателей нового типа.", "KZ": "Ерте даму психологиясы және жаңа типтегі тәрбиешілерді даярлау.", "EN": "Psychology of early development and training of new-type educators." }
+            },
+            {
+                "name": { "RU": "Культурное наследие", "KZ": "Мәдени мұра", "EN": "Cultural Heritage" },
+                "desc": { "RU": "Охрана памятников, музееведение и традиционное ремесло.", "KZ": "Ескерткіштерді қорғау, музеология және дәстүрлі қолөнер.", "EN": "Monument protection, museology, and traditional crafts." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазАТИУ им. С. Сейфуллина", "KZ": "С. Сейфуллин атындағы ҚазАТЗУ", "EN": "Seifullin KATRU" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 75,
+        "price": "920 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Ведущий агротехнический университет Центрального Казахстана. Внедряет инновации в сельское хозяйство, биотехнологии и землеустройство.",
+            "KZ": "Орталық Қазақстанның жетекші агротехникалық университеті. Ауыл шаруашылығына, биотехнологияға және жерге орналастыруға инновацияларды енгізуде.",
+            "EN": "The leading agrotechnical university in Central Kazakhstan. Introduces innovations in agriculture, biotechnology, and land management."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRNRqRywW3sHHmXV1935SJej5akL5pOhfEg&s",
+        "specialties": [
+            {
+                "name": { "RU": "Агрономия", "KZ": "Агрономия", "EN": "Agronomy" },
+                "desc": { "RU": "Точное земледелие, генетика растений и управление урожайностью.", "KZ": "Нақты егіншілік, өсімдіктер генетикасы және өнімділікті басқару.", "EN": "Precision farming, plant genetics, and yield management." }
+            },
+            {
+                "name": { "RU": "Землеустройство", "KZ": "Жерге орналастыру", "EN": "Land Management" },
+                "desc": { "RU": "Геодезия, картография и цифровой кадастр.", "KZ": "Геодезия, картография және цифрлық кадастр.", "EN": "Geodesy, cartography, and digital cadastre." }
+            },
+            {
+                "name": { "RU": "Агроинженерия", "KZ": "Агроинженерия", "EN": "Agroengineering" },
+                "desc": { "RU": "Современная сельхозтехника, дроны для мониторинга полей и автоматизация ферм.", "KZ": "Заманауи ауылшаруашылық техникасы, егістіктерді бақылауға арналған дрондар және фермаларды автоматтандыру.", "EN": "Modern agricultural machinery, drones for field monitoring, and farm automation." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Astana International University", "KZ": "Astana International University", "EN": "Astana International University" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 80,
+        "price": "1 035 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Молодой амбициозный вуз в столице, делающий ставку на международные стандарты, дипломатию, экологию и современный дизайн.",
+            "KZ": "Елордадағы халықаралық стандарттарға, дипломатияға, экологияға және заманауи дизайнға бәс тігетін жас, өршіл ЖОО.",
+            "EN": "A young, ambitious university in the capital, focusing on international standards, diplomacy, ecology, and modern design."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=7b9b57b9543940b11eff05bd0817e943363f14d1-12569664-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Международные отношения", "KZ": "Халықаралық қатынастар", "EN": "International Relations" },
+                "desc": { "RU": "Глобальная интеграция, политический анализ и языковая подготовка.", "KZ": "Жаһандық интеграция, саяси талдау және тілдік дайындық.", "EN": "Global integration, political analysis, and language training." }
+            },
+            {
+                "name": { "RU": "Экология", "KZ": "Экология", "EN": "Ecology" },
+                "desc": { "RU": "ESG стандарты, устойчивое развитие и защита климата.", "KZ": "ESG стандарттары, тұрақты даму және климатты қорғау.", "EN": "ESG standards, sustainable development, and climate protection." }
+            },
+            {
+                "name": { "RU": "Урбанистика", "KZ": "Урбанистика", "EN": "Urban Studies" },
+                "desc": { "RU": "Планирование городов, транспортные системы и социальная инфраструктура.", "KZ": "Қалаларды жоспарлау, көлік жүйелері және әлеуметтік инфрақұрылым.", "EN": "Urban planning, transport systems, and social infrastructure." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Университет Туран-Астана", "KZ": "Тұран-Астана университеті", "EN": "Turan-Astana University" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_economics",
+        "category": { "RU": "Экономика и Бизнес", "KZ": "Экономика және Бизнес", "EN": "Economics & Business" },
+        "min_score": 75,
+        "price": "977 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Столичный филиал инновационного образовательного хаба. Ориентирован на подготовку бизнес-администраторов и менеджеров по туризму.",
+            "KZ": "Инновациялық білім беру хабының елордалық филиалы. Бизнес-әкімшілер мен туризм менеджерлерін даярлауға бағытталған.",
+            "EN": "The capital branch of an innovative educational hub. Focused on training business administrators and tourism managers."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZoRwaFZcrWLJgss_s3eZWtwe4g4TMkGUBg&s",
+        "specialties": [
+            {
+                "name": { "RU": "Менеджмент", "KZ": "Менеджмент", "EN": "Management" },
+                "desc": { "RU": "Организация стартапов, управление персоналом и корпоративные стратегии.", "KZ": "Стартаптарды ұйымдастыру, персоналды басқару және корпоративтік стратегиялар.", "EN": "Organizing startups, HR management, and corporate strategies." }
+            },
+            {
+                "name": { "RU": "Туризм", "KZ": "Туризм", "EN": "Tourism" },
+                "desc": { "RU": "Индустрия гостеприимства и международный туризм.", "KZ": "Қонақжайлылық индустриясы және халықаралық туризм.", "EN": "Hospitality industry and international tourism." }
+            },
+            {
+                "name": { "RU": "Гостиничный бизнес", "KZ": "Қонақүй бизнесі", "EN": "Hotel Business" },
+                "desc": { "RU": "Управление отелями, сервисное обслуживание и event-организация.", "KZ": "Қонақүйлерді басқару, сервистік қызмет көрсету және іс-шараларды ұйымдастыру.", "EN": "Hotel management, customer service, and event organization." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Евразийский гуманитарный институт (ЕАГИ)", "KZ": "Еуразия гуманитарлық институты", "EN": "Eurasian Humanities Institute" },
+        "city_key": "city_astana",
+        "city": { "RU": "Астана", "KZ": "Астана", "EN": "Astana" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 75,
+        "price": "805 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Компактный и уютный институт в Астане, специализирующийся на качественной подготовке педагогов и филологов.",
+            "KZ": "Астанадағы педагогтар мен филологтарды сапалы даярлауға маманданған ықшам әрі жайлы институт.",
+            "EN": "A compact and cozy institute in Astana specializing in the quality training of teachers and philologists."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=867ad045518dd1d02d6f62e8363ef3c21ed7d023-4429678-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Иностранная филология", "KZ": "Шетел филологиясы", "EN": "Foreign Philology" },
+                "desc": { "RU": "Глубокое изучение структуры европейских языков и литературы.", "KZ": "Еуропалық тілдер мен әдебиеттің құрылымын тереңдетіп оқыту.", "EN": "In-depth study of the structure of European languages and literature." }
+            },
+            {
+                "name": { "RU": "Педагогика", "KZ": "Педагогика", "EN": "Pedagogy" },
+                "desc": { "RU": "Подготовка методистов и учителей начальных классов.", "KZ": "Әдіскерлерді және бастауыш сынып мұғалімдерін даярлау.", "EN": "Training of methodologists and primary school teachers." }
+            },
+            {
+                "name": { "RU": "Психолого-педагогическое консультирование", "KZ": "Психологиялық-педагогикалық кеңес беру", "EN": "Psychological and Pedagogical Counseling" },
+                "desc": { "RU": "Семейное консультирование, коррекционная педагогика и профориентация.", "KZ": "Отбасылық кеңес беру, түзету педагогикасы және кәсіптік бағдар.", "EN": "Family counseling, correctional pedagogy, and career guidance." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Университет международного бизнеса (UIB)", "KZ": "Халықаралық бизнес университеті", "EN": "University of International Business" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_economics",
+        "category": { "RU": "Экономика и Бизнес", "KZ": "Экономика және Бизнес", "EN": "Economics & Business" },
+        "min_score": 85,
+        "price": "1 380 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Яркий и современный бизнес-университет в центре Алматы. Известен активной студенческой жизнью и упором на практический маркетинг, аудит и предпринимательство.",
+            "KZ": "Алматының орталығындағы жарқын әрі заманауи бизнес-университет. Белсенді студенттік өмірімен және практикалық маркетинг, аудит пен кәсіпкерлікке баса назар аударуымен танымал.",
+            "EN": "A bright and modern business university in the center of Almaty. Known for its active student life and emphasis on practical marketing, auditing, and entrepreneurship."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=845b0fd304de473694442b31c18339f7d9a4e17d-5651933-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Маркетинг", "KZ": "Маркетинг", "EN": "Marketing" },
+                "desc": { "RU": "Цифровой PR, создание брендов и управление рекламными бюджетами.", "KZ": "Цифрлық PR, брендтер жасау және жарнама бюджеттерін басқару.", "EN": "Digital PR, brand creation, and advertising budget management." }
+            },
+            {
+                "name": { "RU": "Учет и аудит", "KZ": "Есеп және аудит", "EN": "Accounting and Audit" },
+                "desc": { "RU": "Бухгалтерия 1С, финансовый контроль и международная отчетность.", "KZ": "1С бухгалтериясы, қаржылық бақылау және халықаралық есептілік.", "EN": "1C accounting, financial control, and international reporting." }
+            },
+            {
+                "name": { "RU": "Корпоративное право", "KZ": "Корпоративтік құқық", "EN": "Corporate Law" },
+                "desc": { "RU": "Регистрация бизнеса, договорная работа и правовая защита компаний.", "KZ": "Бизнесті тіркеу, келісімшарттық жұмыс және компанияларды құқықтық қорғау.", "EN": "Business registration, contract work, and legal protection of companies." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Алматинский технологический университет (АТУ)", "KZ": "Алматы технологиялық университеті (АТУ)", "EN": "Almaty Technological University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 75,
+        "price": "1 035 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Непревзойденный лидер в подготовке инженеров-технологов для пищевой и легкой промышленности. Здесь создают еду будущего и тренды текстиля.",
+            "KZ": "Тамақ және жеңіл өнеркәсіп үшін инженер-технологтарды даярлаудағы теңдессіз көшбасшы. Мұнда болашақтың тамағы мен тоқыма трендтері жасалады.",
+            "EN": "An unsurpassed leader in training engineering technologists for the food and light industries. Here, the food of the future and textile trends are created."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHS6wz5HTSQgviBeNeH1Dwf0tJNLfIp0WrSQ&s",
+        "specialties": [
+            {
+                "name": { "RU": "Технология пищевых производств", "KZ": "Тамақ өнімдерінің технологиясы", "EN": "Food Production Technology" },
+                "desc": { "RU": "Пищевая химия, контроль качества и создание новых рецептур.", "KZ": "Тамақ химиясы, сапаны бақылау және жаңа рецептуралар жасау.", "EN": "Food chemistry, quality control, and creation of new recipes." }
+            },
+            {
+                "name": { "RU": "Дизайн легкой промышленности", "KZ": "Жеңіл өнеркәсіп дизайны", "EN": "Light Industry Design" },
+                "desc": { "RU": "Конструирование одежды, 3D-моделирование и фэшн-дизайн.", "KZ": "Киімді конструкциялау, 3D-модельдеу және сән дизайны.", "EN": "Garment construction, 3D modeling, and fashion design." }
+            },
+            {
+                "name": { "RU": "Биотехнология продуктов", "KZ": "Өнімдер биотехнологиясы", "EN": "Food Biotechnology" },
+                "desc": { "RU": "Ферментация, пробиотики и функциональное питание.", "KZ": "Ферментация, пробиотиктер және функционалдық тамақтану.", "EN": "Fermentation, probiotics, and functional nutrition." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Caspian University", "KZ": "Caspian University", "EN": "Caspian University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 80,
+        "price": "1 265 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Многопрофильный частный вуз, гордостью которого является Школа права 'Адилет' — одна из сильнейших юридических академий страны.",
+            "KZ": "Мақтанышы 'Әділет' құқық мектебі болып табылатын көпсалалы жекеменшік ЖОО — еліміздегі ең мықты заң академияларының бірі.",
+            "EN": "A multidisciplinary private university, the pride of which is the 'Adilet' School of Law — one of the strongest legal academies in the country."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_T1NYvuOvXk7NAj2sHNvFBC6aq04NsgHvA&s",
+        "specialties": [
+            {
+                "name": { "RU": "Юриспруденция (Школа Адилет)", "KZ": "Құқықтану (Әділет мектебі)", "EN": "Jurisprudence (Adilet School)" },
+                "desc": { "RU": "Элитарная подготовка судей, адвокатов и нотариусов.", "KZ": "Судьяларды, адвокаттарды және нотариустарды элиталық даярлау.", "EN": "Elite training of judges, lawyers, and notaries." }
+            },
+            {
+                "name": { "RU": "Нефтегазовое дело", "KZ": "Мұнай-газ ісі", "EN": "Oil and Gas Engineering" },
+                "desc": { "RU": "Технологии добычи углеводородов и работа на шельфе Каспия.", "KZ": "Көмірсутектерді өндіру технологиялары және Каспий қайраңында жұмыс істеу.", "EN": "Hydrocarbon extraction technologies and offshore work in the Caspian." }
+            },
+            {
+                "name": { "RU": "Международное право", "KZ": "Халықаралық құқық", "EN": "International Law" },
+                "desc": { "RU": "Морское право, трансграничные споры и инвестиционный арбитраж.", "KZ": "Теңіз құқығы, трансшекаралық даулар және инвестициялық арбитраж.", "EN": "Maritime law, cross-border disputes, and investment arbitration." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазНАИУ", "KZ": "ҚазҰАЗУ", "EN": "KazNARU" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 70,
+        "price": "920 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Национальный аграрный исследовательский университет. База для развития ветеринарии, лесного хозяйства и агроинноваций в Казахстане.",
+            "KZ": "Ұлттық аграрлық зерттеу университеті. Қазақстандағы ветеринарияны, орман шаруашылығын және агроинновацияларды дамыту базасы.",
+            "EN": "National Agrarian Research University. The base for the development of veterinary medicine, forestry, and agro-innovations in Kazakhstan."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=80679b9bb9e55d7be78db888352427cd0c76bc44-5210586-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Ветеринария", "KZ": "Ветеринария", "EN": "Veterinary Medicine" },
+                "desc": { "RU": "Хирургия животных, эпидемиология и санитарный контроль.", "KZ": "Жануарлар хирургиясы, эпидемиология және санитариялық бақылау.", "EN": "Animal surgery, epidemiology, and sanitary control." }
+            },
+            {
+                "name": { "RU": "Водные ресурсы", "KZ": "Су ресурстары", "EN": "Water Resources" },
+                "desc": { "RU": "Управление гидросооружениями и сохранение экосистем.", "KZ": "Гидроқұрылыстарды басқару және экожүйелерді сақтау.", "EN": "Management of hydraulic structures and ecosystem preservation." }
+            },
+            {
+                "name": { "RU": "Агроэкология", "KZ": "Агроэкология", "EN": "Agroecology" },
+                "desc": { "RU": "Органическое земледелие, почвоведение и борьба с опустыниванием.", "KZ": "Органикалық егіншілік, топырақтану және шөлейттенумен күрес.", "EN": "Organic farming, soil science, and desertification control." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КазНАИ им. Т. Жургенова", "KZ": "Т. Жүргенов атындағы ҚазҰӨА", "EN": "Zhurgenov KazNAI" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 90,
+        "price": "1 610 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Национальная академия искусств — сердце творческой индустрии. Готовит выдающихся актеров, режиссеров театра и кино, художников и хореографов.",
+            "KZ": "Ұлттық өнер академиясы — шығармашылық индустрияның жүрегі. Көрнекті актерлерді, театр мен кино режиссерлерін, суретшілер мен хореографтарды даярлайды.",
+            "EN": "The National Academy of Arts is the heart of the creative industry. Trains outstanding actors, theater and film directors, artists, and choreographers."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=34d37dc77b763f0a9e226ed395000e6c2e619773-5281326-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Режиссура", "KZ": "Режиссура", "EN": "Directing" },
+                "desc": { "RU": "Режиссура игрового кино, театра и анимации.", "KZ": "Көркем кино, театр және анимация режиссурасы.", "EN": "Directing feature films, theater, and animation." }
+            },
+            {
+                "name": { "RU": "Актёрское искусство", "KZ": "Актерлік өнер", "EN": "Acting" },
+                "desc": { "RU": "Сценическая речь, пластика и работа перед камерой.", "KZ": "Сахналық тіл, пластика және камера алдындағы жұмыс.", "EN": "Stage speech, plasticity, and acting for the camera." }
+            },
+            {
+                "name": { "RU": "Медиаискусство", "KZ": "Медиаөнер", "EN": "Media Art" },
+                "desc": { "RU": "Цифровая анимация, видеоарт и саунд-дизайн.", "KZ": "Цифрлық анимация, видеоарт және дыбыс дизайны.", "EN": "Digital animation, video art, and sound design." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КНК им. Курмангазы", "KZ": "Құрманғазы атындағы ҚҰК", "EN": "Kurmangazy KNC" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 90,
+        "price": "1 725 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Главная национальная консерватория. Элитное музыкальное учреждение, где рождаются гении классической, эстрадной и народной музыки.",
+            "KZ": "Бас ұлттық консерватория. Классикалық, эстрадалық және халық музыкасының данышпандары дүниеге келетін элиталық музыкалық мекеме.",
+            "EN": "The main national conservatory. An elite musical institution where geniuses of classical, pop, and folk music are born."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe11DJ2kCUfT53LDd1qGLO3DNCSzUqNblxng&s",
+        "specialties": [
+            {
+                "name": { "RU": "Инструментальное исполнительство", "KZ": "Аспаптық орындаушылық", "EN": "Instrumental Performance" },
+                "desc": { "RU": "Виртуозная игра на фортепиано, скрипке и домбре.", "KZ": "Фортепиано, скрипка және домбырада виртуоздық ойнау.", "EN": "Virtuoso performance on piano, violin, and dombra." }
+            },
+            {
+                "name": { "RU": "Вокальное искусство", "KZ": "Вокалдық өнер", "EN": "Vocal Arts" },
+                "desc": { "RU": "Академический вокал, опера и дирижирование.", "KZ": "Академиялық вокал, опера және дирижерлік ету.", "EN": "Academic vocals, opera, and conducting." }
+            },
+            {
+                "name": { "RU": "Музыковедение", "KZ": "Музыкатану", "EN": "Musicology" },
+                "desc": { "RU": "История музыки, этномузыкология и теория композиции.", "KZ": "Музыка тарихы, этномузыкология және композиция теориясы.", "EN": "Music history, ethnomusicology, and composition theory." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Казахская академия спорта и туризма", "KZ": "Қазақ спорт және туризм академиясы", "EN": "KazAST" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 75,
+        "price": "977 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Кузница олимпийских чемпионов. Специализируется на спортивном менеджменте, физкультуре и развитии горного туризма.",
+            "KZ": "Олимпиада чемпиондарының ұстаханасы. Спорттық менеджментке, дене шынықтыруға және тау туризмін дамытуға маманданған.",
+            "EN": "The forge of Olympic champions. Specializes in sports management, physical education, and the development of mountain tourism."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=dbe44e5b4b457e4c1017457514f4164dadb53a6d-4828133-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Физическая культура", "KZ": "Дене шынықтыру", "EN": "Physical Education" },
+                "desc": { "RU": "Тренерская работа, спортивная медицина и физиология.", "KZ": "Жаттықтырушылық жұмыс, спорттық медицина және физиология.", "EN": "Coaching, sports medicine, and physiology." }
+            },
+            {
+                "name": { "RU": "Спортивный туризм", "KZ": "Спорттық туризм", "EN": "Sports Tourism" },
+                "desc": { "RU": "Организация экстремальных туров и работа гидом-инструктором.", "KZ": "Экстремалды турларды ұйымдастыру және гид-нұсқаушы болып жұмыс істеу.", "EN": "Organization of extreme tours and working as a guide-instructor." }
+            },
+            {
+                "name": { "RU": "Спортивный менеджмент", "KZ": "Спорттық менеджмент", "EN": "Sports Management" },
+                "desc": { "RU": "Управление спортивными клубами, маркетинг и event-менеджмент соревнований.", "KZ": "Спорттық клубтарды басқару, маркетинг және жарыстардың ивент-менеджменті.", "EN": "Management of sports clubs, marketing, and event management of competitions." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Академия логистики и транспорта (АЛТ)", "KZ": "Логистика және көлік академиясы (ЛКА)", "EN": "Academy of Logistics and Transport" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 75,
+        "price": "1 092 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Исторический КазАТК. Главный вуз страны для железных дорог, автоперевозок и транспортной логистики.",
+            "KZ": "Тарихи ҚазККА. Темір жол, автотасымал және көлік логистикасы үшін еліміздің бас ЖОО-сы.",
+            "EN": "The historical KazATK. The country's main university for railways, road transport, and transport logistics."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjlwMNPv5mWO5opc5f3xxrhWI_2CSHJd_VQ&s",
+        "specialties": [
+            {
+                "name": { "RU": "Логистика", "KZ": "Логистика", "EN": "Logistics" },
+                "desc": { "RU": "Мультимодальные перевозки и управление складами.", "KZ": "Мультимодальды тасымалдау және қоймаларды басқару.", "EN": "Multimodal transport and warehouse management." }
+            },
+            {
+                "name": { "RU": "Транспортное строительство", "KZ": "Көлік құрылысы", "EN": "Transport Construction" },
+                "desc": { "RU": "Проектирование путей сообщения и ж/д мостов.", "KZ": "Қатынас жолдарын және темір жол көпірлерін жобалау.", "EN": "Design of communication routes and railway bridges." }
+            },
+            {
+                "name": { "RU": "Цифровая логистика", "KZ": "Цифрлық логистика", "EN": "Digital Logistics" },
+                "desc": { "RU": "TMS-системы, GPS-мониторинг и оптимизация маршрутов.", "KZ": "TMS-жүйелері, GPS-мониторинг және бағыттарды оңтайландыру.", "EN": "TMS systems, GPS monitoring, and route optimization." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Евразийский технологический университет (ЕТУ)", "KZ": "Еуразия технологиялық университеті", "EN": "Eurasian Technological University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_it",
+        "category": { "RU": "IT и Программирование", "KZ": "IT және Бағдарламалау", "EN": "IT & Programming" },
+        "min_score": 70,
+        "price": "977 500 ₸",
+        "has_dormitory": false,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Прагматичный университет, фокусирующийся на IT-решениях, машиностроении и бизнес-инженерии.",
+            "KZ": "IT-шешімдерге, машина жасауға және бизнес-инженерияға бағытталған прагматикалық университет.",
+            "EN": "A pragmatic university focusing on IT solutions, mechanical engineering, and business engineering."
+        },
+        "image_url": "https://static.tildacdn.pro/tild3135-3133-4831-b231-363331323562/Logo_ETU_en.png",
+        "specialties": [
+            {
+                "name": { "RU": "IT Инженерия", "KZ": "IT Инженерия", "EN": "IT Engineering" },
+                "desc": { "RU": "Разработка баз данных и софта для корпораций.", "KZ": "Корпорацияларға арналған дерекқорлар мен бағдарламалық жасақтаманы әзірлеу.", "EN": "Development of databases and software for corporations." }
+            },
+            {
+                "name": { "RU": "Электроэнергетика", "KZ": "Электр энергетикасы", "EN": "Power Engineering" },
+                "desc": { "RU": "Внедрение 'зеленых' технологий и энергоаудит.", "KZ": "'Жасыл' технологияларды енгізу және энергоаудит.", "EN": "Implementation of 'green' technologies and energy audit." }
+            },
+            {
+                "name": { "RU": "Киберфизические системы", "KZ": "Киберфизикалық жүйелер", "EN": "Cyber-Physical Systems" },
+                "desc": { "RU": "Интеграция IoT, облачных вычислений и промышленных сетей.", "KZ": "IoT, бұлтты есептеулер және өнеркәсіптік желілерді интеграциялау.", "EN": "Integration of IoT, cloud computing, and industrial networks." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "ЖенПИ (КазНЖПУ)", "KZ": "ҚазҰҚПУ", "EN": "KazNWTU" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 85,
+        "price": "1 035 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Уникальный женский педагогический университет. Гордость нации, воспитывающая поколения интеллигенции и лучших учителей.",
+            "KZ": "Бірегей қыздар педагогикалық университеті. Зиялы қауым мен үздік мұғалімдер ұрпағын тәрбиелейтін ұлт мақтанышы.",
+            "EN": "A unique women's pedagogical university. The pride of the nation, educating generations of intelligentsia and the best teachers."
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbWjPvoVHTnPSPdQSdaJsF8S0PoEK68rHT8Q&s",
+        "specialties": [
+            {
+                "name": { "RU": "Педагогика", "KZ": "Педагогика", "EN": "Pedagogy" },
+                "desc": { "RU": "Методики начального обучения и воспитания.", "KZ": "Бастауыш оқыту және тәрбиелеу әдістемелері.", "EN": "Methods of primary education and upbringing." }
+            },
+            {
+                "name": { "RU": "Дефектология", "KZ": "Дефектология", "EN": "Defectology" },
+                "desc": { "RU": "Работа с детьми с особыми образовательными потребностями.", "KZ": "Ерекше білім берілуіне қажеттілігі бар балалармен жұмыс.", "EN": "Working with children with special educational needs." }
+            },
+            {
+                "name": { "RU": "Семейная педагогика", "KZ": "Отбасылық педагогика", "EN": "Family Pedagogy" },
+                "desc": { "RU": "Консультирование родителей, раннее развитие и воспитание.", "KZ": "Ата-аналарға кеңес беру, ерте дамыту және тәрбиелеу.", "EN": "Parent counseling, early development, and upbringing." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Казахско-Американский Университет", "KZ": "Қазақ-Америка Университеті", "EN": "Kazakh-American University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_economics",
+        "category": { "RU": "Экономика и Бизнес", "KZ": "Экономика және Бизнес", "EN": "Economics & Business" },
+        "min_score": 80,
+        "price": "1 495 000 ₸",
+        "has_dormitory": false,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Частный вуз с американской кредитной технологией обучения. Дает глубокие знания языков и международных бизнес-практик.",
+            "KZ": "Америкалық кредиттік оқыту технологиясы бар жекеменшік ЖОО. Тілдер мен халықаралық бизнес-практикалар бойынша терең білім береді.",
+            "EN": "A private university with American credit technology of education. Provides deep knowledge of languages and international business practices."
+        },
+        "image_url": "https://static.tildacdn.pro/tild3665-6536-4635-b630-633538656465/image.png",
+        "specialties": [
+            {
+                "name": { "RU": "Международные отношения", "KZ": "Халықаралық қатынастар", "EN": "International Relations" },
+                "desc": { "RU": "Политология и мировая экономика на английском языке.", "KZ": "Ағылшын тіліндегі саясаттану және әлемдік экономика.", "EN": "Political science and world economy in English." }
+            },
+            {
+                "name": { "RU": "Переводческое дело", "KZ": "Аударма ісі", "EN": "Translation Studies" },
+                "desc": { "RU": "Бизнес-перевод и коммуникации с носителями языка.", "KZ": "Бизнес-аударма және тіл тасымалдаушыларымен коммуникациялар.", "EN": "Business translation and communications with native speakers." }
+            },
+            {
+                "name": { "RU": "Международный бизнес", "KZ": "Халықаралық бизнес", "EN": "International Business" },
+                "desc": { "RU": "ВЭД, управление транснациональными компаниями и глобальный маркетинг.", "KZ": "СЭҚ, көпұлтты компанияларды басқару және жаһандық маркетинг.", "EN": "Foreign economic activity, management of multinational companies, and global marketing." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Университет Нур-Мубарак", "KZ": "Нұр-Мүбәрак университеті", "EN": "Nur-Mubarak University" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_humanities",
+        "category": { "RU": "Гуманитарные науки", "KZ": "Гуманитарлық ғылымдар", "EN": "Humanities" },
+        "min_score": 70,
+        "price": "690 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Уникальный исламский университет. Готовит высокообразованных теологов, религиоведов и переводчиков арабского языка.",
+            "KZ": "Бірегей ислам университеті. Жоғары білімді теологтарды, дінтанушыларды және араб тілінің аудармашыларын даярлайды.",
+            "EN": "A unique Islamic university. Trains highly educated theologians, religious scholars, and Arabic translators."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=8d572e32b1afd74f60b110fb5870c726e58d9a4a-5235625-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Исламоведение", "KZ": "Исламтану", "EN": "Islamic Studies" },
+                "desc": { "RU": "Изучение Корана, хадисов и исламского права.", "KZ": "Құран, хадис және ислам құқығын зерттеу.", "EN": "Study of the Quran, Hadith, and Islamic law." }
+            },
+            {
+                "name": { "RU": "Религиоведение", "KZ": "Дінтану", "EN": "Religious Studies" },
+                "desc": { "RU": "Светское изучение религий мира и профилактика экстремизма.", "KZ": "Әлем діндерін зайырлы зерттеу және экстремизмнің алдын алу.", "EN": "Secular study of world religions and extremism prevention." }
+            },
+            {
+                "name": { "RU": "Арабистика", "KZ": "Арабистика", "EN": "Arabic Studies" },
+                "desc": { "RU": "Арабский язык, литература и перевод религиозных текстов.", "KZ": "Араб тілі, әдебиеті және діни мәтіндерді аудару.", "EN": "Arabic language, literature, and translation of religious texts." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "КРМУ (Медицинский)", "KZ": "ҚРМУ (Медициналық)", "EN": "KRMU (Medical)" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_medicine",
+        "category": { "RU": "Медицина", "KZ": "Медицина", "EN": "Medicine" },
+        "min_score": 90,
+        "price": "1 322 500 ₸",
+        "has_dormitory": true,
+        "has_military_dept": false,
+        "description": {
+            "RU": "Казахстанско-Российский медицинский университет. Мобильный, современный негосударственный вуз с отличной клинической практикой.",
+            "KZ": "Қазақстан-Ресей медициналық университеті. Тамаша клиникалық практикасы бар мобильді, заманауи мемлекеттік емес ЖОО.",
+            "EN": "Kazakh-Russian Medical University. A mobile, modern non-governmental university with excellent clinical practice."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=32ba716291ec50706c38caba13623be08c2b6894-4566264-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Общая медицина", "KZ": "Жалпы медицина", "EN": "General Medicine" },
+                "desc": { "RU": "Инновационные программы обучения будущих врачей.", "KZ": "Болашақ дәрігерлерді оқытудың инновациялық бағдарламалары.", "EN": "Innovative training programs for future doctors." }
+            },
+            {
+                "name": { "RU": "Стоматология", "KZ": "Стоматология", "EN": "Dentistry" },
+                "desc": { "RU": "Лечение зубов с использованием современных протоколов.", "KZ": "Заманауи хаттамаларды қолдана отырып тістерді емдеу.", "EN": "Dental treatment using modern protocols." }
+            },
+            {
+                "name": { "RU": "Медицинская реабилитация", "KZ": "Медициналық оңалту", "EN": "Medical Rehabilitation" },
+                "desc": { "RU": "Физиотерапия, ЛФК и восстановление после травм.", "KZ": "Физиотерапия, ЕМЖ және жарақаттардан кейінгі қалпына келтіру.", "EN": "Physiotherapy, exercise therapy, and post-injury recovery." }
+            }
+        ]
+    },
+    {
+        "name": { "RU": "Академия гражданской авиации", "KZ": "Азаматтық авиация академиясы", "EN": "Civil Aviation Academy" },
+        "city_key": "city_almaty",
+        "city": { "RU": "Алматы", "KZ": "Алматы", "EN": "Almaty" },
+        "category_key": "field_engineering",
+        "category": { "RU": "Инженерия", "KZ": "Инженерия", "EN": "Engineering" },
+        "min_score": 75,
+        "price": "1 380 000 ₸",
+        "has_dormitory": true,
+        "has_military_dept": true,
+        "description": {
+            "RU": "Монополист в своем роде. Единственный в Средней Азии вуз, готовящий пилотов коммерческой авиации и бортинженеров.",
+            "KZ": "Өз түріндегі монополист. Орталық Азиядағы коммерциялық авиация ұшқыштары мен борт-инженерлерін даярлайтын жалғыз ЖОО.",
+            "EN": "A monopolist of its kind. The only university in Central Asia training commercial aviation pilots and flight engineers."
+        },
+        "image_url": "https://avatars.mds.yandex.net/i?id=63d04a7c5a35533f6d480198ceda7c0e7e671a17-10246134-images-thumbs&n=13",
+        "specialties": [
+            {
+                "name": { "RU": "Летная эксплуатация воздушных судов", "KZ": "Әуе кемелерін ұшуда пайдалану", "EN": "Flight Operation of Aircraft" },
+                "desc": { "RU": "Многочасовой налет на тренажерах и реальная практика пилотирования.", "KZ": "Тренажерлардағы көп сағаттық ұшу және нақты ұшқыш практикасы.", "EN": "Many hours of flight on simulators and real piloting practice." }
+            },
+            {
+                "name": { "RU": "Авиационная техника", "KZ": "Авиациялық техника", "EN": "Aviation Engineering" },
+                "desc": { "RU": "Техническое обслуживание самолетов, двигателей и навигации.", "KZ": "Ұшақтарға, қозғалтқыштарға және навигацияға техникалық қызмет көрсету.", "EN": "Maintenance of aircraft, engines, and navigation systems." }
+            },
+            {
+                "name": { "RU": "Управление воздушным движением", "KZ": "Әуе қозғалысын басқару", "EN": "Air Traffic Control" },
+                "desc": { "RU": "Диспетчерская работа, авиационная безопасность и планирование полетов.", "KZ": "Диспетчерлік жұмыс, авиациялық қауіпсіздік және ұшуларды жоспарлау.", "EN": "Dispatcher work, aviation safety, and flight planning." }
+            }
+        ]
+    }
+]

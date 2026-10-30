@@ -1,0 +1,192 @@
+[
+    {
+        "category_key": "cat_it",
+        "category": {
+            "RU": "IT и Программирование",
+            "KZ": "IT және Бағдарламалау",
+            "EN": "IT & Programming"
+        },
+        "city_key": "city_almaty",
+        "city": {
+            "RU": "Алматы",
+            "KZ": "Алматы",
+            "EN": "Almaty"
+        },
+        "title": {
+            "RU": "Стажёр Frontend-разработчик",
+            "KZ": "Frontend-әзірлеуші тағылымдамашысы",
+            "EN": "Frontend Developer Intern"
+        },
+        "company": "TechKZ Solutions",
+        "type_key": "type_internship",
+        "type": {
+            "RU": "Стажировка",
+            "KZ": "Тағылымдама",
+            "EN": "Internship"
+        },
+        "salary": "80 000 - 120 000 ₸",
+        "experience": {
+            "RU": "Без опыта",
+            "KZ": "Тәжірибесіз",
+            "EN": "No experience"
+        },
+        "description": {
+            "RU": "Ищем начинающего специалиста со знанием HTML, CSS, JS и основ React/Flutter. Обучим лучшим практикам и дадим возможность работать над реальными проектами.",
+            "KZ": "HTML, CSS, JS және React/Flutter негіздерін білетін жаңа маман іздейміз. Үздік тәжірибелерді үйретеміз және нақты жобаларда жұмыс істеуге мүмкіндік береміз.",
+            "EN": "Looking for a junior specialist with knowledge of HTML, CSS, JS and React/Flutter basics. We will teach you best practices and give you the opportunity to work on real projects."
+        },
+        "logo_url": "https://ui-avatars.com/api/?name=Tech+KZ&background=0D8ABC&color=fff"
+    },
+    {
+        "category_key": "cat_finance",
+        "category": {
+            "RU": "Финансы и Аналитика",
+            "KZ": "Қаржы және Талдау",
+            "EN": "Finance & Analytics"
+        },
+        "city_key": "city_astana",
+        "city": {
+            "RU": "Астана",
+            "KZ": "Астана",
+            "EN": "Astana"
+        },
+        "title": {
+            "RU": "Младший аналитик данных",
+            "KZ": "Кіші деректер талдаушысы",
+            "EN": "Junior Data Analyst"
+        },
+        "company": "DataLight Group",
+        "type_key": "type_remote",
+        "type": {
+            "RU": "Удаленно",
+            "KZ": "Қашықтан",
+            "EN": "Remote"
+        },
+        "salary": "150 000 - 250 000 ₸",
+        "experience": {
+            "RU": "От 1 года",
+            "KZ": "1 жылдан бастап",
+            "EN": "From 1 year"
+        },
+        "description": {
+            "RU": "Требуется аналитик для сбора и визуализации данных. Знание SQL, Excel на продвинутом уровне, базовый Python. Умение работать с PowerBI будет плюсом.",
+            "KZ": "Деректерді жинау және визуалдау үшін талдаушы қажет. SQL, Excel бағдарламаларын жоғары деңгейде білу, базалық Python. PowerBI-мен жұмыс істей білу артықшылық болады.",
+            "EN": "Analyst required for data collection and visualization. Advanced SQL, Excel, basic Python. PowerBI skills are a plus."
+        },
+        "logo_url": "https://ui-avatars.com/api/?name=Data+Light&background=F39C12&color=fff"
+    },
+    {
+        "category_key": "cat_education",
+        "category": {
+            "RU": "Образование и Наука",
+            "KZ": "Білім және Ғылым",
+            "EN": "Education & Science"
+        },
+        "city_key": "city_shymkent",
+        "city": {
+            "RU": "Шымкент",
+            "KZ": "Шымкент",
+            "EN": "Shymkent"
+        },
+        "title": {
+            "RU": "Преподаватель математики",
+            "KZ": "Математика мұғалімі",
+            "EN": "Mathematics Teacher"
+        },
+        "company": "EduFuture Center",
+        "type_key": "type_fulltime",
+        "type": {
+            "RU": "Полный день",
+            "KZ": "Толық күн",
+            "EN": "Full-time"
+        },
+        "salary": "200 000 - 300 000 ₸",
+        "experience": {
+            "RU": "От 3 лет",
+            "KZ": "3 жылдан бастап",
+            "EN": "From 3 years"
+        },
+        "description": {
+            "RU": "Частная школа ищет креативного преподавателя математики для старших классов. Подготовка к ЕНТ, ведение кружков.",
+            "KZ": "Жеке мектеп жоғары сыныптар үшін креативті математика мұғалімін іздейді. ҰБТ-ға дайындық, үйірмелер жүргізу.",
+            "EN": "Private school is looking for a creative math teacher for high schools. Preparation for UNT, running clubs."
+        },
+        "logo_url": "https://ui-avatars.com/api/?name=Edu+Future&background=27AE60&color=fff"
+    },
+    {
+        "category_key": "cat_marketing",
+        "category": {
+            "RU": "Маркетинг и PR",
+            "KZ": "Маркетинг және PR",
+            "EN": "Marketing & PR"
+        },
+        "city_key": "city_almaty",
+        "city": {
+            "RU": "Алматы",
+            "KZ": "Алматы",
+            "EN": "Almaty"
+        },
+        "title": {
+            "RU": "SMM-менеджер",
+            "KZ": "SMM-менеджер",
+            "EN": "SMM Manager"
+        },
+        "company": "Creative Hub KZ",
+        "type_key": "type_flexible",
+        "type": {
+            "RU": "Гибкий график",
+            "KZ": "Икемді кесте",
+            "EN": "Flexible schedule"
+        },
+        "salary": "120 000 - 180 000 ₸",
+        "experience": {
+            "RU": "Без опыта",
+            "KZ": "Тәжірибесіз",
+            "EN": "No experience"
+        },
+        "description": {
+            "RU": "Ведение аккаунтов в Instagram и TikTok, создание визуального контента, написание текстов на русском и казахском языках.",
+            "KZ": "Instagram және TikTok аккаунттарын жүргізу, визуалды контент жасау, орыс және қазақ тілдерінде мәтіндер жазу.",
+            "EN": "Managing Instagram and TikTok accounts, creating visual content, writing texts in Russian and Kazakh."
+        },
+        "logo_url": "https://ui-avatars.com/api/?name=Creative+Hub&background=8E44AD&color=fff"
+    },
+    {
+        "category_key": "cat_engineering",
+        "category": {
+            "RU": "Инженерия и Производство",
+            "KZ": "Инженерия және Өндіріс",
+            "EN": "Engineering & Production"
+        },
+        "city_key": "city_karaganda",
+        "city": {
+            "RU": "Караганда",
+            "KZ": "Қарағанды",
+            "EN": "Karaganda"
+        },
+        "title": {
+            "RU": "Инженер-проектировщик",
+            "KZ": "Жобалаушы-инженер",
+            "EN": "Design Engineer"
+        },
+        "company": "PromStroy KZ",
+        "type_key": "type_fulltime",
+        "type": {
+            "RU": "Полный день",
+            "KZ": "Толық күн",
+            "EN": "Full-time"
+        },
+        "salary": "300 000 - 450 000 ₸",
+        "experience": {
+            "RU": "От 5 лет",
+            "KZ": "5 жылдан бастап",
+            "EN": "From 5 years"
+        },
+        "description": {
+            "RU": "Проектирование промышленных объектов, работа в AutoCAD/Revit. Знание строительных норм РК обязательно.",
+            "KZ": "Өнеркәсіптік нысандарды жобалау, AutoCAD/Revit бағдарламаларында жұмыс істеу. ҚР құрылыс нормаларын білу міндетті.",
+            "EN": "Design of industrial facilities, work in AutoCAD/Revit. Knowledge of building codes of the Republic of Kazakhstan is mandatory."
+        },
+        "logo_url": "https://ui-avatars.com/api/?name=Prom+Stroy&background=E74C3C&color=fff"
+    }
+]
