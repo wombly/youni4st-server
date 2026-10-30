@@ -1,0 +1,842 @@
+[
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+    "url": "https://designlab.kz/?ref=youni4st",
+    "RU": {
+      "title": "Data Science и ИИ в казахстанских вузах",
+      "provider": "Казахстанские университеты (МИИТ и др.)",
+      "shortDesc": "Генеративный ИИ, LLM, компьютерное зрение, квантовые вычисления – полный стек.",
+      "fullText": "В 2025 казахстанские вузы начали внедрять современные программы по искусственному интеллекту. Студенты изучают Python, TensorFlow, Keras, PyTorch, анализ данных, NLP и создают собственные нейросети. Знания применяются в медицине, энергетике, транспорте и агропроме. Программы уже реализуются в Международном университете информационных технологий и других вузах.",
+      "category": "Data Science",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Data Science және ЖИ – Қазақстан ЖОО-да",
+      "provider": "Қазақстандық университеттер (ХБТУ т.б.)",
+      "shortDesc": "Генеративті ЖИ, ірі тілдік модельдер, компьютерлік көру, кванттық есептеулер.",
+      "fullText": "2025 жылы қазақстандық ЖОО-лар жасанды интеллект бойынша заманауи бағдарламаларды енгізе бастады. Python, TensorFlow, Keras, PyTorch, деректерді талдау, NLP меңгеріп, нейрожелілер құрады. Білім медицинада, энергетикада, көлікте және агроөнеркәсіпте қолданылады. Халықаралық ақпараттық технологиялар университетінде және басқа ЖОО-ларда іске асырылуда.",
+      "category": "Data Science",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Data Science & AI in Kazakh Universities",
+      "provider": "Kazakh Universities (IITU, etc.)",
+      "shortDesc": "Generative AI, LLMs, computer vision, quantum computing – full stack.",
+      "fullText": "In 2025, Kazakh universities launched modern AI programs. Students learn Python, TensorFlow, Keras, PyTorch, data analysis, NLP and build their own neural networks. The knowledge is applied in healthcare, energy, transport and agritech. The programs are already running at the International University of Information Technology and other universities.",
+      "category": "Data Science",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/1253/1253805.png",
+    "url": "https://designlab.kz/?ref=youni4st",
+    "RU": {
+      "title": "UX/UI Дизайн интерфейсов (DesignLab KZ)",
+      "provider": "DesignLab KZ",
+      "shortDesc": "Проектируй удобные сайты и мобильные приложения в Figma за 4 месяца.",
+      "fullText": "Освой профессию UX/UI дизайнера. Ты научишься проводить исследования пользователей, создавать wireframes и кликабельные прототипы в Figma. Изучишь типографику, композицию, цветовые схемы. Добавишь в портфолио 2+ полноценных проекта. Курс даёт практику на реальных кейсах. Старт групп каждый месяц.",
+      "category": "Дизайн",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "UX/UI Интерфейс дизайны (DesignLab KZ)",
+      "provider": "DesignLab KZ",
+      "shortDesc": "Figma-да ыңғайлы сайттар мен мобильді қосымшаларды 4 айда жобала.",
+      "fullText": "UX/UI дизайнер мамандығын меңгер. Пайдаланушыларды зерттеуді, Figma-да прототиптер жасауды үйренесің. Типографика, композиция, түс схемалары. Портфолиоға 2+ толық жоба қосасың. Нақты кейстерге негізделген тәжірибе. Топтар ай сайын басталады.",
+      "category": "Дизайн",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "UX/UI Interface Design (DesignLab KZ)",
+      "provider": "DesignLab KZ",
+      "shortDesc": "Design user-friendly websites and mobile apps in Figma in 4 months.",
+      "fullText": "Master the UX/UI designer profession. Learn user research, wireframing and interactive prototyping in Figma. Study typography, composition, color schemes. Add 2+ full projects to your portfolio. Hands-on experience with real cases. Groups start every month.",
+      "category": "Design",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+    "url": "https://securit.kz/?ref=youni4st",
+    "RU": {
+      "title": "Основы Кибербезопасности (SecurIT Bootcamp)",
+      "provider": "SecurIT Bootcamp",
+      "shortDesc": "Защита сетей, этичный хакинг и информационная безопасность с нуля.",
+      "fullText": "Курс для начинающих специалистов по ИБ. Изучение сетевых протоколов, поиск уязвимостей и основы криптографии. Практические задания по настройке безопасности, обнаружению вторжений и написанию отчётов. Длительность – 3 месяца. В конце курса – защита реального кейса.",
+      "category": "ИТ",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Киберқауіпсіздік негіздері (SecurIT Bootcamp)",
+      "provider": "SecurIT Bootcamp",
+      "shortDesc": "Желілерді қорғау, этикалық хакерлік және ақпараттық қауіпсіздік нөлден.",
+      "fullText": "Ақпараттық қауіпсіздік саласындағы жаңадан бастаған мамандарға арналған курс. Желілік хаттамаларды зерттеу, осалдықтарды іздеу және криптография негіздері. Қауіпсіздікті баптау, шабуылдарды анықтау және есеп жазу бойынша практикалық тапсырмалар. Ұзақтығы – 3 ай. Курс соңында – нақты кейсті қорғау.",
+      "category": "АТ",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Cybersecurity Fundamentals (SecurIT Bootcamp)",
+      "provider": "SecurIT Bootcamp",
+      "shortDesc": "Network protection, ethical hacking, and info security from scratch.",
+      "fullText": "A course for beginner InfoSec specialists. Study network protocols, vulnerability scanning, and cryptography basics. Practical tasks on security configuration, intrusion detection and report writing. Duration – 3 months. Final defence of a real-world case.",
+      "category": "IT",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/3003/3003348.png",
+    "url": "https://agilevision.kz/?ref=youni4st",
+    "RU": {
+      "title": "Менеджер проектов (Project Management)",
+      "provider": "Agile Vision",
+      "shortDesc": "Управление IT-командами по стандартам Agile и Scrum.",
+      "fullText": "Научись управлять сроками, бюджетами и командой разработчиков. В программе: Jira, Trello, методологии Scrum/Kanban. Разберёшь реальные кейсы, научишься проводить ежедневные митинги (daily stand-ups), спринт-планирование и ретроспективы. Курс длится 2,5 месяца, включает финальный проект.",
+      "category": "Менеджмент",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Жоба менеджері (Project Management)",
+      "provider": "Agile Vision",
+      "shortDesc": "IT-командаларды Agile және Scrum стандарттары бойынша басқару.",
+      "fullText": "Мерзімдерді, бюджетті және әзірлеушілер тобын басқаруды үйрен. Бағдарламада: Jira, Scrum/Kanban әдістемелері. Нақты кейстерді талдайсың, күнделікті жиналыстар, спринт жоспарлау және ретроспектива өткізуді меңгересің. Курс 2,5 айға созылады, қорытынды жобаны қамтиды.",
+      "category": "Менеджмент",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Project Manager",
+      "provider": "Agile Vision",
+      "shortDesc": "Manage IT teams using Agile and Scrum standards.",
+      "fullText": "Learn to manage deadlines, budgets, and dev teams. Includes Jira, Scrum/Kanban methodologies. Analyse real cases, learn to run daily stand-ups, sprint planning and retrospectives. Duration: 2.5 months, includes a final project.",
+      "category": "Management",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2721/2721620.png",
+    "url": "https://youni4st.kz/courses/ds?ref=youni4st",
+    "RU": {
+      "title": "Data Science и Машинное обучение (Youni4st Tech)",
+      "provider": "Youni4st Tech",
+      "shortDesc": "Стань аналитиком данных и работай с нейросетями.",
+      "fullText": "Изучение Python, Pandas, SQL и алгоритмов машинного обучения. Практика на реальных данных из финтеха и ритейла. Полный цикл: сбор данных, их очистка, исследовательский анализ, построение и валидация модели. Курс длится 6 месяцев. Выпускники получают сертификат.",
+      "category": "Data Science",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Data Science және Машиналық оқыту (Youni4st Tech)",
+      "provider": "Youni4st Tech",
+      "shortDesc": "Деректер талдаушысы бол және нейрондық желілермен жұмыс істе.",
+      "fullText": "Python, Pandas, SQL және машиналық оқыту алгоритмдерін үйрену. Финтех және бөлшек сауданың нақты деректері бойынша тәжірибе. Толық цикл: деректерді жинау, тазарту, зерттеу талдауы, модель құру және валидация. Курс 6 айға созылады. Түлектер сертификат алады.",
+      "category": "Data Science",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Data Science & Machine Learning (Youni4st Tech)",
+      "provider": "Youni4st Tech",
+      "shortDesc": "Become a data analyst and work with neural networks.",
+      "fullText": "Study Python, Pandas, SQL and machine learning algorithms. Practice on real fintech and retail data. Full cycle: data collection, cleaning, exploratory analysis, model building and validation. Duration: 6 months. Graduates receive a certificate.",
+      "category": "Data Science",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/1055/1055683.png",
+    "url": "https://itis.kfu.ru/school/?ref=youni4st",
+    "RU": {
+      "title": "Python и Java для школьников (ИТИС КФУ)",
+      "provider": "ИТИС КФУ",
+      "shortDesc": "Олимпиадное программирование на Python и Java для старшеклассников.",
+      "fullText": "Интенсивный курс для школьников 7–11 классов. Охватывает синтаксис Python и Java, структуры данных (списки, словари, деревья), базовые алгоритмы сортировки и поиска. Особый акцент делается на задачах олимпиадного уровня. После курса участники готовы к региональным соревнованиям по информатике.",
+      "category": "Программирование",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Мектеп оқушыларына Python және Java (ИТИС КФУ)",
+      "provider": "ИТИС КФУ",
+      "shortDesc": "Жоғары сынып оқушыларына Python және Java-да олимпиадалық бағдарламалау.",
+      "fullText": "7–11 сынып оқушыларына арналған қарқынды курс. Python және Java синтаксисін, деректер құрылымдарын (тізімдер, сөздіктер, ағаштар), негізгі сұрыптау және іздеу алгоритмдерін қамтиды. Олимпиадалық деңгейдегі есептерге ерекше назар аударылады.",
+      "category": "Бағдарламалау",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Python & Java for Schoolchildren (ITIS KFU)",
+      "provider": "ITIS KFU",
+      "shortDesc": "Olympiad programming in Python and Java for high-school students.",
+      "fullText": "Intensive course for grades 7–11. Covers Python and Java syntax, data structures (lists, dicts, trees), basic sorting and search algorithms. Special focus on olympiad-level problems. After the course, participants are ready for regional informatics competitions.",
+      "category": "Programming",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/3616/3616264.png",
+    "url": "https://it-school.samsung.com/?ref=youni4st",
+    "RU": {
+      "title": "Разработка мобильных игр (IT-школа Samsung)",
+      "provider": "IT-школа Samsung",
+      "shortDesc": "Создавай мобильные игры на Unity и публикуй в Google Play.",
+      "fullText": "Школьники 13–17 лет изучают основы геймдизайна и разработки на Unity3D. Курс охватывает работу с 2D/3D объектами, физику, анимацию и монетизацию. В итоге каждый участник публикует свою игру в Google Play. Обучение бесплатное при прохождении отбора.",
+      "category": "Геймдев",
+      "price": "Бесплатно"
+    },
+    "KZ": {
+      "title": "Мобильді ойын жасау (Samsung IT мектебі)",
+      "provider": "Samsung IT мектебі",
+      "shortDesc": "Unity-де мобильді ойындар жасап, Google Play-ге жариялаңыз.",
+      "fullText": "13–17 жастағы оқушылар Unity3D-де геймдизайн және әзірлеу негіздерін үйренеді. 2D/3D объектілермен жұмыс, физика, анимация және монетизация қамтылады. Нәтижесінде әрбір қатысушы Google Play-де өз ойынын жариялайды. Іріктеуден өткенде оқу тегін.",
+      "category": "Геймдев",
+      "price": "Тегін"
+    },
+    "EN": {
+      "title": "Mobile Game Development (Samsung IT School)",
+      "provider": "Samsung IT School",
+      "shortDesc": "Build mobile games in Unity and publish to Google Play.",
+      "fullText": "Students aged 13–17 learn game design and Unity3D development basics. The course covers 2D/3D objects, physics, animation and monetisation. Every participant publishes their game to Google Play. Training is free upon selection.",
+      "category": "Game Dev",
+      "price": "Free"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+    "url": "https://nemark.ru/cyber/?ref=youni4st",
+    "RU": {
+      "title": "Школа киберзащиты (ИТ-кампус НЕЙМАРК)",
+      "provider": "ИТ-кампус НЕЙМАРК",
+      "shortDesc": "Практика по защите данных, анализу угроз и криминалистике.",
+      "fullText": "Программа для студентов технических специальностей. Включает анализ вредоносного ПО, работу с SIEM-системами, форензику и пентест. Занятия проходят в оборудованных лабораториях с реальными сетевыми стендами. По окончании выдаётся диплом о профессиональной переподготовке.",
+      "category": "ИТ",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Киберқорғаныш мектебі (НЕЙМАРК АТ-кампусы)",
+      "provider": "НЕЙМАРК АТ-кампусы",
+      "shortDesc": "Деректерді қорғау, қауіп-қатерді талдау және форензика бойынша тәжірибе.",
+      "fullText": "Техникалық мамандық студенттеріне арналған бағдарлама. Зиянды бағдарламалық жасақтаманы талдауды, SIEM жүйелерімен жұмысты, форензика мен пентестті қамтиды. Сабақтар нақты желілік стендтері бар жабдықталған зертханаларда өтеді.",
+      "category": "АТ",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Cyber Defence School (NEMARK IT Campus)",
+      "provider": "NEMARK IT Campus",
+      "shortDesc": "Hands-on data protection, threat analysis and forensics.",
+      "fullText": "Program for technical-specialty students. Covers malware analysis, SIEM systems, forensics and pentesting. Classes are held in equipped labs with real network stands. A professional retraining diploma is awarded upon completion.",
+      "category": "IT",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/1253/1253805.png",
+    "url": "https://purpleschool.ru/?ref=youni4st",
+    "RU": {
+      "title": "Основы веб-дизайна в Figma (PurpleSchool)",
+      "provider": "PurpleSchool",
+      "shortDesc": "Figma с нуля: прототипирование, компоненты и auto-layout за 2 месяца.",
+      "fullText": "Курс идеально подходит для тех, кто только начинает путь в дизайне. Вы освоите интерфейс Figma, научитесь создавать адаптивные макеты, работать с компонентами и стилями. В итоге сделаете два проекта: лендинг и мобильное приложение. Поддержка наставника в течение всего обучения.",
+      "category": "Дизайн",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Figma-да веб-дизайн негіздері (PurpleSchool)",
+      "provider": "PurpleSchool",
+      "shortDesc": "Figma нөлден: прототиптеу, компоненттер және auto-layout 2 айда.",
+      "fullText": "Курс дизайн жолын бастағандарға өте қолайлы. Figma интерфейсін меңгеріп, адаптивті макеттер жасауды, компоненттер мен стильдермен жұмыс істеуді үйренесіз. Нәтижесінде екі жоба жасайсыз: лендинг және мобильді қосымша.",
+      "category": "Дизайн",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Web Design Basics in Figma (PurpleSchool)",
+      "provider": "PurpleSchool",
+      "shortDesc": "Figma from scratch: prototyping, components and auto-layout in 2 months.",
+      "fullText": "The course is perfect for those just starting out in design. You will master the Figma interface, learn to create responsive layouts and work with components and styles. You will finish two projects: a landing page and a mobile app. Mentor support throughout.",
+      "category": "Design",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "url": "https://qstem.kz/?ref=youni4st",
+    "RU": {
+      "title": "QSTEM – Программирование и робототехника",
+      "provider": "QSTEM Казахстан",
+      "shortDesc": "Scratch, Python и роботы LEGO для детей 7–14 лет.",
+      "fullText": "QSTEM предлагает игровой подход к обучению STEM-дисциплинам. Дети программируют в Scratch, знакомятся с Python и собирают роботов из LEGO Mindstorms. Курсы проходят в Алматы и Астане. Подходит для полного новичка. Развивает алгоритмическое мышление, командную работу и творческое решение задач.",
+      "category": "Робототехника",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "QSTEM – Бағдарламалау және робототехника",
+      "provider": "QSTEM Қазақстан",
+      "shortDesc": "7–14 жастағы балаларға Scratch, Python және LEGO роботтары.",
+      "fullText": "QSTEM STEM пәндерін ойын арқылы үйретеді. Балалар Scratch-та бағдарламалайды, Python-мен танысады, LEGO Mindstorms роботтарын жинайды. Курстар Алматы мен Астанада өтеді. Толық жаңадан бастаушыларға жарайды. Алгоритмдік ойлауды, командалық жұмысты және шығармашылық есеп шешуді дамытады.",
+      "category": "Робототехника",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "QSTEM – Programming and Robotics",
+      "provider": "QSTEM Kazakhstan",
+      "shortDesc": "Scratch, Python and LEGO robots for children aged 7–14.",
+      "fullText": "QSTEM offers a playful approach to STEM learning. Children program in Scratch, get introduced to Python and build LEGO Mindstorms robots. Courses run in Almaty and Astana. Suitable for complete beginners. Develops algorithmic thinking, teamwork and creative problem-solving.",
+      "category": "Robotics",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
+    "url": "https://maximumtest.ru/?ref=youni4st",
+    "RU": {
+      "title": "Английский язык 8–11 классов (MAXIMUM)",
+      "provider": "MAXIMUM Education",
+      "shortDesc": "Подготовка к ЕГЭ/ОРТ по английскому с гарантией результата.",
+      "fullText": "Онлайн-подготовка к ЕГЭ и ОРТ по английскому языку. Занятия проходят в мини-группах с опытными преподавателями. Разбор всех разделов: аудирование, чтение, грамматика, письмо и говорение. Гарантия: если результат не улучшится — вернём деньги. Старт в любое время года.",
+      "category": "Английский",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "8–11 сынып ағылшын тілі (MAXIMUM)",
+      "provider": "MAXIMUM Education",
+      "shortDesc": "ҰБТ/ОРТ-қа ағылшын тілі бойынша нәтиже кепілдігімен дайындық.",
+      "fullText": "ҰБТ және ОРТ-қа ағылшын тілі бойынша онлайн дайындық. Сабақтар тәжірибелі мұғалімдермен шағын топтарда өтеді. Барлық бөлімдер қарастырылады: тыңдалым, оқу, грамматика, жазу және сөйлеу. Кепілдік: нәтиже жақсармаса — ақша қайтарылады.",
+      "category": "Ағылшын тілі",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "English for Grades 8–11 (MAXIMUM)",
+      "provider": "MAXIMUM Education",
+      "shortDesc": "Exam prep in English with a guaranteed result.",
+      "fullText": "Online English exam preparation. Classes held in mini-groups with experienced teachers. All sections covered: listening, reading, grammar, writing and speaking. Guarantee: if the result does not improve – full refund. Start at any time of year.",
+      "category": "English",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2721/2721620.png",
+    "url": "https://fastlane.kz/ml/?ref=youni4st",
+    "RU": {
+      "title": "Введение в машинное обучение (Фаст Лейн)",
+      "provider": "Фаст Лейн",
+      "shortDesc": "Основы ML: регрессия, классификация, кластеризация на Python.",
+      "fullText": "Курс охватывает ключевые алгоритмы машинного обучения: линейную и логистическую регрессию, деревья решений, нейросети. Вы научитесь использовать scikit-learn, работать с реальными датасетами и оценивать качество моделей. Включает итоговый проект с защитой.",
+      "category": "Data Science",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Машиналық оқытуға кіріспе (Фаст Лейн)",
+      "provider": "Фаст Лейн",
+      "shortDesc": "ML негіздері: Python-да регрессия, классификация, кластерлеу.",
+      "fullText": "Курс машиналық оқытудың негізгі алгоритмдерін қамтиды: сызықтық және логистикалық регрессия, шешім ағаштары, нейрондық желілер. scikit-learn пайдалануды, нақты деректер жинақтарымен жұмыс істеуді және модель сапасын бағалауды үйренесіз.",
+      "category": "Data Science",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Introduction to Machine Learning (Fast Lane)",
+      "provider": "Fast Lane",
+      "shortDesc": "ML basics: regression, classification, clustering in Python.",
+      "fullText": "The course covers key ML algorithms: linear and logistic regression, decision trees, neural networks. You will learn to use scikit-learn, work with real datasets and evaluate model quality. Includes a final project with presentation.",
+      "category": "Data Science",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "url": "https://astana.gov.kz/robotics/?ref=youni4st",
+    "RU": {
+      "title": "Бесплатная робототехника в школах Астаны",
+      "provider": "Акимат г. Астаны",
+      "shortDesc": "Государственная программа роботостроения для учащихся Астаны.",
+      "fullText": "В рамках государственной программы цифровизации образования в школах Астаны открыты бесплатные кружки робототехники. Учащиеся 5–9 классов изучают Scratch, Arduino и участвуют в городских олимпиадах. Оборудование предоставляется школой.",
+      "category": "Робототехника",
+      "price": "Бесплатно"
+    },
+    "KZ": {
+      "title": "Астана мектептеріндегі тегін робототехника",
+      "provider": "Астана қаласының әкімдігі",
+      "shortDesc": "Астана оқушыларына арналған робот жасаудың мемлекеттік бағдарламасы.",
+      "fullText": "Білімді цифрландырудың мемлекеттік бағдарламасы аясында Астана мектептерінде тегін робототехника үйірмелері ашылды. 5–9 сынып оқушылары Scratch, Arduino үйренеді және қалалық олимпиадаларға қатысады.",
+      "category": "Робототехника",
+      "price": "Тегін"
+    },
+    "EN": {
+      "title": "Free Robotics in Astana Schools",
+      "provider": "Astana City Administration",
+      "shortDesc": "State robotics programme for Astana students.",
+      "fullText": "Within the state education digitalisation programme, free robotics clubs have been opened in Astana schools. Students in grades 5–9 learn Scratch and Arduino and take part in city olympiads. Equipment is provided by the school.",
+      "category": "Robotics",
+      "price": "Free"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2721/2721620.png",
+    "url": "https://shultai.kz/sql/?ref=youni4st",
+    "RU": {
+      "title": "Основы SQL и баз данных (Школа Шултая)",
+      "provider": "Школа Шултая",
+      "shortDesc": "SQL с нуля: SELECT, JOIN, агрегации и проектирование БД.",
+      "fullText": "Практический курс для начинающих аналитиков и разработчиков. Охватывает синтаксис SQL, работу с реляционными базами данных (PostgreSQL, MySQL), JOIN-запросы, агрегации и оконные функции. В программе — проектирование схемы БД и оптимизация запросов.",
+      "category": "Data Science",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "SQL және деректер қоры негіздері (Шұлтай мектебі)",
+      "provider": "Шұлтай мектебі",
+      "shortDesc": "SQL нөлден: SELECT, JOIN, агрегациялар және ДҚ жобалау.",
+      "fullText": "Жаңадан бастаған талдаушылар мен әзірлеушілерге арналған практикалық курс. SQL синтаксисін, реляциялық деректер қорларымен (PostgreSQL, MySQL) жұмысты, JOIN-сұраныстарды, агрегациялар мен терезелік функцияларды қамтиды.",
+      "category": "Data Science",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "SQL & Database Basics (Shultai School)",
+      "provider": "Shultai School",
+      "shortDesc": "SQL from scratch: SELECT, JOIN, aggregations and DB design.",
+      "fullText": "Practical course for beginner analysts and developers. Covers SQL syntax, relational databases (PostgreSQL, MySQL), JOIN queries, aggregations and window functions. Includes database schema design and query optimisation.",
+      "category": "Data Science",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "url": "https://ozyq-urpaq.kz/?ref=youni4st",
+    "RU": {
+      "title": "Озық Ұрпақ — робототехника в школах Казахстана",
+      "provider": "Озық Ұрпақ",
+      "shortDesc": "Бесплатная программа по робототехнике для сельских школ.",
+      "fullText": "Программа охватывает сельские и малокомплектные школы по всему Казахстану. Дети изучают Arduino, Scratch и создают простые роботизированные устройства. Реализуется при поддержке государственных фондов. Оборудование и наставники предоставляются бесплатно.",
+      "category": "Робототехника",
+      "price": "Бесплатно"
+    },
+    "KZ": {
+      "title": "Озық Ұрпақ — Қазақстан мектептеріндегі робототехника",
+      "provider": "Озық Ұрпақ",
+      "shortDesc": "Ауыл мектептеріне арналған тегін робототехника бағдарламасы.",
+      "fullText": "Бағдарлама Қазақстан бойынша ауыл және шағын мектептерді қамтиды. Балалар Arduino, Scratch үйренеді және қарапайым роботтандырылған құрылғылар жасайды. Мемлекеттік қорлардың қолдауымен іске асырылады.",
+      "category": "Робототехника",
+      "price": "Тегін"
+    },
+    "EN": {
+      "title": "Ozyk Urpak — Robotics in Kazakhstan Schools",
+      "provider": "Ozyk Urpak",
+      "shortDesc": "Free robotics programme for rural schools.",
+      "fullText": "The programme covers rural and small schools across Kazakhstan. Children learn Arduino and Scratch and build simple robotic devices. Implemented with support of state funds. Equipment and mentors provided free of charge.",
+      "category": "Robotics",
+      "price": "Free"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/1253/1253805.png",
+    "url": "https://prizma.kz/webdesign/?ref=youni4st",
+    "RU": {
+      "title": "Веб-дизайн для начинающих (Центр «Призма»)",
+      "provider": "Центр «Призма»",
+      "shortDesc": "HTML, CSS и основы Figma для создания первого сайта.",
+      "fullText": "Курс для тех, кто хочет освоить веб-дизайн с нуля. Изучение HTML5, CSS3, основ адаптивной вёрстки и базовых инструментов Figma. По окончании — готовый личный сайт-портфолио. Занятия 3 раза в неделю, длительность — 2 месяца.",
+      "category": "Дизайн",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Жаңадан бастаушыларға веб-дизайн («Призма» орталығы)",
+      "provider": "«Призма» орталығы",
+      "shortDesc": "Бірінші сайтты жасауға HTML, CSS және Figma негіздері.",
+      "fullText": "Веб-дизайнды нөлден меңгергісі келетіндерге арналған курс. HTML5, CSS3, адаптивті верстка негіздері және Figma-ның базалық құралдары. Аяқтағаннан кейін — дайын жеке портфолио сайты. Аптасына 3 рет, ұзақтығы — 2 ай.",
+      "category": "Дизайн",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Web Design for Beginners (Prizma Centre)",
+      "provider": "Prizma Centre",
+      "shortDesc": "HTML, CSS and Figma basics for building your first website.",
+      "fullText": "Course for those who want to learn web design from scratch. Covers HTML5, CSS3, responsive layout basics and core Figma tools. Upon completion – a ready personal portfolio website. Classes 3 times a week, duration – 2 months.",
+      "category": "Design",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
+    "url": "https://ilac.com/kids/?ref=youni4st",
+    "RU": {
+      "title": "ILAC Kids — английский для детей онлайн",
+      "provider": "ILAC",
+      "shortDesc": "Онлайн-курсы английского для детей 6–12 лет с носителями языка.",
+      "fullText": "ILAC Kids предлагает интерактивные уроки английского языка для детей. Занятия проходят в игровой форме с сертифицированными носителями языка. Программа развивает разговорные навыки, словарный запас и понимание на слух. Доступны групповые и индивидуальные форматы.",
+      "category": "Английский",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "ILAC Kids — балаларға онлайн ағылшын тілі",
+      "provider": "ILAC",
+      "shortDesc": "6–12 жастағы балаларға ана тілі ағылшын болып табылатын мұғалімдермен онлайн курстар.",
+      "fullText": "ILAC Kids балаларға арналған интерактивті ағылшын тілі сабақтарын ұсынады. Сертификатталған ана тілді мұғалімдермен ойын түрінде өтеді. Бағдарлама сөйлесу дағдыларын, сөздік қорды және тыңдалымды дамытады.",
+      "category": "Ағылшын тілі",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "ILAC Kids — English for Children Online",
+      "provider": "ILAC",
+      "shortDesc": "Online English courses for children 6–12 with native speakers.",
+      "fullText": "ILAC Kids offers interactive English lessons for children. Classes are held in a playful format with certified native-speaking teachers. The programme develops speaking skills, vocabulary and listening comprehension. Group and individual formats available.",
+      "category": "English",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/3616/3616264.png",
+    "url": "https://itis.kfu.ru/gamedesign/?ref=youni4st",
+    "RU": {
+      "title": "Гейм-дизайн для школьников (ИТИС КФУ)",
+      "provider": "ИТИС КФУ",
+      "shortDesc": "Создание игр: концепция, механики, визуал и монетизация.",
+      "fullText": "Курс для школьников 14–17 лет, мечтающих создавать игры. Охватывает: создание концепта, механики, балансировку, монетизацию и основы маркетинга игр. Практика на движке Unity. Финальный проект — прототип оригинальной игры.",
+      "category": "Геймдев",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Мектеп оқушыларына геймдизайн (ИТИС КФУ)",
+      "provider": "ИТИС КФУ",
+      "shortDesc": "Ойын жасау: тұжырымдама, механика, визуал және монетизация.",
+      "fullText": "Ойын жасауды армандайтын 14–17 жастағы оқушыларға арналған курс. Тұжырымдама жасауды, механикаларды, теңестіруді, монетизация мен ойын маркетингінің негіздерін қамтиды. Unity қозғалтқышында тәжірибе. Қорытынды жоба — түпнұсқа ойынның прототипі.",
+      "category": "Геймдев",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Game Design for Schoolchildren (ITIS KFU)",
+      "provider": "ITIS KFU",
+      "shortDesc": "Game creation: concept, mechanics, visuals and monetisation.",
+      "fullText": "Course for students aged 14–17 who dream of making games. Covers concept creation, mechanics, balancing, monetisation and basics of game marketing. Practice in Unity. Final project – an original game prototype.",
+      "category": "Game Dev",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
+    "url": "https://1c-urok.ru/?ref=youni4st",
+    "RU": {
+      "title": "Английский язык с 1С:Урок для 5–8 классов",
+      "provider": "1С:Урок",
+      "shortDesc": "Интерактивные тренажёры по английскому для средней школы.",
+      "fullText": "Платформа 1С:Урок предлагает адаптивные упражнения по грамматике, лексике и аудированию для учеников 5–8 классов. Программа соответствует ФГОС. Учитель может отслеживать прогресс каждого ученика в личном кабинете. Доступ для школ — по подписке.",
+      "category": "Английский",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "5–8 сынып ағылшын тілі 1С:Сабақ арқылы",
+      "provider": "1С:Сабақ",
+      "shortDesc": "Орта мектеп ағылшын тіліне арналған интерактивті жаттықтырғыштар.",
+      "fullText": "1С:Сабақ платформасы 5–8 сынып оқушыларына грамматика, лексика және тыңдалым бойынша бейімделген жаттығулар ұсынады. Мұғалім жеке кабинетте әрбір оқушының үлгерімін бақылай алады.",
+      "category": "Ағылшын тілі",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "English with 1C:Lesson for Grades 5–8",
+      "provider": "1C:Lesson",
+      "shortDesc": "Interactive English exercises for middle school.",
+      "fullText": "The 1C:Lesson platform offers adaptive grammar, vocabulary and listening exercises for grades 5–8. The programme meets state educational standards. Teachers can track each student's progress in their personal account. School access via subscription.",
+      "category": "English",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+    "url": "https://mephi.ru/ai/?ref=youni4st",
+    "RU": {
+      "title": "Основы искусственного интеллекта (НИЯУ МИФИ)",
+      "provider": "НИЯУ МИФИ",
+      "shortDesc": "Теория и практика ИИ от ведущего технического вуза России.",
+      "fullText": "Курс охватывает историю ИИ, нейронные сети, компьютерное зрение и NLP. Особое внимание — практическим заданиям на Python. Разработан преподавателями НИЯУ МИФИ совместно с индустриальными партнёрами. Есть версии для студентов и для школьников старших классов.",
+      "category": "Data Science",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Жасанды интеллект негіздері (НИАТУ МИФИ)",
+      "provider": "НИАТУ МИФИ",
+      "shortDesc": "Ресейдің жетекші техникалық университетінен ЖИ теориясы мен практикасы.",
+      "fullText": "Курс ЖИ тарихын, нейрондық желілерді, компьютерлік көруді және NLP-ді қамтиды. Python-да практикалық тапсырмаларға ерекше назар аударылады. НИАТУ МИФИ оқытушылары мен өнеркәсіптік серіктестер бірлесіп әзірлеген.",
+      "category": "Data Science",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "AI Fundamentals (MEPhI)",
+      "provider": "MEPhI",
+      "shortDesc": "AI theory and practice from a leading Russian technical university.",
+      "fullText": "The course covers the history of AI, neural networks, computer vision and NLP. Special focus on practical Python assignments. Developed by MEPhI instructors together with industry partners. Versions available for university students and senior schoolchildren.",
+      "category": "Data Science",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/1253/1253805.png",
+    "url": "https://softuni.bg/courses/uiux/?ref=youni4st",
+    "RU": {
+      "title": "UI/UX и Figma (Программа на платформе SoftUni)",
+      "provider": "SoftUni",
+      "shortDesc": "Полный курс UX-исследований и проектирования интерфейсов.",
+      "fullText": "Комплексная программа по UI/UX-дизайну: от базовых принципов до профессионального портфолио. Включает UX-исследования, информационную архитектуру, прототипирование и тестирование. Обучение в формате живых онлайн-сессий с менторами.",
+      "category": "Дизайн",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "UI/UX және Figma (SoftUni платформасындағы бағдарлама)",
+      "provider": "SoftUni",
+      "shortDesc": "UX-зерттеулер мен интерфейс жобалаудың толық курсы.",
+      "fullText": "UI/UX-дизайн бойынша кешенді бағдарлама: базалық қағидалардан кәсіби портфолиоға дейін. UX-зерттеулерді, ақпараттық архитектураны, прототиптеу мен тестілеуді қамтиды.",
+      "category": "Дизайн",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "UI/UX and Figma (SoftUni Platform Programme)",
+      "provider": "SoftUni",
+      "shortDesc": "Full course in UX research and interface design.",
+      "fullText": "Comprehensive UI/UX design programme: from basic principles to a professional portfolio. Includes UX research, information architecture, prototyping and testing. Live online sessions with mentors.",
+      "category": "Design",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/1253/1253805.png",
+    "url": "https://academ-tv.kz/blender/?ref=youni4st",
+    "RU": {
+      "title": "Blender 3D моделирование и анимация (Академия творчества)",
+      "provider": "Академия творчества",
+      "shortDesc": "Создавай 3D-объекты и анимации в Blender с нуля.",
+      "fullText": "Курс для подростков и взрослых, желающих освоить 3D-графику. Охватывает базовое и продвинутое моделирование, риггинг, анимацию и рендеринг в Blender. По итогам — портфолио из трёх полноценных работ. Занятия проходят онлайн, 2 раза в неделю.",
+      "category": "Дизайн",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Blender 3D модельдеу және анимация (Шығармашылық академиясы)",
+      "provider": "Шығармашылық академиясы",
+      "shortDesc": "Blender-де 3D-объектілер мен анимацияларды нөлден жасаңыз.",
+      "fullText": "3D-графиканы меңгергісі келетін жасөспірімдер мен ересектерге арналған курс. Blender-де базалық және жетілдірілген модельдеуді, риггингті, анимация мен рендерингті қамтиды.",
+      "category": "Дизайн",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Blender 3D Modelling and Animation (Creative Academy)",
+      "provider": "Creative Academy",
+      "shortDesc": "Create 3D objects and animations in Blender from scratch.",
+      "fullText": "Course for teenagers and adults who want to master 3D graphics. Covers basic and advanced modelling, rigging, animation and rendering in Blender. Final output – a portfolio of three complete works. Classes held online, twice a week.",
+      "category": "Design",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "url": "https://qstem.kz/almaty/?ref=youni4st",
+    "RU": {
+      "title": "RoboClub и 3D-моделирование (QSTEM Алматы)",
+      "provider": "QSTEM Алматы",
+      "shortDesc": "Робототехника и 3D-печать для детей 8–14 лет в Алматы.",
+      "fullText": "Программа объединяет робототехнику на LEGO и Arduino с основами 3D-моделирования (TinkerCAD, Fusion 360). Дети создают и распечатывают детали для своих роботов. Занятия проходят в офлайн-центрах Алматы. Группы начинаются каждые 2 месяца.",
+      "category": "Робототехника",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "RoboClub және 3D-модельдеу (QSTEM Алматы)",
+      "provider": "QSTEM Алматы",
+      "shortDesc": "Алматыдағы 8–14 жастағы балаларға арналған робототехника және 3D-баспа.",
+      "fullText": "Бағдарлама LEGO мен Arduino-дағы робототехниканы 3D-модельдеу (TinkerCAD, Fusion 360) негіздерімен біріктіреді. Балалар роботтарына арналған бөлшектер жасап, басып шығарады. Сабақтар Алматының офлайн орталықтарында өтеді.",
+      "category": "Робототехника",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "RoboClub and 3D Modelling (QSTEM Almaty)",
+      "provider": "QSTEM Almaty",
+      "shortDesc": "Robotics and 3D printing for children 8–14 in Almaty.",
+      "fullText": "The programme combines LEGO and Arduino robotics with 3D modelling basics (TinkerCAD, Fusion 360). Children create and print parts for their robots. Classes held at QSTEM offline centres in Almaty. Groups start every 2 months.",
+      "category": "Robotics",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "url": "https://qarmet.kz/ckt/?ref=youni4st",
+    "RU": {
+      "title": "Дроны и автомоделирование (ЦКТ Qarmet)",
+      "provider": "ЦКТ Qarmet",
+      "shortDesc": "Сборка и программирование дронов и радиоуправляемых машин.",
+      "fullText": "Центр компетенций технологий Qarmet обучает сборке квадрокоптеров, базовому пилотированию и программированию дронов на Python. Параллельно — курс по автомоделированию с радиоуправлением. Занятия проходят в Темиртау. Возраст участников — от 12 лет.",
+      "category": "Робототехника",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Дрондар мен автомодельдеу (ЦКТ Qarmet)",
+      "provider": "ЦКТ Qarmet",
+      "shortDesc": "Дрондарды және радиобасқарылатын машиналарды жинау және бағдарламалау.",
+      "fullText": "Qarmet технологиялар құзыреттілік орталығы квадрокоптерлерді жинауды, Python-да базалық ұшуды және дрондарды бағдарламалауды үйретеді. Параллельді — радиобасқарумен автомодельдеу курсы. Сабақтар Теміртауда өтеді. Қатысушылар жасы — 12 жастан.",
+      "category": "Робототехника",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Drones and Auto-Modelling (CKT Qarmet)",
+      "provider": "CKT Qarmet",
+      "shortDesc": "Assembly and programming of drones and radio-controlled cars.",
+      "fullText": "Qarmet Technology Competence Centre teaches quadcopter assembly, basic piloting and Python-based drone programming. Parallel course on radio-controlled auto-modelling. Classes held in Temirtau. Participants from age 12.",
+      "category": "Robotics",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/1253/1253805.png",
+    "url": "https://purpleschool.ru/figma/?ref=youni4st",
+    "RU": {
+      "title": "Основы дизайна и Figma (Пурпурная школа)",
+      "provider": "Пурпурная школа",
+      "shortDesc": "Теория дизайна + Figma: для тех, кто хочет начать с основ.",
+      "fullText": "Курс раскрывает базовые принципы дизайна (цвет, типографика, сетки) и обучает работе в Figma. Подходит студентам и новичкам без технического бэкграунда. Итог — личный проект в Figma, который можно добавить в портфолио. Сопровождение ментора.",
+      "category": "Дизайн",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Дизайн және Figma негіздері (Күлгін мектеп)",
+      "provider": "Күлгін мектеп",
+      "shortDesc": "Дизайн теориясы + Figma: негізден бастағысы келетіндерге.",
+      "fullText": "Курс дизайннің базалық қағидаларын (түс, типографика, тор) ашады және Figma-да жұмыс істеуді үйретеді. Техникалық білімі жоқ студенттер мен жаңадан бастаушыларға жарайды.",
+      "category": "Дизайн",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Design Basics and Figma (Purple School)",
+      "provider": "Purple School",
+      "shortDesc": "Design theory + Figma: for those who want to start from basics.",
+      "fullText": "The course covers basic design principles (colour, typography, grids) and teaches Figma. Suitable for students and beginners without a technical background. Final output – a personal Figma project for your portfolio. Mentor support included.",
+      "category": "Design",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "url": "https://arduino.kz/school/?ref=youni4st",
+    "RU": {
+      "title": "Робототехника на Arduino (для школьников 9–13 лет)",
+      "provider": "Arduino KZ",
+      "shortDesc": "Собирай и программируй роботов на Arduino с нуля.",
+      "fullText": "Практический офлайн-курс по робототехнике для детей 9–13 лет. Участники собирают роботов из деталей, программируют их на языке C++ и участвуют в мини-соревнованиях. Курс длится 3 месяца, занятия 2 раза в неделю. Все необходимые компоненты включены.",
+      "category": "Робототехника",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Arduino-да робототехника (9–13 жастағы оқушыларға)",
+      "provider": "Arduino KZ",
+      "shortDesc": "Arduino-да роботтарды нөлден жинаңыз және бағдарламалаңыз.",
+      "fullText": "9–13 жастағы балаларға арналған практикалық офлайн робототехника курсы. Қатысушылар бөлшектерден роботтар жинайды, C++ тілінде бағдарламалайды және мини-жарыстарға қатысады. Курс 3 айға созылады, аптасына 2 рет. Барлық қажетті компоненттер қосылған.",
+      "category": "Робототехника",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Arduino Robotics (for Schoolchildren 9–13)",
+      "provider": "Arduino KZ",
+      "shortDesc": "Assemble and program robots with Arduino from scratch.",
+      "fullText": "Practical offline robotics course for children 9–13. Participants build robots from parts, program them in C++ and take part in mini-competitions. Duration – 3 months, twice a week. All required components included.",
+      "category": "Robotics",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2721/2721620.png",
+    "url": "https://datanomix.kz/qlik/?ref=youni4st",
+    "RU": {
+      "title": "Разработка приложений на Qlik Sense (Datanomix Academy, Tech Orda)",
+      "provider": "Datanomix Academy / Tech Orda",
+      "shortDesc": "Бизнес-аналитика и дашборды на Qlik Sense.",
+      "fullText": "Программа обучает разработке аналитических приложений на платформе Qlik Sense. Участники научатся подключать источники данных, создавать интерактивные дашборды, писать скрипты загрузки данных и настраивать безопасность. Курс реализуется в партнёрстве с Tech Orda.",
+      "category": "Data Science",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Qlik Sense-те қосымшалар жасау (Datanomix Academy, Tech Orda)",
+      "provider": "Datanomix Academy / Tech Orda",
+      "shortDesc": "Qlik Sense-те бизнес-аналитика және дашбордтар.",
+      "fullText": "Бағдарлама Qlik Sense платформасында аналитикалық қосымшалар жасауды үйретеді. Қатысушылар деректер көздерін қосуды, интерактивті дашбордтар жасауды, деректерді жүктеу скриптерін жазуды және қауіпсіздікті баптауды үйренеді.",
+      "category": "Data Science",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Qlik Sense App Development (Datanomix Academy, Tech Orda)",
+      "provider": "Datanomix Academy / Tech Orda",
+      "shortDesc": "Business analytics and dashboards in Qlik Sense.",
+      "fullText": "The programme teaches development of analytical applications on the Qlik Sense platform. Participants learn to connect data sources, build interactive dashboards, write data load scripts and configure security. Implemented in partnership with Tech Orda.",
+      "category": "Data Science",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/1055/1055683.png",
+    "url": "https://innopolis.university/python/?ref=youni4st",
+    "RU": {
+      "title": "Python для всех: от основ до олимпиад (Иннополис)",
+      "provider": "Университет Иннополис",
+      "shortDesc": "Python от переменных до алгоритмов — курс для школьников.",
+      "fullText": "Курс разработан Университетом Иннополис для школьников 10–17 лет. Охватывает синтаксис Python, работу со списками, словарями, файлами и основными алгоритмами. Вторая часть курса направлена на решение олимпиадных задач. Доступны онлайн и офлайн форматы.",
+      "category": "Программирование",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Барлығына арналған Python: негіздерден олимпиадаға дейін (Иннополис)",
+      "provider": "Иннополис университеті",
+      "shortDesc": "Python айнымалылардан алгоритмдерге дейін — мектеп оқушыларына арналған курс.",
+      "fullText": "Курс Иннополис университеті тарапынан 10–17 жастағы оқушыларға арналып жасалған. Python синтаксисін, тізімдермен, сөздіктермен, файлдармен және негізгі алгоритмдермен жұмысты қамтиды. Курстың екінші бөлімі олимпиадалық есептер шешуге бағытталған.",
+      "category": "Бағдарламалау",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Python for Everyone: Basics to Olympiads (Innopolis)",
+      "provider": "Innopolis University",
+      "shortDesc": "Python from variables to algorithms – a course for schoolchildren.",
+      "fullText": "Course developed by Innopolis University for students aged 10–17. Covers Python syntax, working with lists, dictionaries, files and core algorithms. The second part focuses on solving olympiad problems. Online and offline formats available.",
+      "category": "Programming",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "url": "https://arduino-start.kz/?ref=youni4st",
+    "RU": {
+      "title": "Занимательная робототехника. Arduino для начинающих.",
+      "provider": "Arduino Start KZ",
+      "shortDesc": "Первые шаги в мире Arduino: светодиоды, датчики и сервомоторы.",
+      "fullText": "Вводный курс для полных новичков. Участники собирают простые электрические схемы, управляют светодиодами, подключают датчики (ультразвуковой, температурный) и сервомоторы. Всё объясняется простым языком. Курс подходит детям от 10 лет и взрослым, желающим познакомиться с электроникой.",
+      "category": "Робототехника",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "Қызықты робототехника. Бастаушыларға Arduino.",
+      "provider": "Arduino Start KZ",
+      "shortDesc": "Arduino әлеміне алғашқы қадамдар: жарықдиодтар, датчиктер және сервомоторлар.",
+      "fullText": "Толық жаңадан бастаушыларға арналған кіріспе курс. Қатысушылар қарапайым электр схемаларын жинайды, жарықдиодтарды басқарады, датчиктер (ультрадыбыстық, температуралық) мен сервомоторларды қосады. Барлығы қарапайым тілмен түсіндіріледі.",
+      "category": "Робототехника",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "Fun Robotics: Arduino for Beginners",
+      "provider": "Arduino Start KZ",
+      "shortDesc": "First steps in the world of Arduino: LEDs, sensors and servo motors.",
+      "fullText": "Introductory course for complete beginners. Participants assemble simple electrical circuits, control LEDs, connect sensors (ultrasonic, temperature) and servo motors. Everything is explained in plain language. Suitable for children from age 10 and adults who want to explore electronics.",
+      "category": "Robotics",
+      "price": "Paid"
+    }
+  },
+  {
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2721/2721620.png",
+    "url": "https://datanomix.kz/ai-product/?ref=youni4st",
+    "RU": {
+      "title": "Управление AI и ML продуктами (Datanomix Academy, Tech Orda)",
+      "provider": "Datanomix Academy / Tech Orda",
+      "shortDesc": "Как запускать и масштабировать продукты на основе ИИ.",
+      "fullText": "Программа для менеджеров и предпринимателей, работающих с ИИ-продуктами. Охватывает жизненный цикл ML-продукта, метрики качества моделей, управление командой дата-сайентистов и монетизацию. Включает кейсы казахстанских компаний. Реализуется совместно с Tech Orda.",
+      "category": "Менеджмент",
+      "price": "Платно"
+    },
+    "KZ": {
+      "title": "AI және ML өнімдерін басқару (Datanomix Academy, Tech Orda)",
+      "provider": "Datanomix Academy / Tech Orda",
+      "shortDesc": "ЖИ негізіндегі өнімдерді қалай іске қосу және масштабтау керек.",
+      "fullText": "ЖИ-өнімдерімен жұмыс істейтін менеджерлер мен кәсіпкерлерге арналған бағдарлама. ML-өнімнің өмірлік циклін, модель сапасының метрикаларын, деректер-ғалымдар тобын басқаруды және монетизацияны қамтиды.",
+      "category": "Менеджмент",
+      "price": "Ақылы"
+    },
+    "EN": {
+      "title": "AI & ML Product Management (Datanomix Academy, Tech Orda)",
+      "provider": "Datanomix Academy / Tech Orda",
+      "shortDesc": "How to launch and scale AI-powered products.",
+      "fullText": "Programme for managers and entrepreneurs working with AI products. Covers the ML product lifecycle, model quality metrics, managing data science teams and monetisation. Includes Kazakhstan company case studies. Implemented together with Tech Orda.",
+      "category": "Management",
+      "price": "Paid"
+    }
+  }
+]
