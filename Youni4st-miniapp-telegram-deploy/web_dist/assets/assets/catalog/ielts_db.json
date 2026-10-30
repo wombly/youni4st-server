@@ -1,0 +1,139 @@
+[
+  {
+    "id": "ielts:verified-0",
+    "source_url": "https://kazakhstan.britishcouncil.org/ru/exam/ielts/which-test/academic",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Стоимость IELTS Academic",
+      "shortDesc": "British Council Казахстан: 110 250 ₸ за IELTS Academic. Перед оплатой проверьте тариф выбранной сессии; UKVI и другие форматы имеют отдельные цены.",
+      "fullText": "British Council Казахстан: 110 250 ₸ за IELTS Academic. Перед оплатой проверьте тариф выбранной сессии; UKVI и другие форматы имеют отдельные цены."
+    },
+    "RU_title": "Стоимость IELTS Academic",
+    "KZ": {
+      "title": "IELTS Academic құны",
+      "shortDesc": "British Council Қазақстан: IELTS Academic — 110 250 ₸. Төлем алдында сессия тарифін тексеріңіз; UKVI және басқа форматтардың бағасы бөлек.",
+      "fullText": "British Council Қазақстан: IELTS Academic — 110 250 ₸. Төлем алдында сессия тарифін тексеріңіз; UKVI және басқа форматтардың бағасы бөлек."
+    },
+    "KZ_title": "IELTS Academic құны",
+    "EN": {
+      "title": "IELTS Academic fee",
+      "shortDesc": "British Council Kazakhstan lists IELTS Academic at KZT 110,250. Check your session fee before paying; UKVI and other formats have separate prices.",
+      "fullText": "British Council Kazakhstan lists IELTS Academic at KZT 110,250. Check your session fee before paying; UKVI and other formats have separate prices."
+    },
+    "EN_title": "IELTS Academic fee",
+    "subtitle": {
+      "RU": "British Council Казахстан: 110 250 ₸ за IELTS Academic. Перед оплатой проверьте тариф выбранной сессии; UKVI и другие форматы имеют отдельные цены.",
+      "KZ": "British Council Қазақстан: IELTS Academic — 110 250 ₸. Төлем алдында сессия тарифін тексеріңіз; UKVI және басқа форматтардың бағасы бөлек.",
+      "EN": "British Council Kazakhstan lists IELTS Academic at KZT 110,250. Check your session fee before paying; UKVI and other formats have separate prices."
+    }
+  },
+  {
+    "id": "ielts:verified-1",
+    "source_url": "https://ielts.org/news-and-insights/updates-to-ielts-test-delivery",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Формат экзамена в 2026 году",
+      "shortDesc": "IELTS объявил переход к компьютерной сдаче с середины 2026 года. В отдельных местах доступен Writing on Paper. Уточните формат в выбранном центре при регистрации.",
+      "fullText": "IELTS объявил переход к компьютерной сдаче с середины 2026 года. В отдельных местах доступен Writing on Paper. Уточните формат в выбранном центре при регистрации."
+    },
+    "RU_title": "Формат экзамена в 2026 году",
+    "KZ": {
+      "title": "2026 жылғы емтихан форматы",
+      "shortDesc": "IELTS 2026 жылдың ортасынан компьютерлік форматқа көшетінін жариялады. Кейбір орталықтарда Writing on Paper бар. Форматты тіркелу кезінде тексеріңіз.",
+      "fullText": "IELTS 2026 жылдың ортасынан компьютерлік форматқа көшетінін жариялады. Кейбір орталықтарда Writing on Paper бар. Форматты тіркелу кезінде тексеріңіз."
+    },
+    "KZ_title": "2026 жылғы емтихан форматы",
+    "EN": {
+      "title": "Test delivery in 2026",
+      "shortDesc": "IELTS announced a move to computer delivery from mid-2026. Writing on Paper is offered in selected locations. Check your centre’s delivery options when booking.",
+      "fullText": "IELTS announced a move to computer delivery from mid-2026. Writing on Paper is offered in selected locations. Check your centre’s delivery options when booking."
+    },
+    "EN_title": "Test delivery in 2026",
+    "subtitle": {
+      "RU": "IELTS объявил переход к компьютерной сдаче с середины 2026 года. В отдельных местах доступен Writing on Paper. Уточните формат в выбранном центре при регистрации.",
+      "KZ": "IELTS 2026 жылдың ортасынан компьютерлік форматқа көшетінін жариялады. Кейбір орталықтарда Writing on Paper бар. Форматты тіркелу кезінде тексеріңіз.",
+      "EN": "IELTS announced a move to computer delivery from mid-2026. Writing on Paper is offered in selected locations. Check your centre’s delivery options when booking."
+    }
+  },
+  {
+    "id": "ielts:verified-2",
+    "source_url": "https://ielts.org/test-centres?country=kaz",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Официальные тест-центры",
+      "shortDesc": "Выберите город и центр в официальном каталоге IELTS. Доступные даты, возможность One Skill Retake и формат сдачи зависят от конкретной площадки.",
+      "fullText": "Выберите город и центр в официальном каталоге IELTS. Доступные даты, возможность One Skill Retake и формат сдачи зависят от конкретной площадки."
+    },
+    "RU_title": "Официальные тест-центры",
+    "KZ": {
+      "title": "Ресми тест орталықтары",
+      "shortDesc": "IELTS ресми каталогынан қала мен орталықты таңдаңыз. Күндер, One Skill Retake және формат орталыққа байланысты.",
+      "fullText": "IELTS ресми каталогынан қала мен орталықты таңдаңыз. Күндер, One Skill Retake және формат орталыққа байланысты."
+    },
+    "KZ_title": "Ресми тест орталықтары",
+    "EN": {
+      "title": "Official test centres",
+      "shortDesc": "Choose your city and centre in the official IELTS directory. Dates, One Skill Retake and delivery modes depend on the specific location.",
+      "fullText": "Choose your city and centre in the official IELTS directory. Dates, One Skill Retake and delivery modes depend on the specific location."
+    },
+    "EN_title": "Official test centres",
+    "subtitle": {
+      "RU": "Выберите город и центр в официальном каталоге IELTS. Доступные даты, возможность One Skill Retake и формат сдачи зависят от конкретной площадки.",
+      "KZ": "IELTS ресми каталогынан қала мен орталықты таңдаңыз. Күндер, One Skill Retake және формат орталыққа байланысты.",
+      "EN": "Choose your city and centre in the official IELTS directory. Dates, One Skill Retake and delivery modes depend on the specific location."
+    }
+  },
+  {
+    "id": "ielts:verified-3",
+    "source_url": "https://www.ielts.org/take-a-test/preparation-resources/sample-test-questions",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Подготовка: примеры заданий",
+      "shortDesc": "Используйте официальные примеры заданий Listening, Reading, Writing и Speaking. Требуемый итоговый балл и минимумы по секциям проверяйте в правилах конкретной программы вуза.",
+      "fullText": "Используйте официальные примеры заданий Listening, Reading, Writing и Speaking. Требуемый итоговый балл и минимумы по секциям проверяйте в правилах конкретной программы вуза."
+    },
+    "RU_title": "Подготовка: примеры заданий",
+    "KZ": {
+      "title": "Дайындық: тапсырма үлгілері",
+      "shortDesc": "Listening, Reading, Writing және Speaking ресми үлгілерін қолданыңыз. Қажетті балды университет бағдарламасының талаптарынан тексеріңіз.",
+      "fullText": "Listening, Reading, Writing және Speaking ресми үлгілерін қолданыңыз. Қажетті балды университет бағдарламасының талаптарынан тексеріңіз."
+    },
+    "KZ_title": "Дайындық: тапсырма үлгілері",
+    "EN": {
+      "title": "Preparation: sample questions",
+      "shortDesc": "Use official Listening, Reading, Writing and Speaking samples. Confirm overall and component score requirements with the university program.",
+      "fullText": "Use official Listening, Reading, Writing and Speaking samples. Confirm overall and component score requirements with the university program."
+    },
+    "EN_title": "Preparation: sample questions",
+    "subtitle": {
+      "RU": "Используйте официальные примеры заданий Listening, Reading, Writing и Speaking. Требуемый итоговый балл и минимумы по секциям проверяйте в правилах конкретной программы вуза.",
+      "KZ": "Listening, Reading, Writing және Speaking ресми үлгілерін қолданыңыз. Қажетті балды университет бағдарламасының талаптарынан тексеріңіз.",
+      "EN": "Use official Listening, Reading, Writing and Speaking samples. Confirm overall and component score requirements with the university program."
+    }
+  },
+  {
+    "id": "ielts:verified-structure",
+    "source_url": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+    "checked_at": "2026-10-14",
+    "subtitle": {
+      "RU": "Четыре секции: Listening — примерно 30 минут, Reading — 60 минут, Writing — 60 минут, Speaking — 11–14 минут. В Academic и General Training различаются Reading и Writing.",
+      "KZ": "Төрт бөлім: Listening — шамамен 30 минут, Reading — 60 минут, Writing — 60 минут, Speaking — 11–14 минут. Academic пен General Training-де Reading және Writing ерекшеленеді.",
+      "EN": "Four sections: Listening about 30 minutes, Reading 60 minutes, Writing 60 minutes, Speaking 11–14 minutes. Academic and General Training have different Reading and Writing tests."
+    },
+    "RU_title": "Структура IELTS Academic",
+    "RU": {
+      "title": "Структура IELTS Academic",
+      "fullText": "Четыре секции: Listening — примерно 30 минут, Reading — 60 минут, Writing — 60 минут, Speaking — 11–14 минут. В Academic и General Training различаются Reading и Writing."
+    },
+    "KZ_title": "IELTS Academic құрылымы",
+    "KZ": {
+      "title": "IELTS Academic құрылымы",
+      "fullText": "Төрт бөлім: Listening — шамамен 30 минут, Reading — 60 минут, Writing — 60 минут, Speaking — 11–14 минут. Academic пен General Training-де Reading және Writing ерекшеленеді."
+    },
+    "EN_title": "IELTS Academic structure",
+    "EN": {
+      "title": "IELTS Academic structure",
+      "fullText": "Four sections: Listening about 30 minutes, Reading 60 minutes, Writing 60 minutes, Speaking 11–14 minutes. Academic and General Training have different Reading and Writing tests."
+    }
+  }
+]

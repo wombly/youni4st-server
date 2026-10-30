@@ -1,0 +1,8 @@
+{
+  "support": {"whatsapp": "", "telegram": "", "phone": "", "email": ""},
+  "social": {"instagram": "", "tiktok": "", "telegram": ""},
+  "privacy_url": "",
+  "terms_url": "",
+  "applications_endpoint": "",
+  "firebase": {"api_key": "", "application_id": "", "project_id": "", "google_web_client_id": ""}
+}

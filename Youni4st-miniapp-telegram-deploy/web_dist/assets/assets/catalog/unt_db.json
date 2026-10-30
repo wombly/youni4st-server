@@ -1,0 +1,254 @@
+[
+  {
+    "RU": {
+      "title": "ЕНТ 2026",
+      "subtitle": "Полная информация для абитуриента",
+      "fullText": "Основное ЕНТ 2026 года в Казахстане проходит с 10 мая по 10 июля. Формат тестирования не изменился: 5 предметов (3 обязательных и 2 профильных), 120 заданий. Максимальный балл — 140. В конкурсе на образовательные гранты учитывается лучший результат из двух возможных попыток. Регистрация — через сайт app.testcenter.kz или мобильное приложение UTO.kz.",
+      "sections": {
+        "dates": {
+          "title": "Ключевые даты",
+          "content": "Основное тестирование: с 10 мая по 10 июля 2026 года.\nПрием заявлений: с 11 по 25 апреля 2026 года (с 11 по 16 апреля — одна заявка, с 17 по 25 апреля — одна или две).\nАбитуриенты самостоятельно выбирали дату, время и пункт тестирования из предложенных.\nРегистрация на ЕНТ августовского резервного периода: с 25 июля по 5 августа."
+        },
+        "examSchedule": {
+          "title": "График всех этапов ЕНТ в 2026 году",
+          "content": "В 2026 году ЕНТ проводится пять раз.\n\n📅 Январское ЕНТ (10 января — 10 февраля) — для поступающих на платную основу. На конкурс грантов не допускается.\n📅 Мартовское ЕНТ (1 марта — 6 апреля) — для поступающих на платную основу. На конкурс грантов не допускается.\n📅 Основное ЕНТ (10 мая — 10 июля) — единственный этап, результаты которого принимаются для участия в конкурсе на государственный образовательный грант. Можно сдать дважды.\n📅 Августовское резервное ЕНТ (регистрация: 25 июля — 5 августа) — дополнительная попытка преимущественно на платное отделение.\n\n⚠️ Важно: январское, мартовское и августовское ЕНТ предназначены только для поступления на платной основе. Результаты каждого этапа независимы — не влияют друг на друга."
+        },
+        "examFormat": {
+          "title": "Формат и структура",
+          "content": "Общее количество заданий — 120.\n📜 3 обязательных предмета: «История Казахстана» (20 заданий), «Математическая грамотность» (10 заданий), «Грамотность чтения» (10 заданий).\n⚙️ 2 профильных предмета на выбор (по 40 заданий каждый).\n⏱️ Время на выполнение — 240 минут (4 часа); при особых образовательных потребностях добавляется ещё 40 минут.\n📱 ЕНТ проходит в электронном формате.\n🚫 Изменять профильные предметы между первой и второй попыткой в рамках основного этапа запрещено."
+        },
+        "scoring": {
+          "title": "Баллы и шкала оценивания",
+          "content": "Максимальный первичный балл — 140.\n«История Казахстана» и оба профильных предмета (или творческий экзамен): пороговое значение — не менее 5 баллов.\n«Математическая грамотность» и «Грамотность чтения»: пороговое значение — не менее 3 баллов.\nДля поступления на конкретные специальности необходимо набрать установленный минимальный общий балл.\n\n📊 Результаты прошедших этапов 2026 года:\n— Январское ЕНТ: 69% участников преодолели пороговый балл. Средний результат — 64 балла, максимальный — 138 баллов.\n— Мартовское ЕНТ: 70% участников преодолели пороговый балл. Средний балл — 66 баллов."
+        },
+        "thresholdScores": {
+          "title": "Пороговые баллы для поступления",
+          "content": "Минимальный порог для участия в конкурсе на грант (базовые требования, которые также сохраняются согласно Приказу №210):\n🏛️ Национальные вузы — 65 баллов.\n🏫 Другие вузы — 50 баллов.\n🏥 Медицинские специальности (Здравоохранение) — 70 баллов.\n👩‍🏫 Педагогические науки — 75 баллов.\n⚖️ Право — 75 баллов.\n🚜 Сельское хозяйство и ветеринария — от 50 баллов.\n\n⚠️ Важно: каждый вуз вправе устанавливать собственные пороговые баллы в зависимости от образовательных программ и своего рейтинга. Указанные значения — минимальный порог для подачи заявки. Для реального получения гранта, особенно на популярных специальностях, требуемый балл может быть значительно выше."
+        },
+        "popularSubjects": {
+          "title": "Наиболее популярные комбинации предметов",
+          "content": "Самой популярной остаётся комбинация «Математика–Физика» — её выбрали 17,9% поступающих.\nНа втором месте — «Биология–Химия» (14,5%).\nНа третьем — «Творческий экзамен» (12,4%)."
+        },
+        "testCenters": {
+          "title": "Пункты тестирования",
+          "content": "Тестирование проводится в 45 специализированных пунктах по всему Казахстану.\nАбитуриенты самостоятельно выбирают дату, время и пункт тестирования из доступных слотов при регистрации."
+        },
+        "languageDistribution": {
+          "title": "Статистика по языку сдачи",
+          "content": "На основное ЕНТ 2026 года подано около 240 тысяч заявлений. С учётом двух попыток принято более 446 тысяч заявок.\n🇰🇿 74% сдающих выбрали казахский язык.\n🇷🇺 Около 26% — русский язык.\n🌍 851 человек — английский язык.\n\nНа мартовском ЕНТ 2026 года 216 участников выбрали тестирование на английском языке."
+        },
+        "attempts": {
+          "title": "Количество попыток и правила",
+          "content": "В рамках основного ЕНТ (май–июль) абитуриент может сдать экзамен дважды.\nВ конкурсе на образовательные гранты и при поступлении учитывается лучший из двух результатов — абитуриент вправе самостоятельно выбрать, какой сертификат использовать.\n\n⚠️ Ограничение: менять профильные предметы между первой и второй попыткой запрещено.\n\nРезультаты разных этапов ЕНТ (январского, мартовского, основного, августовского) не влияют друг на друга — за каждый выдаётся отдельный сертификат."
+        },
+        "registrationProcess": {
+          "title": "Регистрация и подача заявления",
+          "content": "Заявление на ЕНТ подаётся онлайн:\n🌐 Сайт Национального центра тестирования: app.testcenter.kz\n📱 Мобильное приложение: UTO.kz\n\nПри регистрации абитуриент выбирает:\n— дату и время тестирования;\n— пункт тестирования;\n— язык сдачи;\n— профильные предметы.\n\nСроки регистрации на основное ЕНТ: с 11 по 25 апреля 2026 года.\nС 11 по 16 апреля — можно зарегистрироваться на одну попытку.\nС 17 по 25 апреля — на одну или две попытки."
+        },
+        "onSiteRules": {
+          "title": "Правила при входе и в аудитории",
+          "content": "📋 Удостоверение личности:\n— Участники от 16 лет: удостоверение личности или паспорт (принимается в электронном формате через eGov или банковские приложения).\n— Участники до 16 лет: свидетельство о рождении + справка из школы с фотографией.\n\n📝 В аудитории разрешена только ручка. Черновики выдаются на месте.\n\n🔒 Безопасность:\n— На входе используются ручные и рамочные металлоискатели.\n— Пронос телефонов, шпаргалок и любых запрещённых предметов исключён.\n— Во всех аудиториях установлены видеокамеры.\n— Видеозаписи будут проанализированы до 31 октября 2026 года.\n\n⚠️ В случае выявления нарушений результаты ЕНТ, а также свидетельство о присуждении образовательного гранта (при наличии) — будут аннулированы."
+        },
+        "appeals": {
+          "title": "Апелляция и получение сертификата",
+          "content": "После завершения тестирования на экране компьютера отображаются выбранные ответы, баллы за каждое задание и общий результат.\n\n📣 Апелляция:\n— На подачу апелляции отводится 30 минут с момента завершения теста.\n— Апелляция подаётся через личный кабинет на сайте Национального центра тестирования.\n— Действует функция отзыва (возврата) заявления на апелляцию.\n\n📄 Получение сертификата:\n— Без апелляции: сертификат доступен в личном кабинете сразу после завершения тестирования.\n— При подаче апелляции: сертификат будет доступен в течение 30 дней после завершения апелляционной процедуры.\n\n🗓️ Срок действия сертификата ЕНТ 2026 года — до 31 декабря 2026 года."
+        },
+        "newGrantRules": {
+          "title": "Новые правила распределения грантов (Приказ №210)",
+          "content": "23 апреля 2026 года министр науки и высшего образования Саясат Нурбек подписал Приказ №210, изменяющий правила присуждения государственных образовательных грантов.\n\nКлючевые изменения:\n\n📌 Часть норм вступает в силу с 12 июля 2026 года (в разгар вступительной кампании).\n📌 Остальные изменения — с 1 сентября 2026 года.\n\n🔄 Перераспределение вакантных грантов:\nРанее освободившиеся гранты (после отчисления студентов или отказа от обучения) перераспределялись только по среднему баллу GPA. Теперь они распределяются «в соответствии с результатами ЕНТ и (или) КТ» — то есть баллы ЕНТ учитываются при перераспределении грантов и в процессе обучения.\n\n🏛️ Рейтинг вузов влияет на пороговый балл:\nТеперь рейтинг и качество университета влияют не только на количество выделяемых грантов, но и на проходной балл, необходимый для поступления. Базовые пороговые баллы (65, 50, 70, 75 и т.д.) сохранены, однако поверх них могут действовать дополнительные вузовские требования.\n\n⚠️ Базовые пороговые баллы ЕНТ для участия в конкурсе на грант остаются прежними."
+        },
+        "futureReforms": {
+          "title": "Будущие реформы: AIT и переход к 2029 году",
+          "content": "Казахстан готовится к масштабной реформе системы тестирования и распределения грантов.\n\n🆕 Новый тест AIT (Admission Insight Test):\n— Разрабатывается совместно с ETS (Educational Testing Service) — одной из ведущих мировых организаций в области тестирования.\n— В отличие от ЕНТ (который проверяет знание школьной программы), AIT будет оценивать готовность к обучению в вузе и потенциал абитуриента.\n— Ключевое преимущество: международное признание — тест будет приниматься филиалами зарубежных вузов в Казахстане, а также иностранными университетами.\n\n📅 Поэтапный план:\n— 2026 год: ЕНТ проводится без изменений.\n— 2027 год: пилотный запуск AIT для поступающих в филиалы иностранных вузов в Казахстане.\n— 2028–2029 годы: у выпускников появится право выбора — сдавать ЕНТ или AIT.\n— К 2030 году: AIT может стать основным инструментом оценки.\n\n💡 Планируемые изменения в системе грантов (к 2029 году):\n— Дифференциация грантов по категориям (например, 30%, 50%, 100% покрытия стоимости обучения) — чем выше балл, тем меньше платит студент.\n— Повышение проходных пороговых баллов для получения бюджетного места.\n— Концентрация государственного заказа в топовых вузах по результатам Национального рейтинга.\n\n⚠️ Пробные форматы ЕНТ (январское и мартовское) будут сохранены и в 2027 году."
+        },
+        "eligibleParticipants": {
+          "title": "Кто может сдавать ЕНТ",
+          "content": "К основному ЕНТ 2026 года допускаются:\n🎓 Выпускники 11 (12) классов 2026 года (тестирование бесплатное).\n📚 Выпускники школ и колледжей прошлых лет.\n🏫 Выпускники колледжей и лицеев, желающие продолжить обучение в вузах.\n🌍 Казахстанцы, получившие образование за рубежом.\n🔄 Студенты, зачисленные в вузы в 2025 году на платной основе условно (не набравшие пороговый балл или с неподходящей комбинацией предметов).\n🇰🇿 Кандасы — лица казахской национальности без гражданства РК.\n\n💰 Стоимость участия:\n— Выпускники текущего года (2026): бесплатно.\n— Все остальные категории: 5 640 тенге."
+        },
+        "preparationMaterials": {
+          "title": "Подготовка к ЕНТ",
+          "content": "На сайте Национального центра тестирования (testcenter.kz) опубликованы:\n📝 Пробные тесты и задания прошлых лет.\n📖 Списки обязательной литературы.\n📋 Спецификации тестов по всем предметам.\n📅 100 исторических дат по Истории Казахстана и Всемирной истории.\n💻 Термины по информатике.\n\n🌐 Для профориентации и выбора специальности: платформа edunavigator.kz.\n\n💡 Совет: по данным НЦТ, для получения гранта на популярные специальности фактический проходной балл существенно выше минимальных пороговых значений — готовьтесь стремиться к максимуму."
+        },
+        "specialNeeds": {
+          "title": "Для лиц с особыми образовательными потребностями",
+          "content": "Участникам с особыми образовательными потребностями предусмотрено дополнительное время — 40 минут (итого 280 минут вместо 240).\nУсловия и порядок подачи заявления на особый формат уточняются при регистрации через app.testcenter.kz."
+        },
+        "allowedTools": {
+          "title": "Разрешённые материалы",
+          "content": "В программе тестирования доступны:\n🔢 Калькулятор.\n⚗️ Таблица Менделеева.\n🧪 Таблица растворимости солей.\n\nДля удобства предоставляются бумажные версии таблиц.\nВ аудиторию разрешено брать только ручку. Черновики выдаются на месте."
+        },
+        "registrationFees": {
+          "title": "Стоимость участия",
+          "content": "✅ Выпускники школ текущего года (2026) сдают ЕНТ бесплатно.\n💳 Для всех остальных категорий участников (выпускники прошлых лет, студенты, кандасы и др.) — стоимость составляет 5 640 тенге."
+        }
+      }
+    },
+    "KZ": {
+      "title": "ҰБТ 2026",
+      "subtitle": "Толық ақпарат",
+      "fullText": "Негізгі ҰБТ 2026 жылы 10 мамырдан 10 шілдеге дейін өтеді. Тестілеу форматы өзгерген жоқ: 5 пән (3 міндетті және 2 бейіндік), 120 тапсырма. Максималды балл — 140. Гранттар конкурсына екі мүмкін тапсырудың ең жақсы нәтижесі қатысады. Тіркелу — app.testcenter.kz сайты немесе UTO.kz мобильді қосымшасы арқылы.",
+      "sections": {
+        "dates": {
+          "title": "Негізгі күндер",
+          "content": "Негізгі тестілеу: 2026 жылғы 10 мамырдан 10 шілдеге дейін.\nӨтінімдерді қабылдау: 2026 жылғы 11-25 сәуір (11-16 сәуірде — бір өтінім, 17-25 сәуірде — бір немесе екі).\nТапсырушылар ұсынылған күн, уақыт пен орынды өздері таңдады.\nТамыздағы резервтік кезеңге тіркелу: 25 шілде — 5 тамыз."
+        },
+        "examSchedule": {
+          "title": "2026 жылғы ҰБТ барлық кезеңдерінің кестесі",
+          "content": "2026 жылы ҰБТ бес рет өткізіледі.\n\n📅 Қаңтардағы ҰБТ (10 қаңтар — 10 ақпан) — ақылы негізде оқуға түсетіндерге. Грант конкурсына жіберілмейді.\n📅 Наурыздағы ҰБТ (1 наурыз — 6 сәуір) — ақылы негізде оқуға түсетіндерге. Грант конкурсына жіберілмейді.\n📅 Негізгі ҰБТ (10 мамыр — 10 шілде) — мемлекеттік білім гранты конкурсына қатысуға болатын жалғыз кезең. Екі рет тапсыруға болады.\n📅 Тамыздағы резервтік ҰБТ (тіркелу: 25 шілде — 5 тамыз) — негізінен ақылы бөлімге түсу үшін.\n\n⚠️ Маңызды: қаңтардағы, наурыздағы және тамыздағы ҰБТ нәтижелері тек ақылы негізде оқуға түсу үшін жарамды. Гранттар конкурсына — тек негізгі ҰБТ."
+        },
+        "examFormat": {
+          "title": "Форматы мен құрылымы",
+          "content": "Тапсырмалардың жалпы саны — 120.\n📜 3 міндетті пән: «Қазақстан тарихы» (20 тапсырма), «Математикалық сауаттылық» (10 тапсырма), «Оқу сауаттылығы» (10 тапсырма).\n⚙️ 2 бейіндік пән (әрқайсысы 40 тапсырмадан).\n⏱️ Орындау уақыты — 240 минут (4 сағат). Ерекше білім беру қажеттіліктері бар тапсырушыларға 40 минут қосылады.\n📱 ҰБТ электронды форматта өтеді.\n🚫 Негізгі кезеңде бірінші және екінші тапсыру арасында бейіндік пәндерді ауыстыруға тыйым салынған."
+        },
+        "scoring": {
+          "title": "Баллдар мен бағалау шкаласы",
+          "content": "Максималды балл — 140.\n«Қазақстан тарихы» және екі бейіндік пән (немесе шығармашылық емтихан): шекті мән — кемінде 5 балл.\n«Математикалық сауаттылық» және «Оқу сауаттылығы»: шекті мән — кемінде 3 балл.\n\n📊 2026 жылғы өткен кезеңдердің нәтижелері:\n— Қаңтардағы ҰБТ: қатысушылардың 69%-ы шекті баллды алды. Орташа нәтиже — 64 балл, максималды — 138 балл.\n— Наурыздағы ҰБТ: қатысушылардың 70%-ы шекті баллды алды. Орташа балл — 66 балл."
+        },
+        "thresholdScores": {
+          "title": "Түсу үшін шекті баллдар",
+          "content": "Грант конкурсына қатысу үшін минималды шек (210-бұйрықпен де сақталған):\n🏛️ Ұлттық ЖОО — 65 балл.\n🏫 Басқа ЖОО — 50 балл.\n🏥 Денсаулық сақтау (медицина) мамандықтары — 70 балл.\n👩‍🏫 Педагогикалық ғылымдар — 75 балл.\n⚖️ Құқық — 75 балл.\n🚜 Ауыл шаруашылығы және ветеринария — 50 балл.\n\n⚠️ Маңызды: Әр ЖОО өз рейтингіне байланысты жеке шекті балл белгілей алады. Нақты мамандықтарға, әсіресе талап жоғары бағыттарға грант алу үшін іс жүзіндегі өту балы осы минималды деңгейден едәуір жоғары болуы мүмкін."
+        },
+        "popularSubjects": {
+          "title": "Танымал пән комбинациялары",
+          "content": "Ең танымал — «Математика–Физика» комбинациясы (17,9%).\nЕкінші орында — «Биология–Химия» (14,5%).\nҮшінші орында — «Шығармашылық емтихан» (12,4%)."
+        },
+        "testCenters": {
+          "title": "Тестілеу орталықтары",
+          "content": "Тестілеу Қазақстан бойынша 45 мамандандырылған пунктте өткізіледі.\nТапсырушылар тіркелу кезінде ұсынылған слоттардан күн, уақыт пен орынды өздері таңдайды."
+        },
+        "languageDistribution": {
+          "title": "Тапсыру тілі бойынша статистика",
+          "content": "Негізгі ҰБТ 2026-ға шамамен 240 мың өтінім берілді. Екі тапсыру мүмкіндігін ескере отырып, 446 мыңнан астам өтінім қабылданды.\n🇰🇿 74% — қазақ тілі.\n🇷🇺 Шамамен 26% — орыс тілі.\n🌍 851 адам — ағылшын тілі.\n\n2026 жылғы наурыздағы ҰБТ-да 216 қатысушы ағылшын тілін таңдады."
+        },
+        "attempts": {
+          "title": "Тапсыру мүмкіндіктері мен ережелері",
+          "content": "Негізгі ҰБТ шеңберінде (мамыр–шілде) тапсырушы емтиханды екі рет тапсыра алады.\nГрант конкурсына екі нәтиженің ең жақсысы есепке алынады — тапсырушы сертификатты өзі таңдайды.\n\n⚠️ Шектеу: Бірінші және екінші тапсыру арасында бейіндік пәндерді ауыстыруға болмайды.\n\nЖылдың әр кезеңінің нәтижелері (қаңтар, наурыз, негізгі, тамыз) бір-біріне тәуелсіз — әр кезеңге жеке сертификат беріледі."
+        },
+        "registrationProcess": {
+          "title": "Тіркелу және өтінім беру",
+          "content": "ҰБТ-ға өтінімді онлайн тапсыруға болады:\n🌐 Ұлттық тестілеу орталығының сайты: app.testcenter.kz\n📱 Мобильді қосымша: UTO.kz\n\nТіркелу кезінде тапсырушы таңдайды:\n— тестілеу күні мен уақытын;\n— тестілеу орнын;\n— тапсыру тілін;\n— бейіндік пәндерін.\n\nНегізгі ҰБТ-ға тіркелу мерзімі: 2026 жылғы 11-25 сәуір.\n11-16 сәуір аралығында — бір рет тіркелуге болады.\n17-25 сәуір аралығында — бір немесе екі рет."
+        },
+        "onSiteRules": {
+          "title": "Кіру және аудиторияда жүру ережелері",
+          "content": "📋 Жеке куәлік:\n— 16 жас және одан үлкен қатысушылар: жеке куәлік немесе паспорт (eGov немесе банктік қосымша арқылы электронды форматта қабылданады).\n— 16 жасқа толмаған қатысушылар: туу туралы куәлік + фотосуреті бар мектеп анықтамасы.\n\n📝 Аудиторияда — тек қалам. Қарашамалар орнында беріледі.\n\n🔒 Қауіпсіздік:\n— Кіреберісте қол және рамкалы металл детекторлары пайдаланылады.\n— Телефондарды, алдамшы парақтарды және тыйым салынған заттарды алып кіруге жол берілмейді.\n— Барлық аудиторияларда бейнекамералар орнатылған.\n— Бейне жазбалар 2026 жылғы 31 қазанға дейін талданады.\n\n⚠️ Бұзушылықтар анықталған жағдайда ҰБТ нәтижелері, сондай-ақ білім гранты куәлігі (бар болса) жойылады."
+        },
+        "appeals": {
+          "title": "Апелляция және сертификат алу",
+          "content": "Тестілеу аяқталғаннан кейін компьютер экранында таңдалған жауаптар, әр тапсырма үшін баллдар және жалпы нәтиже көрсетіледі.\n\n📣 Апелляция:\n— Апелляция беруге тест аяқталғаннан кейін 30 минут беріледі.\n— Апелляция ҰТО жеке кабинеті арқылы беріледі.\n— Апелляцияға өтінімді қайтару (кері алу) функциясы жұмыс істейді.\n\n📄 Сертификат алу:\n— Апелляциясыз: сертификат тестілеу аяқталған бойда жеке кабинетте қолжетімді болады.\n— Апелляция берілсе: апелляция рәсімі аяқталғаннан кейін 30 күн ішінде қолжетімді болады.\n\n🗓️ 2026 жылы берілген ҰБТ сертификатының қолданылу мерзімі — 2026 жылдың 31 желтоқсанына дейін."
+        },
+        "newGrantRules": {
+          "title": "Грант беру тәртібіндегі жаңа ережелер (210-бұйрық)",
+          "content": "2026 жылдың 23 сәуірінде Ғылым және жоғары білім министрі Саясат Нурбек 210-бұйрыққа қол қойды — ол мемлекеттік білім гранттарын беру тәртібін өзгертеді.\n\nНегізгі өзгерістер:\n\n📌 Нормалардың бір бөлігі 2026 жылдың 12 шілдесінен (қабылдау науқанының басталуымен) күшіне енеді.\n📌 Қалған өзгерістер — 2026 жылдың 1 қыркүйегінен.\n\n🔄 Бос грант орындарын қайта бөлу:\nБұрын оқу орнынан шығарылған студенттер немесе бас тартқан студенттерден босаған гранттар тек орташа GPA баллы бойынша бөлінетін. Енді олар «ҰБТ және/немесе КТ нәтижелері бойынша» бөлінеді.\n\n🏛️ ЖОО рейтингі өту баллына әсер ете бастайды:\nЖОО сапасы мен рейтингі енді тек гранттар санына ғана емес, сонымен бірге өту баллына да ықпал ете бастайды. Базалық шекті баллдар сақталған, бірақ жоғарыда қосымша ЖОО талаптары жұмыс істеуі мүмкін.\n\n⚠️ Грант конкурсына қатысу үшін ҰБТ базалық шекті баллдары өзгеріссіз қалды."
+        },
+        "futureReforms": {
+          "title": "Болашақ реформалар: AIT және 2029 жылға өту",
+          "content": "Қазақстан тестілеу және грант бөлу жүйесін реформалауға дайындалуда.\n\n🆕 Жаңа AIT тесті (Admission Insight Test):\n— Тестологияның жетекші әлемдік ұйымдарының бірі ETS (Educational Testing Service) компаниясымен бірлесіп жасалуда.\n— ҰБТ-дан айырмашылығы: AIT мектеп бағдарламасын емес, ЖОО-да оқуға дайындығын және тапсырушының потенциалын бағалайды.\n— Басты артықшылығы: халықаралық деңгейде мойындалады — Қазақстандағы шетелдік ЖОО филиалдары және шет елдердің өздері де қабылдай алады.\n\n📅 Кезеңді жоспар:\n— 2026 жыл: ҰБТ өзгеріссіз өткізіледі.\n— 2027 жыл: шетелдік ЖОО Қазақстан филиалдарына түсетін абитуриенттер үшін AIT пилоттық режимде іске қосылады.\n— 2028–2029 жылдар: бітірушілерде таңдау құқығы болады — ҰБТ немесе AIT тапсыру.\n— 2030 жылға қарай: AIT негізгі бағалау құралына айналуы мүмкін.\n\n💡 Грант жүйесіндегі жоспарланған өзгерістер (2029 жылға):\n— Гранттарды санаттар бойынша дифференциациялау (мысалы, 30%, 50%, 100% жабу) — балл неғұрлым жоғары болса, студент соғұрлым аз төлейді.\n— Бюджеттік орынға өту баллын арттыру.\n— Мемлекеттік тапсырысты Ұлттық рейтинг бойынша үздік ЖОО-ларға шоғырландыру.\n\n⚠️ ҰБТ-ның сынақ форматтары (қаңтар мен наурыз) 2027 жылы да сақталады."
+        },
+        "eligibleParticipants": {
+          "title": "ҰБТ кімдер тапсыра алады",
+          "content": "2026 жылғы негізгі ҰБТ-ға келесілер жіберіледі:\n🎓 2026 жылғы 11 (12) сынып бітірушілері (тестілеу тегін).\n📚 Бұрынғы жылдардың мектеп және колледж бітірушілері.\n🏫 ЖОО-да оқуды жалғастырғысы келетін колледж және лицей бітірушілері.\n🌍 Шетелде білім алған Қазақстан азаматтары.\n🔄 2025 жылы ЖОО-ға ақылы негізде шартты зачисленген студенттер (шекті баллды алмаған немесе пән комбинациясы сәйкес келмеген).\n🇰🇿 Қандастар — ҚР азаматтығы жоқ қазақ ұлтының өкілдері.\n\n💰 Қатысу құны:\n— Ағымдағы жылдың (2026) бітірушілері: тегін.\n— Барлық өзге санаттар: 5 640 теңге."
+        },
+        "preparationMaterials": {
+          "title": "ҰБТ-ға дайындық",
+          "content": "Ұлттық тестілеу орталығының сайтында (testcenter.kz) жарияланған:\n📝 Сынақ тесттер және өткен жылдардың тапсырмалары.\n📖 Міндетті әдебиеттер тізімі.\n📋 Барлық пәндер бойынша тест спецификациялары.\n📅 Қазақстан тарихы мен Дүниежүзілік тарихтан 100 мерзімді дата.\n💻 Информатика терминдері.\n\n🌐 Мамандық таңдау үшін: edunavigator.kz платформасы.\n\n💡 Кеңес: ҰТО деректеріне сәйкес, танымал мамандықтарға грант алу үшін іс жүзіндегі өту балы минималды шекті деңгейден едәуір жоғары болады — максималды балл жинауға тырысыңыз."
+        },
+        "specialNeeds": {
+          "title": "Ерекше білім беру қажеттіліктері бар адамдарға",
+          "content": "Ерекше білім беру қажеттіліктері бар қатысушыларға қосымша 40 минут беріледі (барлығы 280 минут).\nАрнайы форматқа өтінім беру шарттары мен тәртібі app.testcenter.kz арқылы тіркелу кезінде нақтыланады."
+        },
+        "allowedTools": {
+          "title": "Рұқсат етілген материалдар",
+          "content": "Тестілеу бағдарламасында қолжетімді:\n🔢 Калькулятор.\n⚗️ Менделеев кестесі.\n🧪 Тұздардың ерігіштік кестесі.\n\nКестелердің қағаз нұсқалары да беріледі.\nАудиторияға тек қалам алуға болады. Қарашамалар орнында беріледі."
+        },
+        "registrationFees": {
+          "title": "Қатысу құны",
+          "content": "✅ Ағымдағы жылдың (2026) мектеп бітірушілері ҰБТ-ны тегін тапсырады.\n💳 Барлық өзге санаттар (бұрынғы жылдардың бітірушілері, студенттер, қандастар және т.б.) үшін — 5 640 теңге."
+        }
+      }
+    },
+    "EN": {
+      "title": "UNT 2026",
+      "subtitle": "Comprehensive Information for Applicants",
+      "fullText": "The main UNT 2026 in Kazakhstan is held from May 10 to July 10. The testing format has not changed: 5 subjects (3 compulsory and 2 profile subjects), 120 tasks, maximum score 140. The best result of two possible attempts is considered for the grant competition. Registration is available through app.testcenter.kz or the UTO.kz mobile app.",
+      "sections": {
+        "dates": {
+          "title": "Key Dates",
+          "content": "Main testing: May 10 to July 10, 2026.\nApplication submission: April 11–25, 2026 (April 11–16: one application; April 17–25: one or two applications).\nApplicants independently choose their date, time, and testing location.\nRegistration for August reserve period: July 25 – August 5."
+        },
+        "examSchedule": {
+          "title": "Full UNT Schedule for 2026",
+          "content": "In 2026, UNT is held five times.\n\n📅 January UNT (Jan 10 – Feb 10) — for paid-tuition applicants only. NOT eligible for grant competition.\n📅 March UNT (Mar 1 – Apr 6) — for paid-tuition applicants only. NOT eligible for grant competition.\n📅 Main UNT (May 10 – Jul 10) — the only session whose results qualify for the state educational grant competition. Two attempts allowed.\n📅 August Reserve UNT (registration: Jul 25 – Aug 5) — additional attempt, primarily for paid-tuition admission.\n\n⚠️ Important: January, March, and August UNT results are valid only for paid-tuition enrollment. Only the main (May–July) UNT qualifies for the grant competition. Results from different sessions are fully independent."
+        },
+        "examFormat": {
+          "title": "Format and Structure",
+          "content": "Total tasks: 120.\n📜 3 compulsory subjects: 'History of Kazakhstan' (20 tasks), 'Mathematical Literacy' (10 tasks), 'Reading Literacy' (10 tasks).\n⚙️ 2 profile subjects of choice (40 tasks each).\n⏱️ Time allowed: 240 minutes (4 hours); participants with special educational needs receive an additional 40 minutes.\n📱 UNT is conducted in electronic format.\n🚫 Profile subjects cannot be changed between the first and second attempt within the main session."
+        },
+        "scoring": {
+          "title": "Scores and Grading Scale",
+          "content": "Maximum score: 140.\n'History of Kazakhstan' and both profile subjects (or creative exam): minimum threshold — 5 points each.\n'Mathematical Literacy' and 'Reading Literacy': minimum threshold — 3 points each.\n\n📊 Results from completed 2026 sessions:\n— January UNT: 69% of participants passed the threshold. Average score — 64 points, maximum — 138 points.\n— March UNT: 70% of participants passed the threshold. Average score — 66 points."
+        },
+        "thresholdScores": {
+          "title": "Threshold Scores for Admission",
+          "content": "Minimum scores to participate in the grant competition (maintained by Order #210):\n🏛️ National universities — 65 points.\n🏫 Other universities — 50 points.\n🏥 Healthcare (Medical) specialties — 70 points.\n👩‍🏫 Pedagogical sciences — 75 points.\n⚖️ Law — 75 points.\n🚜 Agriculture and Veterinary — 50 points.\n\n⚠️ Important: Each university may set its own higher threshold based on its rating. The values above are the minimum floor to submit an application. Actual grant cutoff scores for popular specialties are typically much higher."
+        },
+        "popularSubjects": {
+          "title": "Popular Subject Combinations",
+          "content": "Most popular: 'Mathematics–Physics' (17.9%).\nSecond: 'Biology–Chemistry' (14.5%).\nThird: 'Creative Exam' (12.4%)."
+        },
+        "testCenters": {
+          "title": "Testing Centers",
+          "content": "Testing is conducted at 45 specialized centers across Kazakhstan.\nApplicants independently select their date, time, and location from available slots during registration."
+        },
+        "languageDistribution": {
+          "title": "Language Statistics",
+          "content": "Approximately 240,000 applications submitted for the main UNT 2026. With two attempts, over 446,000 applications were accepted.\n🇰🇿 74% chose Kazakh.\n🇷🇺 About 26% chose Russian.\n🌍 851 people chose English.\n\nIn the March 2026 UNT session, 216 participants chose to test in English."
+        },
+        "attempts": {
+          "title": "Attempts and Rules",
+          "content": "During the main UNT (May–July), applicants may take the exam twice.\nThe best of the two results counts for the grant competition — the applicant chooses which certificate to use.\n\n⚠️ Restriction: Profile subjects cannot be changed between the first and second attempt.\n\nResults from different UNT sessions (January, March, Main, August) are independent — each session issues a separate certificate."
+        },
+        "registrationProcess": {
+          "title": "Registration and Application",
+          "content": "UNT applications are submitted online:\n🌐 National Testing Center website: app.testcenter.kz\n📱 Mobile app: UTO.kz\n\nDuring registration, applicants select:\n— date and time of testing;\n— testing location;\n— language of testing;\n— profile subjects.\n\nRegistration period for the main UNT: April 11–25, 2026.\nApril 11–16: registration for one attempt.\nApril 17–25: registration for one or two attempts."
+        },
+        "onSiteRules": {
+          "title": "Entry and In-Room Rules",
+          "content": "📋 Identity verification:\n— Participants aged 16+: national ID or passport (accepted in digital form via eGov or banking apps).\n— Participants under 16: birth certificate + school reference card with photo.\n\n📝 Only a pen is allowed in the exam room. Scratch paper is provided on-site.\n\n🔒 Security measures:\n— Hand-held and frame metal detectors are used at the entrance.\n— Phones, cheat sheets, and any prohibited items are not permitted.\n— Video cameras are installed in all exam rooms.\n— Recordings will be reviewed until October 31, 2026.\n\n⚠️ If any violation is detected, UNT results and any grant certificates already issued will be annulled."
+        },
+        "appeals": {
+          "title": "Appeals and Certificate Issuance",
+          "content": "After completing the test, the screen shows the selected answers, points per task, and the total score.\n\n📣 Appeals:\n— Applicants have 30 minutes after completing the test to submit an appeal.\n— Appeals are submitted through the personal account on the National Testing Center website.\n— A function to withdraw (retract) an appeal application is available.\n\n📄 Certificate issuance:\n— Without appeal: the certificate is available in the personal account immediately after testing.\n— With appeal: the certificate will be available within 30 days after the appeal process is completed.\n\n🗓️ UNT 2026 certificates are valid until December 31, 2026."
+        },
+        "newGrantRules": {
+          "title": "New Grant Rules (Order #210)",
+          "content": "On April 23, 2026, Minister of Science and Higher Education Sayasat Nurbek signed Order #210, amending the rules for awarding state educational grants.\n\nKey changes:\n\n📌 Some provisions take effect from July 12, 2026 (mid-admissions campaign).\n📌 Remaining changes — from September 1, 2026.\n\n🔄 Redistribution of vacant grants:\nPreviously, grants freed up by expelled or withdrawn students were redistributed based solely on GPA. Now they will be distributed 'in accordance with UNT and/or Comprehensive Testing (CT) results' — meaning UNT scores become a factor in grant redistribution even during the course of study.\n\n🏛️ University rankings now affect admission threshold:\nA university's ranking and quality now influence not only the number of grants it receives, but also the minimum score required to enroll. Base threshold scores are preserved, but universities may impose higher requirements on top of them.\n\n⚠️ The baseline UNT threshold scores for participating in the grant competition remain unchanged."
+        },
+        "futureReforms": {
+          "title": "Future Reforms: AIT and the Road to 2029",
+          "content": "Kazakhstan is preparing a major reform of its testing and grant distribution system.\n\n🆕 New AIT test (Admission Insight Test):\n— Being developed in partnership with ETS (Educational Testing Service), one of the world's leading testing organizations.\n— Unlike UNT (which tests knowledge of the school curriculum), AIT will assess readiness for university study and the applicant's potential.\n— Key advantage: international recognition — it will be accepted by branches of foreign universities in Kazakhstan and by foreign universities directly.\n\n📅 Phased rollout plan:\n— 2026: UNT continues unchanged.\n— 2027: AIT pilot launch for applicants to branches of foreign universities in Kazakhstan.\n— 2028–2029: graduates will have the right to choose — UNT or AIT.\n— By 2030: AIT may become the primary assessment tool.\n\n💡 Planned changes to the grant system (by 2029):\n— Differentiated grants by category (e.g., 30%, 50%, 100% tuition coverage) — the higher the score, the less the student pays.\n— Raising minimum threshold scores for budget-funded places.\n— Concentrating state orders in top-ranked universities according to the National University Ranking.\n\n⚠️ Trial UNT formats (January and March sessions) will be preserved in 2027 as well."
+        },
+        "eligibleParticipants": {
+          "title": "Who Can Take the UNT",
+          "content": "The following are eligible for the main UNT 2026:\n🎓 Graduates of grade 11 (12) in 2026 (testing is free).\n📚 Graduates from previous years (school or college).\n🏫 College and lyceum graduates seeking higher education.\n🌍 Kazakhstani citizens who completed school abroad.\n🔄 Students conditionally enrolled at universities in 2025 who did not meet the threshold or had incompatible subject combinations.\n🇰🇿 Kandas — ethnic Kazakhs without Kazakhstani citizenship.\n\n💰 Registration fee:\n— Current year (2026) school graduates: free.\n— All other categories: 5,640 tenge."
+        },
+        "preparationMaterials": {
+          "title": "Preparation",
+          "content": "Published on the National Testing Center website (testcenter.kz):\n📝 Practice tests and past exam tasks.\n📖 Required reading lists.\n📋 Test specifications for all subjects.\n📅 100 key historical dates for History of Kazakhstan and World History.\n💻 IT and computer science terminology.\n\n🌐 Career guidance and specialty selection: edunavigator.kz.\n\n💡 Tip: According to the NTC, the actual UNT cutoff score for a grant on popular specialties is significantly higher than the minimum threshold — aim for the highest score possible."
+        },
+        "specialNeeds": {
+          "title": "Special Educational Needs",
+          "content": "Participants with special educational needs receive an additional 40 minutes (280 minutes total instead of 240).\nConditions and procedures for requesting special accommodations are confirmed during registration at app.testcenter.kz."
+        },
+        "allowedTools": {
+          "title": "Allowed Materials",
+          "content": "Available within the testing software:\n🔢 Calculator.\n⚗️ Periodic table of elements.\n🧪 Solubility table of salts.\n\nPaper versions of the tables are also provided.\nOnly a pen is allowed in the room. Scratch paper is provided on-site."
+        },
+        "registrationFees": {
+          "title": "Registration Fees",
+          "content": "✅ Current year (2026) school graduates take the UNT for free.\n💳 All other categories (graduates of previous years, students, kandas, etc.) — 5,640 tenge."
+        }
+      }
+    },
+    "id": "unt:0"
+  }
+]

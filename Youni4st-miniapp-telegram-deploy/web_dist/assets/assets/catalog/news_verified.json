@@ -1,0 +1,462 @@
+[
+  {
+    "id": "news:0",
+    "published_at": "2026-10-13",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.iiep.unesco.org/en/articles/new-methodology-mainstreaming-social-and-emotional-learning-education-sector-plans",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Эмоциональные навыки включают в образовательное планирование",
+      "subtitle": "2026-10-13 · UNESCO",
+      "fullText": "IIEP представил методику включения социального и эмоционального обучения в планы развития образования."
+    },
+    "KZ": {
+      "title": "Эмоциялық дағдылар білім беру жоспарларына енгізіледі",
+      "subtitle": "2026-10-13 · UNESCO",
+      "fullText": "IIEP әлеуметтік және эмоциялық оқытуды білім беру жоспарларына енгізу әдістемесін ұсынды."
+    },
+    "EN": {
+      "title": "Planning for social and emotional learning",
+      "subtitle": "2026-10-13 · UNESCO",
+      "fullText": "IIEP introduced a methodology for integrating social and emotional learning into education sector plans."
+    }
+  },
+  {
+    "id": "news:1",
+    "published_at": "2026-10-09",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/unesco-awards-2026-prize-girls-and-womens-education-transformative-projects-morocco-and-peru",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Премия за образование девочек: проекты Марокко и Перу",
+      "subtitle": "2026-10-09 · UNESCO",
+      "fullText": "UNESCO отметила инициативы, которые помогают девочкам продолжать образование и расширять свои возможности."
+    },
+    "KZ": {
+      "title": "Қыздардың біліміне арналған сыйлық: Марокко мен Перу",
+      "subtitle": "2026-10-09 · UNESCO",
+      "fullText": "UNESCO қыздардың оқуын жалғастыруына және мүмкіндіктерін кеңейтуіне көмектесетін бастамаларды атап өтті."
+    },
+    "EN": {
+      "title": "Girls’ education prize recognises Morocco and Peru",
+      "subtitle": "2026-10-09 · UNESCO",
+      "fullText": "UNESCO recognised projects that help girls stay in education and expand their opportunities."
+    }
+  },
+  {
+    "id": "news:2",
+    "published_at": "2026-10-09",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/unesco-calls-pairing-school-screen-regulation-mexico-digital-literacy-and-continuous-monitoring",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Школьные экраны: ограничения вместе с цифровой грамотностью",
+      "subtitle": "2026-10-09 · UNESCO",
+      "fullText": "UNESCO рекомендует Мексике сопровождать правила использования экранов обучением цифровой грамотности и оценкой результатов."
+    },
+    "KZ": {
+      "title": "Мектептегі экрандар және цифрлық сауат",
+      "subtitle": "2026-10-09 · UNESCO",
+      "fullText": "UNESCO Мексикаға экран пайдалану ережелерін цифрлық сауатпен және нәтижелерді бағалаумен ұштастыруды ұсынады."
+    },
+    "EN": {
+      "title": "Screen rules need digital literacy",
+      "subtitle": "2026-10-09 · UNESCO",
+      "fullText": "UNESCO recommends combining school screen regulation in Mexico with digital literacy and ongoing monitoring."
+    }
+  },
+  {
+    "id": "news:3",
+    "published_at": "2026-10-08",
+    "region": "kz",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/astana-meeting-advances-update-kazakhstans-esd-2030-country-initiative",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "В Астане обновляют инициативу «Образование для устойчивого развития»",
+      "subtitle": "2026-10-08 · UNESCO",
+      "fullText": "Участники встречи обсудили обновление казахстанской инициативы ESD for 2030 и дальнейшие шаги в образовании."
+    },
+    "KZ": {
+      "title": "Астанада тұрақты даму білімі талқыланды",
+      "subtitle": "2026-10-08 · UNESCO",
+      "fullText": "Кездесуде Қазақстанның ESD for 2030 бастамасын жаңарту және білім берудегі келесі қадамдар талқыланды."
+    },
+    "EN": {
+      "title": "Astana advances Kazakhstan’s ESD 2030 initiative",
+      "subtitle": "2026-10-08 · UNESCO",
+      "fullText": "A meeting in Astana advanced work on updating Kazakhstan’s Education for Sustainable Development country initiative."
+    }
+  },
+  {
+    "id": "news:4",
+    "published_at": "2026-10-08",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/innovative-teacher-development-initiatives-ethiopia-indonesia-and-turkiye-win-2026-unesco-hamdan",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Премия UNESCO–Hamdan: новые подходы к подготовке учителей",
+      "subtitle": "2026-10-08 · UNESCO",
+      "fullText": "Награду получили инициативы из Эфиопии, Индонезии и Турции, развивающие профессиональное обучение педагогов."
+    },
+    "KZ": {
+      "title": "Мұғалімдерді даярлау бастамалары марапатталды",
+      "subtitle": "2026-10-08 · UNESCO",
+      "fullText": "UNESCO–Hamdan сыйлығы Эфиопия, Индонезия және Түркияның мұғалімдерді дамыту бастамаларына берілді."
+    },
+    "EN": {
+      "title": "Teacher development initiatives win UNESCO–Hamdan prize",
+      "subtitle": "2026-10-08 · UNESCO",
+      "fullText": "Initiatives from Ethiopia, Indonesia and Türkiye were recognised for advancing teacher development."
+    }
+  },
+  {
+    "id": "news:5",
+    "published_at": "2026-10-08",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/gender-gaps-education-narrow-globally-yet-early-marriage-remains-major-barrier-girls-education-new",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Разрыв в доступе к образованию сокращается, но барьеры остаются",
+      "subtitle": "2026-10-08 · UNESCO",
+      "fullText": "Новый материал UNESCO показывает прогресс в равенстве образования и сохраняющиеся препятствия, включая ранние браки."
+    },
+    "KZ": {
+      "title": "Білім алудағы алшақтық азаюда, кедергілер сақталуда",
+      "subtitle": "2026-10-08 · UNESCO",
+      "fullText": "UNESCO білімдегі теңдік ілгерілеуін және ерте неке сияқты кедергілердің сақталуын көрсетеді."
+    },
+    "EN": {
+      "title": "Education gender gaps narrow, barriers persist",
+      "subtitle": "2026-10-08 · UNESCO",
+      "fullText": "UNESCO highlights progress towards education equality while early marriage remains a major barrier."
+    }
+  },
+  {
+    "id": "news:6",
+    "published_at": "2026-10-05",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/new-unesco-data-every-two-teachers-world-needs-one-more",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Миру нужны ещё 50 миллионов учителей к 2030 году",
+      "subtitle": "2026-10-05 · UNESCO",
+      "fullText": "По новым данным UNESCO, для всеобщего доступа к дошкольному и школьному образованию необходимы дополнительные педагоги. Доклад также рассматривает условия их работы."
+    },
+    "KZ": {
+      "title": "2030 жылға қарай тағы 50 миллион мұғалім қажет",
+      "subtitle": "2026-10-05 · UNESCO",
+      "fullText": "UNESCO деректері мектепке дейінгі және мектеп біліміне жалпы қолжетімділік үшін қосымша педагогтер қажет екенін көрсетеді."
+    },
+    "EN": {
+      "title": "The world needs 50 million more teachers by 2030",
+      "subtitle": "2026-10-05 · UNESCO",
+      "fullText": "New UNESCO data highlights the additional teachers needed for universal access to pre-primary and school education, alongside working conditions."
+    }
+  },
+  {
+    "id": "news:7",
+    "published_at": "2026-10-05",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/youth-dialogue-mental-health-and-well-being-education",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Голос молодёжи в разговоре о психологическом благополучии",
+      "subtitle": "2026-10-05 · UNESCO",
+      "fullText": "UNESCO посвятила молодёжный диалог психическому здоровью и благополучию в образовании."
+    },
+    "KZ": {
+      "title": "Жастар білімдегі психологиялық саулықты талқылады",
+      "subtitle": "2026-10-05 · UNESCO",
+      "fullText": "UNESCO жастар диалогын білім берудегі психикалық денсаулық пен әл-ауқатқа арнады."
+    },
+    "EN": {
+      "title": "Youth dialogue on wellbeing in education",
+      "subtitle": "2026-10-05 · UNESCO",
+      "fullText": "UNESCO’s youth dialogue focuses on mental health and wellbeing in education."
+    }
+  },
+  {
+    "id": "news:8",
+    "published_at": "2026-10-05",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/unesco-supports-education-recovery-and-resilience-syria",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Восстановление образования в Сирии",
+      "subtitle": "2026-10-05 · UNESCO",
+      "fullText": "UNESCO сообщает о поддержке восстановления системы образования и укреплении её устойчивости в Сирии."
+    },
+    "KZ": {
+      "title": "Сириядағы білім беру жүйесін қалпына келтіру",
+      "subtitle": "2026-10-05 · UNESCO",
+      "fullText": "UNESCO Сириядағы білім беру жүйесін қалпына келтіру мен орнықтылығын қолдау туралы хабарлайды."
+    },
+    "EN": {
+      "title": "Supporting education recovery in Syria",
+      "subtitle": "2026-10-05 · UNESCO",
+      "fullText": "UNESCO reports on support for education recovery and resilience in Syria."
+    }
+  },
+  {
+    "id": "news:9",
+    "published_at": "2026-10-02",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.iesalc.unesco.org/en/articles/heilab-new-platform-resources-projects-and-innovation-higher-education",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "HEILab: новая платформа для развития высшего образования",
+      "subtitle": "2026-10-02 · UNESCO",
+      "fullText": "UNESCO IESALC представил площадку с ресурсами, проектами и инновациями для высшего образования."
+    },
+    "KZ": {
+      "title": "HEILab: жоғары білімге арналған жаңа платформа",
+      "subtitle": "2026-10-02 · UNESCO",
+      "fullText": "UNESCO IESALC жоғары білім ресурстарын, жобаларын және инновацияларын біріктіретін алаңды ұсынды."
+    },
+    "EN": {
+      "title": "HEILab brings higher education resources together",
+      "subtitle": "2026-10-02 · UNESCO",
+      "fullText": "UNESCO IESALC introduced a platform for higher education resources, projects and innovation."
+    }
+  },
+  {
+    "id": "news:10",
+    "published_at": "2026-10-01",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/maldives-moves-towards-establishing-national-information-centre-recognition-qualifications",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Мальдивы готовят центр признания квалификаций",
+      "subtitle": "2026-10-01 · UNESCO",
+      "fullText": "Работа над национальным информационным центром направлена на поддержку признания образовательных квалификаций."
+    },
+    "KZ": {
+      "title": "Мальдивте біліктілікті тану орталығы әзірленуде",
+      "subtitle": "2026-10-01 · UNESCO",
+      "fullText": "Ұлттық ақпараттық орталық құру жұмысы білім біліктіліктерін тануды қолдауға бағытталған."
+    },
+    "EN": {
+      "title": "Maldives advances qualifications recognition centre",
+      "subtitle": "2026-10-01 · UNESCO",
+      "fullText": "Work towards a national information centre aims to support recognition of educational qualifications."
+    }
+  },
+  {
+    "id": "news:11",
+    "published_at": "2026-10-01",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/ethiopia-concludes-unesco-huawei-project-advance-technology-enabled-secondary-education",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Эфиопия завершила проект цифровой поддержки школьного образования",
+      "subtitle": "2026-10-01 · UNESCO",
+      "fullText": "UNESCO сообщила о завершении совместного с Huawei проекта по использованию технологий в среднем образовании."
+    },
+    "KZ": {
+      "title": "Эфиопиядағы цифрлық білім жобасы аяқталды",
+      "subtitle": "2026-10-01 · UNESCO",
+      "fullText": "UNESCO Huawei-мен бірге орта білімде технология қолдануға арналған жобаның аяқталғанын хабарлады."
+    },
+    "EN": {
+      "title": "Ethiopia concludes technology-enabled education project",
+      "subtitle": "2026-10-01 · UNESCO",
+      "fullText": "UNESCO reports the conclusion of a joint project with Huawei supporting technology-enabled secondary education."
+    }
+  },
+  {
+    "id": "news:12",
+    "published_at": "2026-09-30",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/china-southeast-asia-programme-strengthens-teacher-capacity-ai-and-stem-education-rural-communities",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "ИИ и STEM: поддержка учителей в сельских сообществах",
+      "subtitle": "2026-09-30 · UNESCO",
+      "fullText": "Программа Китая и Юго-Восточной Азии развивает навыки педагогов для преподавания ИИ и STEM в сельских районах."
+    },
+    "KZ": {
+      "title": "Ауыл мұғалімдеріне ЖИ және STEM қолдауы",
+      "subtitle": "2026-09-30 · UNESCO",
+      "fullText": "Қытай мен Оңтүстік-Шығыс Азия бағдарламасы ауыл педагогтерінің ЖИ және STEM оқыту дағдыларын дамытады."
+    },
+    "EN": {
+      "title": "AI and STEM support for rural teachers",
+      "subtitle": "2026-09-30 · UNESCO",
+      "fullText": "A China–Southeast Asia programme strengthens teacher capacity in AI and STEM education for rural communities."
+    }
+  },
+  {
+    "id": "news:13",
+    "published_at": "2026-09-29",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.iesalc.unesco.org/en/articles/new-study-warns-latin-america-has-democratised-higher-education-has-made-teaching-conditions-more",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Доступность вузов растёт — условия работы преподавателей требуют внимания",
+      "subtitle": "2026-09-29 · UNESCO",
+      "fullText": "Исследование UNESCO IESALC рассматривает расширение высшего образования в Латинской Америке вместе с нестабильностью занятости преподавателей."
+    },
+    "KZ": {
+      "title": "Жоғары білім қолжетімділігі және оқытушылар жағдайы",
+      "subtitle": "2026-09-29 · UNESCO",
+      "fullText": "UNESCO IESALC зерттеуі Латын Америкасындағы жоғары білімнің кеңеюін және оқытушылар жұмысының тұрақсыздығын қарастырады."
+    },
+    "EN": {
+      "title": "Higher education access grows, teaching conditions face pressure",
+      "subtitle": "2026-09-29 · UNESCO",
+      "fullText": "A UNESCO IESALC study examines wider higher education access in Latin America alongside increasingly precarious teaching conditions."
+    }
+  },
+  {
+    "id": "news:14",
+    "published_at": "2026-09-29",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.iesalc.unesco.org/en/articles/course-now-open-design-and-quality-micro-credentials-latin-america-and-caribbean",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Курс о разработке и качестве микроквалификаций",
+      "subtitle": "2026-09-29 · UNESCO",
+      "fullText": "UNESCO IESALC объявил курс по микроквалификациям для Латинской Америки и Карибского бассейна. Актуальные условия участия — у организатора."
+    },
+    "KZ": {
+      "title": "Микробіліктілік сапасы туралы курс",
+      "subtitle": "2026-09-29 · UNESCO",
+      "fullText": "UNESCO IESALC Латын Америкасы мен Кариб өңіріне арналған микробіліктілік курсын жариялады. Қатысу шарттарын ұйымдастырушыдан тексеріңіз."
+    },
+    "EN": {
+      "title": "Course on micro-credential design and quality",
+      "subtitle": "2026-09-29 · UNESCO",
+      "fullText": "UNESCO IESALC announced a course for Latin America and the Caribbean. Check the organiser’s page for current participation details."
+    }
+  },
+  {
+    "id": "news:15",
+    "published_at": "2026-09-28",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/observatory-artificial-intelligence-education-latin-america-and-caribbean-holds-first-meeting-member",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Первая встреча обсерватории ИИ в образовании",
+      "subtitle": "2026-09-28 · UNESCO",
+      "fullText": "Страны Латинской Америки и Карибского бассейна начали совместную работу в рамках обсерватории искусственного интеллекта в образовании."
+    },
+    "KZ": {
+      "title": "Білімдегі ЖИ обсерваториясының алғашқы кездесуі",
+      "subtitle": "2026-09-28 · UNESCO",
+      "fullText": "Латын Америкасы мен Кариб елдері білімдегі жасанды интеллект обсерваториясы аясында бірлескен жұмысты бастады."
+    },
+    "EN": {
+      "title": "Education AI observatory holds first meeting",
+      "subtitle": "2026-09-28 · UNESCO",
+      "fullText": "Members of the Latin America and Caribbean education AI observatory held their first meeting."
+    }
+  },
+  {
+    "id": "news:16",
+    "published_at": "2026-09-25",
+    "region": "world",
+    "source": "UNESCO",
+    "source_url": "https://www.unesco.org/en/articles/unesco-opens-third-edition-its-course-digital-citizenship-and-artificial-intelligence-now-also",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Цифровое гражданство и ИИ: третий запуск курса UNESCO",
+      "subtitle": "2026-09-25 · UNESCO",
+      "fullText": "UNESCO объявила новую редакцию курса, теперь также на португальском языке. Сроки и доступность обучения уточняйте на странице курса."
+    },
+    "KZ": {
+      "title": "Цифрлық азаматтық және ЖИ: UNESCO курсы",
+      "subtitle": "2026-09-25 · UNESCO",
+      "fullText": "UNESCO курстың үшінші шығарылымын жариялады, енді португал тілінде де қолжетімді. Мерзімін курс бетінен тексеріңіз."
+    },
+    "EN": {
+      "title": "UNESCO launches third digital citizenship and AI course",
+      "subtitle": "2026-09-25 · UNESCO",
+      "fullText": "The course now also includes Portuguese. Check the course page for current dates and availability."
+    }
+  },
+  {
+    "id": "news:17",
+    "published_at": "2026",
+    "region": "kz",
+    "source": "gov.kz",
+    "source_url": "https://www.gov.kz/org/sci/press/news/details/1270585?lang=ru",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Итоги конкурса государственных грантов на 2026/27 год",
+      "subtitle": "2026 · gov.kz",
+      "fullText": "Министерство опубликовало результаты конкурса: более 75 тысяч абитуриентов получили возможность бесплатного обучения. Это итоги завершённого приёма, а не открытый конкурс."
+    },
+    "KZ": {
+      "title": "2026/27 жылғы мемлекеттік гранттар қорытындысы",
+      "subtitle": "2026 · gov.kz",
+      "fullText": "Министрлік конкурс нәтижелерін жариялады: 75 мыңнан астам талапкер тегін оқу мүмкіндігін алды. Бұл аяқталған қабылдаудың қорытындысы."
+    },
+    "EN": {
+      "title": "State grant results for 2026/27",
+      "subtitle": "2026 · gov.kz",
+      "fullText": "The ministry published the results, providing over 75,000 applicants with free study opportunities. This reports a completed admissions round."
+    }
+  },
+  {
+    "id": "news:18",
+    "published_at": "2026",
+    "region": "kz",
+    "source": "gov.kz",
+    "source_url": "https://www.gov.kz/org/sci/press/news/details/1270978?lang=ru",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Вузы Казахстана выделили свыше 2 000 собственных грантов",
+      "subtitle": "2026 · gov.kz",
+      "fullText": "Министерство сообщило о дополнительных грантах университетов на 2026/27 учебный год. Условия и оставшиеся возможности необходимо уточнять в конкретном вузе."
+    },
+    "KZ": {
+      "title": "Қазақстан ЖОО-лары 2 000-нан астам грант бөлді",
+      "subtitle": "2026 · gov.kz",
+      "fullText": "Министрлік 2026/27 оқу жылына университеттердің қосымша гранттары туралы хабарлады. Қазіргі мүмкіндіктерді ЖОО-дан нақтылаңыз."
+    },
+    "EN": {
+      "title": "Kazakhstan universities allocate over 2,000 grants",
+      "subtitle": "2026 · gov.kz",
+      "fullText": "The ministry reported additional university grants for 2026/27. Check individual universities for current availability and conditions."
+    }
+  },
+  {
+    "id": "news:19",
+    "published_at": "2026-08-10",
+    "region": "kz",
+    "source": "gov.kz",
+    "source_url": "https://www.gov.kz/memleket/entities/almobl-bilim/documents/details/1052682?lang=ru",
+    "checked_at": "2026-10-14",
+    "RU": {
+      "title": "Архив: образовательные гранты Алматинской области",
+      "subtitle": "2026-08-10 · gov.kz",
+      "fullText": "Область объявляла 35 грантов: 17 для интернатуры и 18 для бакалавриата. Приём заявок 17–19 августа завершён; материал оставлен как справка о региональной поддержке."
+    },
+    "KZ": {
+      "title": "Мұрағат: Алматы облысының білім гранттары",
+      "subtitle": "2026-08-10 · gov.kz",
+      "fullText": "Облыс интернатураға 17 және бакалавриатқа 18 грант жариялаған. 17–19 тамыздағы өтінім қабылдау аяқталған; материал анықтама ретінде берілген."
+    },
+    "EN": {
+      "title": "Archive: Almaty region education grants",
+      "subtitle": "2026-08-10 · gov.kz",
+      "fullText": "The region announced 35 grants: 17 for internships and 18 for bachelor studies. Applications closed on 19 August; this is archived reference information."
+    }
+  }
+]
